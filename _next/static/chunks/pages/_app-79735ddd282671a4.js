@@ -18024,14 +18024,14 @@
                         right: ["Web & Mobile apps", "SaaS product design", "Design systems", "Interaction design"]
                     }
                 }, {
-                    name: 'develop<br class="hidden sm:block" />ment',
+                    name: 'development',
                     description: "In this design jungle, we don't just roar concepts; we bring them to life with practicality, emphasizing micro animations and interactions.",
                     lists: {
                         left: ["React JS", "Next JS", "Node JS", "Angular JS", "WordPress", "Magento", "Shopify", "Laravel", "PHP"],
                         right: ["HTML5 & CSS3", "LESS & SASS", "Bootstrap", "Tailwind", "Foundation", "Javascript", "jQuery"]
                     }
                 }, {
-                    name: 'brand<br class="hidden sm:block" />ing',
+                    name: 'branding',
                     description: "Our goal is your brand's wild influence. Exclusive logos, mockups, and corporate identities make your unique value stand out.",
                     lists: {
                         left: ["Visual identity", "Branding strategy", "Mockups"],
