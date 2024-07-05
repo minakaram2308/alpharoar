@@ -4334,12 +4334,12 @@ footer .tr__only__mobile {
 
 .tr__team__members {
     position: relative;
-    padding-left: 2rem
+    /* padding-left: 2rem */
 }
 
 @media (min-width:540px) {
     .tr__team__members {
-        padding-left: 0
+        /* padding-left: 0 */
     }
 }
 
@@ -4442,7 +4442,7 @@ footer .tr__only__mobile {
 
 @media (min-width:1536px) {
     .tr__team__member__slide {
-        width: calc(50vw - 3rem)
+        width: calc(25vw - 3rem)
     }
 }
 
@@ -4478,7 +4478,8 @@ footer .tr__only__mobile {
     display: inline-block;
     height: 70vw;
     width: 100%;
-    overflow: hidden
+    overflow: hidden;
+    opacity: 0.3;
 }
 
 @media (min-width:1080px) {
@@ -9399,7 +9400,8 @@ footer>.tr__footer__wrapper>.tr__work__single__image__with__title h2 {
 
 .tr__masking__primary,
 .tr__masking__wrapper {
-    position: relative
+    position: relative;
+    /* height: 100vh; */
 }
 
 .tr__masking__primary h3 {
@@ -9460,7 +9462,7 @@ footer>.tr__footer__wrapper>.tr__work__single__image__with__title h2 {
 
 .tr__masking__secondary img {
     min-width: 100%;
-    will-change: auto
+    will-change: auto;
 }
 
 @media (max-width:1024px) {
@@ -12669,6 +12671,6 @@ footer a {
     font-size: 1.2rem !important;
 }
 
-.tr__home__clients__says, .tr__awards, .tr__expertise, .tr__jungle{
+.tr__home__clients__says, .tr__awards, .tr__expertise, .tr__jungle, .tr__contact__forms{
     display: none;
 }

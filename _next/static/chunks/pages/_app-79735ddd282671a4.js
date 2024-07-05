@@ -16157,7 +16157,7 @@
                                 sectionDesc: "",
                                 buttonType: "link",
                                 buttonTitle: "Let's talk!",
-                                buttonAction: "/contact",
+                                buttonAction: "https://cal.com/mina-karam",
                                 buttonCustomClass: "mb-0 tr__button__filled",
                                 handleRouterClick: th
                             }), (0, tn.jsx)("div", {
@@ -16165,7 +16165,7 @@
                                 children: (0, tn.jsx)(eF.Z, {
                                     buttonType: "link",
                                     buttonTitle: "Let's talk!",
-                                    buttonAction: "/contact",
+                                    buttonAction: "https://cal.com/mina-karam",
                                     buttonCustomClass: "float-none inline-block m-auto tr__button__filled"
                                 })
                             }), (0, tn.jsxs)("div", {
@@ -18055,7 +18055,7 @@
                     description: '<span class="tr__fadeUp">Reviews </span><span class="tr__fadeUp">Website optimisation </span><span class="tr__fadeUp">3rd Party Evaluation </span><span class="tr__fadeUp">Server performance </span><span class="tr__fadeUp">Improvement</span>'
                 }],
                 tP = [{
-                    name: "Sunny Rathod",
+                    name: "Mina Makram Karam",
                     position: "Founder & CEO",
                     photo: "/assets/images/team/sunny_rathod.webp",
                     description: "Design is really more than what the eyes can see. It&#x27;s an emotion, a feeling, a dream.",
@@ -18065,83 +18065,15 @@
                         url: "https://www.linkedin.com/in/sunnyrathod/"
                     }]
                 }, {
-                    name: "Prabhatsinh Maka",
-                    position: "Project Manager",
+                    name: "Nader Maher",
+                    position: "Founder & CEO",
                     photo: "/assets/images/team/prabhatsinh_maka.webp",
                     description: "",
-                    contact: []
-                }, {
-                    name: "Gaurav Joshi",
-                    position: "Project Manager",
-                    photo: "/assets/images/team/gaurav_joshi.webp",
-                    description: "",
-                    contact: []
-                }, {
-                    name: "Viral Maru",
-                    position: "Sr. Developer",
-                    photo: "/assets/images/team/viral_maru.webp",
-                    description: "",
-                    contact: []
-                }, {
-                    name: "Bhagirathsinh Jadeja",
-                    position: "Sr. Designer",
-                    photo: "/assets/images/team/bhagirathsinh_jadeja.webp",
-                    description: "",
-                    contact: []
-                }, {
-                    name: "Rushi Vasani",
-                    position: "Project Manager",
-                    photo: "/assets/images/team/rushi_vasani.webp",
-                    description: "",
-                    contact: []
-                }, {
-                    name: "Ayaz Kadri",
-                    position: "Sr. Designer",
-                    photo: "/assets/images/team/ayaz_kadri.webp",
-                    description: "",
-                    contact: []
-                }, {
-                    name: "Umang Vaghamshi",
-                    position: "Sr. Developer",
-                    photo: "/assets/images/team/umang_vaghamshi.webp",
-                    description: "",
-                    contact: []
-                }, {
-                    name: "Nilesh Gujarati",
-                    position: "Designer",
-                    photo: "/assets/images/team/nilesh_gujarati.webp",
-                    description: "",
-                    contact: []
-                }, {
-                    name: "Vaishnavi Kacha",
-                    position: "Designer",
-                    photo: "/assets/images/team/vaishnavi_kacha.webp",
-                    description: "",
-                    contact: []
-                }, {
-                    name: "Dhaval Bhadukiya",
-                    position: "Sr. Designer",
-                    photo: "/assets/images/team/dhaval_bhadukiya.webp",
-                    description: "",
-                    contact: []
-                }, {
-                    name: "Dhruv Solanki",
-                    position: "Developer",
-                    photo: "/assets/images/team/dhruv_solanki.webp",
-                    description: "",
-                    contact: []
-                }, {
-                    name: "Rahul Solanki",
-                    position: "Developer",
-                    photo: "/assets/images/team/rahul_solanki.webp",
-                    description: "",
-                    contact: []
-                }, {
-                    name: "Sandip Rathod",
-                    position: "Developer",
-                    photo: "/assets/images/team/sandip_rathod.webp",
-                    description: "",
-                    contact: []
+                    contact: [{
+                        name: "Linkedin",
+                        icon: "/assets/images/socials/linkedin.svg",
+                        url: "https://www.linkedin.com/in/sunnyrathod/"
+                    }]
                 }],
                 tR = [{
                     name: "Angular",
