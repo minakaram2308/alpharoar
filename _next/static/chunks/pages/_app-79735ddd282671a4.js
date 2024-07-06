@@ -17787,6 +17787,30 @@
                     name: "upwork",
                     logo: "/assets/images/reviews/10.jpg",
                     logoLight: "/assets/images/reviews/10.jpg"
+                },{
+                    name: "upwork",
+                    logo: "/assets/images/reviews/11.jpg",
+                    logoLight: "/assets/images/reviews/11.jpg"
+                },{
+                    name: "upwork",
+                    logo: "/assets/images/reviews/12.jpg",
+                    logoLight: "/assets/images/reviews/12.jpg"
+                },{
+                    name: "upwork",
+                    logo: "/assets/images/reviews/13.jpg",
+                    logoLight: "/assets/images/reviews/13.jpg"
+                },{
+                    name: "upwork",
+                    logo: "/assets/images/reviews/14.jpg",
+                    logoLight: "/assets/images/reviews/14.jpg"
+                },{
+                    name: "upwork",
+                    logo: "/assets/images/reviews/15.jpg",
+                    logoLight: "/assets/images/reviews/15.jpg"
+                },{
+                    name: "upwork",
+                    logo: "/assets/images/reviews/16.jpg",
+                    logoLight: "/assets/images/reviews/16.jpg"
                 }
             
             ],

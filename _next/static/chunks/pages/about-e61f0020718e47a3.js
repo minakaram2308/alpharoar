@@ -814,7 +814,7 @@
                             className: "tr__container tr__about__content",
                             children: (0, s.jsx)(N.Z, {
                                 type: "h2",
-                                content: 'AlphaRoar<sup>\xae</sup> has a roaring 20+ years history <br class="hidden sm:block" /> of empowering companies in the <br class="hidden sm:block" />corporate jungle.',
+                                content: 'AlphaRoar<sup>\xae</sup> has a roaring 10+ years history <br class="hidden sm:block" /> of empowering companies in the <br class="hidden sm:block" />corporate jungle.',
                                 customClass: "tr__heading__animation"
                             })
                         }), (0, s.jsx)(Z.Z, {
@@ -835,19 +835,7 @@
                                     customClass: "tr__heading__animation mb-10"
                                 }), (0, s.jsxs)("div", {
                                     className: "tr__home__about__about__page__wrapper",
-                                    children: [(0, s.jsx)("div", {
-                                        className: "tr__home__about__about__page__wrapper__left",
-                                        children: (0, s.jsx)("div", {
-                                            className: "tr__fadeUp inline-block",
-                                            children: (0, s.jsx)(d.Z, {
-                                                buttonType: "link",
-                                                buttonTitle: "AlphaRoar\xae name story",
-                                                buttonAction: "/namestory",
-                                                buttonCustomClass: "",
-                                                handleRouterClick: o
-                                            })
-                                        })
-                                    }), (0, s.jsxs)("div", {
+                                    children: [(0, s.jsxs)("div", {
                                         className: "tr__home__about__about__page__wrapper__right",
                                         children: [(0, s.jsx)("p", {
                                             className: "tr__fadeUp",

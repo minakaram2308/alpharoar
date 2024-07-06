@@ -793,7 +793,7 @@
                                 }), (0, l.jsx)("div", {
                                     className: "tr__fadeUp h-8",
                                     children: (0, l.jsx)(h.Z, {
-                                        customClass: "my-12 sm:my-8 sm:mt-20"
+                                        customClass: "my-12 sm:my-8"
                                     })
                                 }), (0, l.jsxs)("div", {
                                     className: "tr__contact__wrapper tr__fadeUp",

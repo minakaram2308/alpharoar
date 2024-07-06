@@ -2244,6 +2244,10 @@ header .tr__nav__humburger.tr__close span:nth-child(2) {
 }
 
 @media (max-width:768px) {
+    .tr__client {
+        min-width: 40rem !important;
+    }
+
     .tr__banner__content p {
         max-width: 350px;
         margin-left: auto;
@@ -3777,18 +3781,19 @@ footer .tr__only__mobile {
     .tr__client,
     .tr__clients__row,
     .tr__clients__wrapper {
-        height: 50vw;
-        max-height: 250px
+        height: auto;
+        max-height: auto
     }
 
     .tr__client {
-        width: 50vw;
-        max-width: 280px;
-        min-width: 280px
+        width: 40vw;
+        height: auto;
     }
 
     .tr__client img {
-        max-width: 45%
+        width: 100%;
+        max-width: 100%;
+        height: 100%;
     }
 }
 
@@ -3809,8 +3814,7 @@ footer .tr__only__mobile {
     }
 
     .tr__client {
-        width: 30rem;
-        /* min-width: 20rem; */
+        width: 27rem;
         max-width: inherit
     }
 }
@@ -12671,6 +12675,10 @@ footer a {
     font-size: 1.2rem !important;
 }
 
-.tr__home__clients__says, .tr__awards, .tr__expertise, .tr__jungle, .tr__contact__forms{
+.tr__home__clients__says,
+.tr__awards,
+.tr__expertise,
+.tr__jungle,
+.tr__contact__forms {
     display: none;
 }
