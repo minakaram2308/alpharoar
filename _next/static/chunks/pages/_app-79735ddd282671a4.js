@@ -18264,11 +18264,11 @@
                 }],
                 tO = [{
                     id: 1,
-                    title: "loftloom",
-                    slug: "loftloom",
+                    title: "mohami",
+                    slug: "mohami",
                     category: "website",
-                    image: "/assets/images/works/loftloom/loftloom-main.webp",
-                    imageLandscape: "/assets/images/works/loftloom/loftloom-main-landscape.webp",
+                    image: "/assets/images/work/muhami/1.png",
+                    imageLandscape: "/assets/images/work/muhami/1s.png",
                     imageWidth: 1760,
                     imageHeight: 1160,
                     boxsize: 2,
@@ -18279,20 +18279,20 @@
                     year: "2022-2023",
                     displayHome: !0,
                     sections: [{
-                        name: "banner-image",
+                        name: "single-image",
                         title: "",
                         dataType: "image",
                         background: "#5B5956",
                         backgroundLight: "#5B5956",
-                        sourceURL: "/assets/images/works/loftloom/loftloom-banner.webp",
-                        sourceURLLight: "/assets/images/works/loftloom/loftloom-banner-light.webp",
+                        sourceURL: "/assets/images/work/muhami/1.png",
+                        sourceURLLight: "/assets/images/work/muhami/1.png",
                         imageWidth: 2880,
                         imageHeight: 2696,
                         layout: "full",
                         animation: !1,
                         animationSpeed: 0,
                         customClass: "items-start",
-                        wrapperCustomClass: "items-start"
+                        wrapperCustomClass: "items-start h-full"
                     }, {
                         name: "details",
                         title: "About project",
@@ -18307,8 +18307,8 @@
                         dataType: "image",
                         background: "#30302F",
                         backgroundLight: "#DBDFDF",
-                        sourceURL: "/assets/images/works/loftloom/loftloom-desktopscreen1.webp",
-                        sourceURLLight: "/assets/images/works/loftloom/loftloom-desktopscreen1.webp",
+                        sourceURL: "/assets/images/work/muhami/2.png",
+                        sourceURLLight: "/assets/images/work/muhami/2.png",
                         imageWidth: 2480,
                         imageHeight: 1240,
                         layout: "boxy",
@@ -18329,8 +18329,8 @@
                         dataType: "image",
                         background: "#5B5956",
                         backgroundLight: "#DBDFDF",
-                        sourceURL: "/assets/images/works/loftloom/loftloom-desktopscreen2.webp",
-                        sourceURLLight: "/assets/images/works/loftloom/loftloom-desktopscreen2.webp",
+                        sourceURL: "/assets/images/work/muhami/3.png",
+                        sourceURLLight: "/assets/images/work/muhami/3.png",
                         imageWidth: 1806,
                         imageHeight: 1304,
                         layout: "boxy",
@@ -18348,7 +18348,7 @@
                         layout: "boxy",
                         wrapperCustomClass: "tr__container h-full",
                         layoutData: [{
-                            imageURL: "/assets/images/works/loftloom/loftloom-desktopscreen3.webp",
+                            imageURL: "/assets/images/work/muhami/4.png",
                             imageWidth: 2080,
                             imageHeight: 2996,
                             animation: !1,
@@ -18365,8 +18365,8 @@
                         dataType: "image",
                         background: "#5B5956",
                         backgroundLight: "#DBDFDF",
-                        sourceURL: "/assets/images/works/loftloom/loftloom-desktopscreen4.webp",
-                        sourceURLLight: "/assets/images/works/loftloom/loftloom-desktopscreen4.webp",
+                        sourceURL: "/assets/images/work/muhami/1a.png",
+                        sourceURLLight: "/assets/images/work/muhami/1a.png",
                         imageWidth: 2160,
                         imageHeight: 1432,
                         layout: "boxy",
@@ -18380,8 +18380,8 @@
                         dataType: "image",
                         background: "#30302F",
                         backgroundLight: "#DBDFDF",
-                        sourceURL: "/assets/images/works/loftloom/loftloom-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/loftloom/loftloom-fullimage1.webp",
+                        sourceURL: "/assets/images/work/muhami/2a.png",
+                        sourceURLLight: "/assets/images/work/muhami/2a.png",
                         imageWidth: 2480,
                         imageHeight: 966,
                         layout: "full",
@@ -18762,78 +18762,7 @@
                     client: "Technis",
                     year: "2022-2023",
                     displayHome: !0,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#005AEE",
-                        backgroundLight: "#BED4F2",
-                        sourceURL: "/assets/images/works/technis/technis-banner.webp",
-                        sourceURLLight: "/assets/images/works/technis/technis-banner-light.webp",
-                        imageWidth: 2880,
-                        imageHeight: 3852,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Technis become a leading provider of data acquisition solutions for building management.</h4><p class="tr__fadeUpOneByOne__always">With a focus on UX improvement, we conducted meticulous research, leading to enhanced user experience. Our team then crafted visual mockups for all pages, utilizing our design system, and produced prototypes and custom wordpress development.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !0
-                    }, {
-                        name: "web-image",
-                        title: "",
-                        background: "#005AEE",
-                        backgroundLight: "#A5C3EE",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/technis/technis-desktopscreen1.webp",
-                            imageWidth: 1440,
-                            imageHeight: 3530,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/technis/technis-desktopscreen2.webp",
-                            imageWidth: 1440,
-                            imageHeight: 4166,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per h-full max-w-none shadow-2xl"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">Engaging in the Technis project was nothing short of an extraordinary adventure for our team. Taking on the challenge of market research, strategic planning, development, and unleashing our creativity in crafting compelling visuals was truly invigorating. Throughout the extensive collaborative journey</p><p class="tr__fadeUpOneByOne__always">AlphaRoar explored numerous design concepts, leading to an unforgettable and exceptional design and development for both the mobile and desktop view. And as if that wasn\'t enough, we proudly built the entire website from the ground up, adding another feather to our cap.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/technis/technis-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/technis/technis-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 2050,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center item-center lg:items-start h-full",
-                        wrapperCustomClass: "items-center lg:items-start"
-                    }, {
+                    sections: [  {
                         name: "web-image",
                         title: 'Remarkable UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
                         background: "#D9DEE5",
@@ -18843,41 +18772,119 @@
                         layout: "boxy",
                         wrapperCustomClass: "tr__container h-screen150",
                         layoutData: [{
-                            imageURL: "/assets/images/works/technis/technis-desktopscreen3.webp",
-                            imageWidth: 1270,
-                            imageHeight: 3124,
+                            imageURL: "/assets/images/work/muhami/1.png",
                             animation: !1,
                             animationSpeed: 0,
                             customClass: "flex justify-start items-start w-8/12 h-full z-1",
                             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
                         }, {
-                            imageURL: "/assets/images/works/technis/technis-desktopscreen4.webp",
-                            imageWidth: 1270,
-                            imageHeight: 2976,
+                            imageURL: "/assets/images/work/muhami/1a.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                        }, {
+                            imageURL: "/assets/images/work/muhami/2a.png",
                             animation: !1,
                             animationSpeed: 0,
                             customClass: "flex justify-end items-start w-8/12 h-full z-0",
                             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
                         }]
-                    }, {
+                    },, {
+                        name: "details",
+                        title: "About project",
+                        description: '<h4 class="tr__fadeUpOneByOne__always">Technis become a leading provider of data acquisition solutions for building management.</h4><p class="tr__fadeUpOneByOne__always">With a focus on UX improvement, we conducted meticulous research, leading to enhanced user experience. Our team then crafted visual mockups for all pages, utilizing our design system, and produced prototypes and custom wordpress development.</p>',
+                        sourceType: "image",
+                        sourceURL: "",
+                        customClass: "",
+                        action: !0
+                    },
+                    {
+                        name: "web-image",
+                        title: 'Remarkable2 UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                        background: "#D9DEE5",
+                        backgroundLight: "#D9DEE5",
+                        imageURL: "",
+                        imageURLLight: "",
+                        layout: "boxy",
+                        wrapperCustomClass: "tr__container h-screen150",
+                        layoutData: [{
+                            imageURL: "/assets/images/work/muhami/3.png",
+                            // imageWidth: 1270,
+                            // imageHeight: 3124,
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                        }, {
+                            imageURL: "/assets/images/work/muhami/3.png",
+                            // imageWidth: 1270,
+                            // imageHeight: 2976,
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                        }]
+                    },
+                    
+                    {
+                        name: "details",
+                        title: "Our Mission",
+                        description: '<p class="tr__fadeUpOneByOne__always">Engaging in the Technis project was nothing short of an extraordinary adventure for our team. Taking on the challenge of market research, strategic planning, development, and unleashing our creativity in crafting compelling visuals was truly invigorating. Throughout the extensive collaborative journey</p><p class="tr__fadeUpOneByOne__always">AlphaRoar explored numerous design concepts, leading to an unforgettable and exceptional design and development for both the mobile and desktop view. And as if that wasn\'t enough, we proudly built the entire website from the ground up, adding another feather to our cap.</p>',
+                        imageType: "image",
+                        image: "",
+                        action: !1
+                    }, 
+                    {
+                        name: "web-image",
+                        title: 'Remarkable3 UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                        background: "#D9DEE5",
+                        backgroundLight: "#D9DEE5",
+                        imageURL: "",
+                        imageURLLight: "",
+                        layout: "boxy",
+                        wrapperCustomClass: "tr__container h-screen150",
+                        layoutData: [{
+                            imageURL: "/assets/images/work/muhami/4.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                        }, {
+                            imageURL: "/assets/images/work/muhami/4a.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                        }]
+                    },
+                    
+                    {
                         name: "visual-quote",
                         text: "<span>intuitive </span><span>ux </span><span>prolongs </span><span>user stay. </span>"
-                    }, {
-                        name: "single-image",
-                        title: 'Discover the pinnacle of web outsourcing <br class="hidden sm:block" />with our custom solutions.',
-                        dataType: "image",
-                        background: "#262E3C",
-                        backgroundLight: "#E2E7E8",
-                        sourceURL: "/assets/images/works/technis/technis-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/technis/technis-fullimage1.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2512,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-start",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
+                    },   {
+                        name: "web-image",
+                        title: 'Remarkable4 UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                        background: "#D9DEE5",
+                        backgroundLight: "#D9DEE5",
+                        imageURL: "",
+                        imageURLLight: "",
+                        layout: "boxy",
+                        wrapperCustomClass: "tr__container h-screen150",
+                        layoutData: [{
+                            imageURL: "/assets/images/work/muhami/4.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                        }, {
+                            imageURL: "/assets/images/work/muhami/4a.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                        }]
+                    },]
                 }, {
                     id: 5,
                     title: "merit global",
