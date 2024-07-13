@@ -18265,7 +18265,7 @@
                 tO = [{
                     id: 1,
                     title: "mohami",
-                    slug: "mohami",
+                    slug: "technis.html",
                     category: "website",
                     image: "/assets/images/work/muhami/1.png",
                     imageLandscape: "/assets/images/work/muhami/1s.png",
@@ -18278,118 +18278,86 @@
                     client: "LoftLoom",
                     year: "2022-2023",
                     displayHome: !0,
-                    sections: [{
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#5B5956",
-                        backgroundLight: "#5B5956",
-                        sourceURL: "/assets/images/work/muhami/1.png",
-                        sourceURLLight: "/assets/images/work/muhami/1.png",
-                        imageWidth: 2880,
-                        imageHeight: 2696,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start h-full"
-                    }, {
+                    sections: [  {
+                        name: "web-image",
+                        // title: 'Remarkable UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                        background: "#D9DEE5",
+                        backgroundLight: "#D9DEE5",
+                        imageURL: "",
+                        imageURLLight: "",
+                        layout: "boxy",
+                        wrapperCustomClass: "tr__container h-screen150",
+                        layoutData: [{
+                            imageURL: "/assets/images/work/muhami/1.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                        }, {
+                            imageURL: "/assets/images/work/muhami/1a.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                        }]
+                    },, {
                         name: "details",
                         title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Elevate your home search with LoftLoom, the SaaS product designed for discovering tailored, exceptional living spaces.</h4><p class="tr__fadeUpOneByOne__always">We undertook meticulous UX research, improved the overall user experience, designed visual mockups for every page with our design system, and produced functional prototypes.</p>',
+                        description: '<h4 class="tr__fadeUpOneByOne__always">Technis become a leading provider of data acquisition solutions for building management.</h4><p class="tr__fadeUpOneByOne__always">With a focus on UX improvement, we conducted meticulous research, leading to enhanced user experience. Our team then crafted visual mockups for all pages, utilizing our design system, and produced prototypes and custom wordpress development.</p>',
                         sourceType: "image",
                         sourceURL: "",
                         customClass: "",
                         action: !0
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#30302F",
-                        backgroundLight: "#DBDFDF",
-                        sourceURL: "/assets/images/work/muhami/2.png",
-                        sourceURLLight: "/assets/images/work/muhami/2.png",
-                        imageWidth: 2480,
-                        imageHeight: 1240,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-start mt-10 sm:mt-20 lg:mt-40 mb-10",
-                        wrapperCustomClass: "items-start h-full"
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">Participation in the LoftLoom project was a remarkable adventure for us, involving an ambitious and expansive endeavor. Our team played a crucial role in conducting extensive market research, formulating strategic plans, and spearheading the development process.</p><p class="tr__fadeUpOneByOne__always">Additionally, we unleashed our creative prowess to deliver visually stunning elements. Collaboratively, we explored various design concepts, resulting in an outstanding and memorable mobile and desktop experience. Moreover, we proudly constructed the website from the ground up, demonstrating our dedication and expertise.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#5B5956",
-                        backgroundLight: "#DBDFDF",
-                        sourceURL: "/assets/images/work/muhami/3.png",
-                        sourceURLLight: "/assets/images/work/muhami/3.png",
-                        imageWidth: 1806,
-                        imageHeight: 1304,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-start mt-10 sm:mt-20 lg:mt-40 mb-10",
-                        wrapperCustomClass: "items-start h-full"
-                    }, {
+                    },
+                    {
                         name: "web-image",
-                        title: 'Unparalleled UI/UX and visual <br class="hidden sm:block" />aesthetics for inner pages.',
-                        background: "#5B5956",
-                        backgroundLight: "#DBDFDF",
+                        title: 'Remarkable UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                        background: "#D9DEE5",
+                        backgroundLight: "#D9DEE5",
                         imageURL: "",
                         imageURLLight: "",
                         layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
+                        wrapperCustomClass: "tr__container h-screen150",
                         layoutData: [{
-                            imageURL: "/assets/images/work/muhami/4.png",
-                            imageWidth: 2080,
-                            imageHeight: 2996,
+                            imageURL: "/assets/images/work/muhami/2.png",
                             animation: !1,
                             animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-full h-full z-1",
-                            imageClass: "w-full max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                        }, {
+                            imageURL: "/assets/images/work/muhami/3.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
                         }]
-                    }, {
+                    },
+                    
+                    {
                         name: "visual-quote",
-                        text: "<span>creative </span><span>visuals </span><span>captivate </span><span>users. </span>"
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#5B5956",
-                        backgroundLight: "#DBDFDF",
-                        sourceURL: "/assets/images/work/muhami/1a.png",
-                        sourceURLLight: "/assets/images/work/muhami/1a.png",
-                        imageWidth: 2160,
-                        imageHeight: 1432,
+                        text: "<span>intuitive </span><span>ux </span><span>prolongs </span><span>user stay. </span>"
+                    },   {
+                        name: "web-image",
+                        background: "#D9DEE5",
+                        backgroundLight: "#D9DEE5",
+                        imageURL: "",
+                        imageURLLight: "",
                         layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-start mt-10 sm:mt-20 lg:mt-40 mb-10",
-                        wrapperCustomClass: "items-start h-full"
-                    }, {
-                        name: "single-image",
-                        title: 'Experience our top-tier custom web <br class="hidden sm:block" />outsourcing services.',
-                        dataType: "image",
-                        background: "#30302F",
-                        backgroundLight: "#DBDFDF",
-                        sourceURL: "/assets/images/work/muhami/2a.png",
-                        sourceURLLight: "/assets/images/work/muhami/2a.png",
-                        imageWidth: 2480,
-                        imageHeight: 966,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-start mb-20",
-                        wrapperCustomClass: "items-start h-full px-16"
-                    }]
+                        wrapperCustomClass: "tr__container h-screen150",
+                        layoutData: [{
+                            imageURL: "/assets/images/work/muhami/4.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                        }, {
+                            imageURL: "/assets/images/work/muhami/4a.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                        }]
+                    },]
                 }, {
                     id: 2,
                     title: "8octa",
@@ -18746,7 +18714,9 @@
                         customClass: "max-w-xl items-start mb-32 lg:mb-40",
                         wrapperCustomClass: "items-start h-full"
                     }]
-                }, {
+                },
+                
+                {
                     id: 4,
                     title: "technis",
                     slug: "technis",
@@ -18783,12 +18753,6 @@
                             animationSpeed: 0,
                             customClass: "flex justify-end items-start w-8/12 h-full z-0",
                             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/work/muhami/2a.png",
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
                         }]
                     },, {
                         name: "details",
@@ -18809,7 +18773,7 @@
                         layout: "boxy",
                         wrapperCustomClass: "tr__container h-screen150",
                         layoutData: [{
-                            imageURL: "/assets/images/work/muhami/3.png",
+                            imageURL: "/assets/images/work/muhami/2.png",
                             // imageWidth: 1270,
                             // imageHeight: 3124,
                             animation: !1,
