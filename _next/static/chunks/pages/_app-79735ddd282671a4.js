@@ -18262,7 +18262,9 @@
                     row: "row2",
                     logo: "/assets/images/events/14.webp"
                 }],
-                tO = [{
+                tO = [
+                 //mohami   
+                {
                     id: 1,
                     title: "mohami",
                     slug: "technis.html",
@@ -18358,383 +18360,177 @@
                             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
                         }]
                     },]
-                }, {
-                    id: 2,
-                    title: "8octa",
-                    slug: "8octa",
-                    category: "branding",
-                    image: "/assets/images/works/8octa/8octa-main.webp",
-                    imageLandscape: "/assets/images/works/8octa/8octa-main-landscape.webp",
-                    imageWidth: 800,
-                    imageHeight: 1200,
-                    boxsize: 1,
-                    customClass: "mt-12 sm:mt-24",
-                    description: "Research, Branding",
-                    url: "",
-                    client: "8Octa",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#0F00C2",
-                        backgroundLight: "#0F00C2",
-                        sourceURL: "/assets/images/works/8octa/8octa-banner.webp",
-                        sourceURLLight: "/assets/images/works/8octa/8octa-banner.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2800,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-center lg:mt-40",
-                        wrapperCustomClass: "items-center"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Empower your data-driven decisions with 8Octa\'s cutting-edge Statistical Data Analytics software.</h4><p class="tr__fadeUpOneByOne__always">As architects of the entire process, we spearheaded the development of a fresh corporate identity for the service, starting from scratch.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/8octa/8octa-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/8octa/8octa-thumbscreen1-light.webp",
-                        imageWidth: 2482,
-                        imageHeight: 2480,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-center lg:items-start mb-40 lg:mb-0 lg:mt-40",
-                        wrapperCustomClass: "items-center lg:items-start h-full"
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#0F00C2",
-                        backgroundLight: "#0F00C2",
-                        sourceURL: "/assets/images/works/8octa/8octa-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/8octa/8octa-fullimage1.webp",
-                        imageWidth: 2880,
-                        imageHeight: 4220,
-                        layout: "full",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-center lg:items-start",
-                        wrapperCustomClass: "items-center lg:items-start"
-                    }, {
-                        name: "grid-image",
-                        layout: "boxy",
-                        wrapperCustomClass: "",
-                        layoutGrid: [{
-                            background: "#000000",
-                            backgroundLight: "#000000",
-                            imageURL: "",
-                            gridWrapperCustomClass: "mb-20",
-                            gridData: [{
-                                imageURL: "/assets/images/works/8octa/8octa-thumbscreen2.webp",
-                                imageWidth: 2264,
-                                imageHeight: 1307,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "flex justify-center items-center",
-                                imageClass: ""
-                            }]
-                        }, {
-                            background: "#000000",
-                            backgroundLight: "#000000",
-                            imageURL: "",
-                            gridWrapperCustomClass: "mb-20",
-                            gridData: [{
-                                imageURL: "/assets/images/works/8octa/8octa-thumbscreen3.webp",
-                                imageWidth: 2080,
-                                imageHeight: 900,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "flex justify-center items-center",
-                                imageClass: ""
-                            }]
-                        }, {
-                            background: "#000000",
-                            backgroundLight: "#000000",
-                            imageURL: "",
-                            gridWrapperCustomClass: "",
-                            gridData: [{
-                                imageURL: "/assets/images/works/8octa/8octa-thumbscreen4.webp",
-                                imageWidth: 2032,
-                                imageHeight: 768,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "flex justify-center items-center",
-                                imageClass: ""
-                            }]
-                        }]
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/8octa/8octa-fullimage2.webp",
-                        sourceURLLight: "/assets/images/works/8octa/8octa-fullimage2.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2160,
-                        layout: "full",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-center lg:items-start",
-                        wrapperCustomClass: "items-center lg:items-start"
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>minimal </span><span>branding </span><span>makes </span><span>great </span><span>effort </span>"
-                    }, {
-                        name: "grid-image",
-                        layout: "boxy",
-                        wrapperCustomClass: "",
-                        layoutGrid: [{
-                            background: "",
-                            backgroundLight: "",
-                            imageURL: "",
-                            gridWrapperCustomClass: "p-0 mb-20",
-                            gridData: [{
-                                imageURL: "/assets/images/works/8octa/8octa-thumbscreen5.webp",
-                                imageWidth: 2480,
-                                imageHeight: 1860,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "flex justify-center items-center lg:items-start",
-                                imageClass: ""
-                            }]
-                        }, {
-                            background: "",
-                            backgroundLight: "",
-                            imageURL: "",
-                            gridWrapperCustomClass: "p-0 mb-20",
-                            gridData: [{
-                                imageURL: "/assets/images/works/8octa/8octa-thumbscreen6.webp",
-                                imageWidth: 2480,
-                                imageHeight: 1600,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "flex justify-center items-center lg:items-start",
-                                imageClass: ""
-                            }]
-                        }, {
-                            background: "",
-                            backgroundLight: "",
-                            imageURL: "",
-                            gridWrapperCustomClass: "p-0",
-                            gridData: [{
-                                imageURL: "/assets/images/works/8octa/8octa-thumbscreen7.webp",
-                                imageWidth: 2480,
-                                imageHeight: 1800,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "flex justify-center items-center lg:items-start",
-                                imageClass: ""
-                            }]
-                        }]
-                    }]
-                }, {
-                    id: 3,
-                    title: "imusic",
-                    slug: "imusic",
-                    category: "apps",
-                    image: "/assets/images/works/imusic/imusic-main.webp",
-                    imageLandscape: "/assets/images/works/imusic/imusic-main-landscape.webp",
-                    imageWidth: 1520,
-                    imageHeight: 1e3,
-                    boxsize: 0,
-                    customClass: "mt-12 sm:mt-0",
-                    description: "Research, UX, UI Design",
-                    url: "",
-                    client: "iMusic",
-                    year: "2022-2023",
-                    displayHome: !0,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "video",
-                        background: "#1E2034",
-                        backgroundLight: "#E4E8E9",
-                        sourceURL: "/assets/images/works/imusic/imusic.mp4",
-                        sourceURLLight: "/assets/images/works/imusic/imusic.mp4",
-                        imageWidth: 1920,
-                        imageHeight: 1080,
-                        layout: "boxy",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Discover, stream, and groove to your favorite tunes anytime, anywhere with iMusic, the ultimate online music companion.</h4><p class="tr__fadeUpOneByOne__always">Through meticulous UX research, we improved the user experience, developed mobile app visuals for all pages adhering to our design system, and generated interactive prototypes for comprehensive evaluation.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !1
-                    }, {
-                        name: "mobile-image",
-                        background: "#101120",
-                        backgroundLight: "#E3E8E8",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "py-32 sm:py-24 md:py-32",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/imusic/imusic-mobilescreen1.webp",
-                            imageWidth: 772,
-                            imageHeight: 1618,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "",
-                            imageClass: "w-full -mt-14 lg:mt-0"
-                        }, {
-                            imageURL: "/assets/images/works/imusic/imusic-mobilescreen2.webp",
-                            imageWidth: 772,
-                            imageHeight: 1616,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "",
-                            imageClass: "w-full"
-                        }, {
-                            imageURL: "/assets/images/works/imusic/imusic-mobilescreen3.webp",
-                            imageWidth: 776,
-                            imageHeight: 1616,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "",
-                            imageClass: "w-full mt-14 lg:mt-0 -mb-14 lg:mb-0"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">iMusic marked a significant milestone in our professional journey, as we immersed ourselves in this ambitious, large-scale project. Our contributions encompassed market research, strategy elaboration, and visual innovation, while AlphaRoar\'s expertise shone through in crafting an unforgettable mobile application design after exploring numerous design concepts.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !0
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#24263B",
-                        backgroundLight: "#E1E6E9",
-                        sourceURL: "/assets/images/works/imusic/imusic-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/imusic/imusic-thumbscreen1.webp",
-                        imageWidth: 2482,
-                        imageHeight: 3016,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-start mt-10 sm:mt-20 lg:mt-40",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>compeling </span><span>ux retains </span><span>users. </span>"
-                    }, {
-                        name: "grid-image",
-                        layout: "boxy",
-                        wrapperCustomClass: "",
-                        layoutGrid: [{
-                            background: "#6B6D8D",
-                            backgroundLight: "#E1E6E9",
-                            imageURL: "",
-                            gridWrapperCustomClass: "",
-                            gridData: [{
-                                imageURL: "/assets/images/works/imusic/imusic-mobilescreen4.webp",
-                                imageWidth: 794,
-                                imageHeight: 1653,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "pl-10",
-                                imageClass: ""
-                            }, {
-                                imageURL: "/assets/images/works/imusic/imusic-mobilescreen5.webp",
-                                imageWidth: 793,
-                                imageHeight: 1653,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "pr-10",
-                                imageClass: ""
-                            }]
-                        }]
-                    }, {
-                        name: "mobile-image",
-                        background: "#24263C",
-                        backgroundLight: "#E4E9EA",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "h-screen65w xl:h-screen125 overflow-hidden",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/imusic/imusic-mobilescreen6.webp",
-                            imageWidth: 776,
-                            imageHeight: 2070,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "",
-                            imageClass: "w-full -mt-24 lg:mt-0"
-                        }, {
-                            imageURL: "/assets/images/works/imusic/imusic-mobilescreen7.webp",
-                            imageWidth: 772,
-                            imageHeight: 3310,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "",
-                            imageClass: "w-full mt-24 lg:mt-0"
-                        }, {
-                            imageURL: "/assets/images/works/imusic/imusic-mobilescreen8.webp",
-                            imageWidth: 750,
-                            imageHeight: 1624,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "",
-                            imageClass: "w-full"
-                        }]
-                    }, {
-                        name: "single-image",
-                        title: 'Unlock the power of bespoke web <br class="hidden sm:block" />outsourcing services.',
-                        dataType: "image",
-                        background: "#3943A7",
-                        backgroundLight: "#DCE1EB",
-                        sourceURL: "/assets/images/works/imusic/imusic-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/imusic/imusic-fullimage1.webp",
-                        imageWidth: 1622,
-                        imageHeight: 1672,
-                        layout: "boxy",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "max-w-xl items-start mb-32 lg:mb-40",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
                 },
-                
+
+                //finz
                 {
-                    id: 4,
-                    title: "technis",
-                    slug: "technis",
+                    id: 2,
+                    title: "finz money",
+                    slug: "financr.html",
                     category: "website",
-                    image: "/assets/images/works/technis/technis-main.webp",
-                    imageLandscape: "/assets/images/works/technis/technis-main-landscape.webp",
-                    imageWidth: 2480,
-                    imageHeight: 1400,
+                    image: "/assets/images/work/finz/1.png",
+                    imageLandscape: "/assets/images/work/finz/1s.png",
+                    imageWidth: 1760,
+                    imageHeight: 1160,
                     boxsize: 2,
                     customClass: "flex justify-center w-full mt-12 sm:mt-12",
-                    description: "UX, UI Design, Development",
-                    url: "https://technis.com/",
-                    client: "Technis",
+                    description: "UI Design, UX, Wireframe",
+                    url: "https://www.finzmoney.com",
+                    client: "LoftLoom",
                     year: "2022-2023",
                     displayHome: !0,
                     sections: [  {
                         name: "web-image",
+                        // title: 'Remarkable UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                        background: "#D9DEE5",
+                        backgroundLight: "#D9DEE5",
+                        imageURL: "",
+                        imageURLLight: "",
+                        layout: "boxy",
+                        wrapperCustomClass: "tr__container h-screen150",
+                        layoutData: [{
+                            imageURL: "/assets/images/work/finz/1.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                        }, {
+                            imageURL: "/assets/images/work/finz/2.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                        }]
+                    },, {
+                        name: "details",
+                        title: "About project",
+                        description: '<h4 class="tr__fadeUpOneByOne__always">Technis become a leading provider of data acquisition solutions for building management.</h4><p class="tr__fadeUpOneByOne__always">With a focus on UX improvement, we conducted meticulous research, leading to enhanced user experience. Our team then crafted visual mockups for all pages, utilizing our design system, and produced prototypes and custom wordpress development.</p>',
+                        sourceType: "image",
+                        sourceURL: "",
+                        customClass: "",
+                        action: !0
+                    },
+                   ]
+                },
+
+                //bab rebh
+                {
+                    id: 3,
+                    title: "bab rebh",
+                    slug: "8octa.html",
+                    category: "website",
+                    image: "/assets/images/work/babrebh/1.jpg",
+                    imageLandscape: "/assets/images/work/babrebh/1s.jpg",
+                    imageWidth: 1760,
+                    imageHeight: 1160,
+                    boxsize: 2,
+                    customClass: "flex justify-center w-full mt-12 sm:mt-12",
+                    description: "UI Design, UX, Wireframe",
+                    url: "https://babrebh-t.net",
+                    client: "bab rebh",
+                    year: "2022-2023",
+                    displayHome: !0,
+                    sections: [  {
+                        name: "web-image",
+                        // title: 'Remarkable UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                        background: "#D9DEE5",
+                        backgroundLight: "#D9DEE5",
+                        imageURL: "",
+                        imageURLLight: "",
+                        layout: "boxy",
+                        wrapperCustomClass: "tr__container h-screen150",
+                        layoutData: [{
+                            imageURL: "/assets/images/work/babrebh/1.jpg",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                        }, {
+                            imageURL: "/assets/images/work/babrebh/1a.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                        }]
+                    },, {
+                        name: "details",
+                        title: "About project",
+                        description: '<h4 class="tr__fadeUpOneByOne__always">Technis become a leading provider of data acquisition solutions for building management.</h4><p class="tr__fadeUpOneByOne__always">With a focus on UX improvement, we conducted meticulous research, leading to enhanced user experience. Our team then crafted visual mockups for all pages, utilizing our design system, and produced prototypes and custom wordpress development.</p>',
+                        sourceType: "image",
+                        sourceURL: "",
+                        customClass: "",
+                        action: !0
+                    },
+                    {
+                        name: "web-image",
                         title: 'Remarkable UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                        background: "#D9DEE5",
+                        backgroundLight: "#D9DEE5",
+                        imageURL: "",
+                        imageURLLight: "",
+                        layout: "boxy",
+                        wrapperCustomClass: "tr__container h-screen150",
+                        layoutData: [{
+                            imageURL: "/assets/images/work/babrebh/2.jpg",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                        }, {
+                            imageURL: "/assets/images/work/babrebh/3.jpg",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                        }]
+                    },
+                    
+                    {
+                        name: "visual-quote",
+                        text: "<span>intuitive </span><span>ux </span><span>prolongs </span><span>user stay. </span>"
+                    },   {
+                        name: "web-image",
+                        background: "#D9DEE5",
+                        backgroundLight: "#D9DEE5",
+                        imageURL: "",
+                        imageURLLight: "",
+                        layout: "boxy",
+                        wrapperCustomClass: "tr__container h-screen150",
+                        layoutData: [{
+                            imageURL: "/assets/images/work/babrebh/5.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                        }, {
+                            imageURL: "/assets/images/work/babrebh/6.png",
+                            animation: !1,
+                            animationSpeed: 0,
+                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                        }]
+                    },]
+                },
+
+                {
+                    id: 4,
+                    title: "mohami",
+                    slug: "technis.html",
+                    category: "website",
+                    image: "/assets/images/work/muhami/1.png",
+                    imageLandscape: "/assets/images/work/muhami/1s.png",
+                    imageWidth: 1760,
+                    imageHeight: 1160,
+                    boxsize: 2,
+                    customClass: "flex justify-center w-full mt-12 sm:mt-12",
+                    description: "UI Design, UX, Wireframe",
+                    url: "",
+                    client: "LoftLoom",
+                    year: "2022-2023",
+                    displayHome: !0,
+                    sections: [  {
+                        name: "web-image",
+                        // title: 'Remarkable UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
                         background: "#D9DEE5",
                         backgroundLight: "#D9DEE5",
                         imageURL: "",
@@ -18765,7 +18561,7 @@
                     },
                     {
                         name: "web-image",
-                        title: 'Remarkable2 UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                        title: 'Remarkable UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
                         background: "#D9DEE5",
                         backgroundLight: "#D9DEE5",
                         imageURL: "",
@@ -18774,48 +18570,12 @@
                         wrapperCustomClass: "tr__container h-screen150",
                         layoutData: [{
                             imageURL: "/assets/images/work/muhami/2.png",
-                            // imageWidth: 1270,
-                            // imageHeight: 3124,
                             animation: !1,
                             animationSpeed: 0,
                             customClass: "flex justify-start items-start w-8/12 h-full z-1",
                             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
                         }, {
                             imageURL: "/assets/images/work/muhami/3.png",
-                            // imageWidth: 1270,
-                            // imageHeight: 2976,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
-                        }]
-                    },
-                    
-                    {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">Engaging in the Technis project was nothing short of an extraordinary adventure for our team. Taking on the challenge of market research, strategic planning, development, and unleashing our creativity in crafting compelling visuals was truly invigorating. Throughout the extensive collaborative journey</p><p class="tr__fadeUpOneByOne__always">AlphaRoar explored numerous design concepts, leading to an unforgettable and exceptional design and development for both the mobile and desktop view. And as if that wasn\'t enough, we proudly built the entire website from the ground up, adding another feather to our cap.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, 
-                    {
-                        name: "web-image",
-                        title: 'Remarkable3 UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
-                        background: "#D9DEE5",
-                        backgroundLight: "#D9DEE5",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-screen150",
-                        layoutData: [{
-                            imageURL: "/assets/images/work/muhami/4.png",
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/work/muhami/4a.png",
                             animation: !1,
                             animationSpeed: 0,
                             customClass: "flex justify-end items-start w-8/12 h-full z-0",
@@ -18828,7 +18588,6 @@
                         text: "<span>intuitive </span><span>ux </span><span>prolongs </span><span>user stay. </span>"
                     },   {
                         name: "web-image",
-                        title: 'Remarkable4 UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
                         background: "#D9DEE5",
                         backgroundLight: "#D9DEE5",
                         imageURL: "",
@@ -18849,2549 +18608,3042 @@
                             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
                         }]
                     },]
-                }, {
-                    id: 5,
-                    title: "merit global",
-                    slug: "merit-global",
-                    category: "website",
-                    image: "/assets/images/works/merit-global/merit-global-main.webp",
-                    imageLandscape: "/assets/images/works/merit-global/merit-global-main-landscape.webp",
-                    imageWidth: 1520,
-                    imageHeight: 1e3,
-                    boxsize: 0,
-                    customClass: "mt-12 sm:mt-0",
-                    description: "UX, UI Design, Development",
-                    url: "https://www.meritglobal.org/",
-                    client: "Merit Global",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#DC1D00",
-                        backgroundLight: "#EAC8C2",
-                        sourceURL: "/assets/images/works/merit-global/merit-global-banner.webp",
-                        sourceURLLight: "/assets/images/works/merit-global/merit-global-banner-light.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2512,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Merit Global, the leading company for UK businesses exploring skilled worker sponsorship.</h4><p class="tr__fadeUpOneByOne__always">Through diligent UX research, we identified areas for improvement, enabling us to create visual mockups for all pages using our design system. Additionally, we generated prototypes to validate our design decisions.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !0
-                    }, {
-                        name: "web-image",
-                        title: "",
-                        background: "#DC1D00",
-                        backgroundLight: "#ECDEDB",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/merit-global/merit-global-desktopscreen1.webp",
-                            imageWidth: 1530,
-                            imageHeight: 4484,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/merit-global/merit-global-desktopscreen2.webp",
-                            imageWidth: 1530,
-                            imageHeight: 4826,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none h-full shadow-2xl"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">It was a unique and novel experience for us to be a part of the ambitious Merti Global project. Our team embraced the responsibility of market research, strategy development, and the delightful task of getting creative with visuals.</p><p class="tr__fadeUpOneByOne__always">Through a lengthy and fruitful collaborative effort, AlphaRoar dived into countless design concepts, culminating in an awe-inspiring and unforgettable design and development for the mobile and desktop. Not to forget, we also put our skills to the test by meticulously building the website from scratch.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/merit-global/merit-global-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/merit-global/merit-global-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 2150,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center h-full",
-                        wrapperCustomClass: "items-center"
-                    }, {
-                        name: "web-image",
-                        title: 'Outstanding UI/UX and Visual <br class="hidden sm:block" />Design for Internal Pages',
-                        background: "#DC1D00",
-                        backgroundLight: "#ECDEDB",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/merit-global/merit-global-desktopscreen3.webp",
-                            imageWidth: 1270,
-                            imageHeight: 2248,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/merit-global/merit-global-desktopscreen4.webp",
-                            imageWidth: 1270,
-                            imageHeight: 2489,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
-                        }]
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>smart ux </span><span>encoura </span><span>ges user </span><span>loyalty. </span>"
-                    }, {
-                        name: "single-image",
-                        title: 'Partner with us for unrivaled and optimized <br class="hidden sm:block" /> web outsourcing services.',
-                        dataType: "image",
-                        background: "#545454",
-                        backgroundLight: "#DFE3E3",
-                        sourceURL: "/assets/images/works/merit-global/merit-global-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/merit-global/merit-global-fullimage1.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2952,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-start",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
-                }, {
-                    id: 6,
-                    title: "reyden",
-                    slug: "reyden",
-                    category: "website",
-                    image: "/assets/images/works/reyden/reyden-main.webp",
-                    imageLandscape: "/assets/images/works/reyden/reyden-main-landscape.webp",
-                    imageWidth: 800,
-                    imageHeight: 1200,
-                    boxsize: 1,
-                    customClass: "mt-12 sm:mt-24",
-                    description: "UX, UI Design, Development",
-                    url: "https://www.reyden.se/",
-                    client: "Reyden",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#D80000",
-                        backgroundLight: "#E37A7A",
-                        sourceURL: "/assets/images/works/reyden/reyden-banner.webp",
-                        sourceURLLight: "/assets/images/works/reyden/reyden-banner-light.webp",
-                        imageWidth: 2880,
-                        imageHeight: 3436,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Reyden has been providing best-in-class supply chain engineering solutions to Oil, Gas and Energy industries.</h4><p class="tr__fadeUpOneByOne__always">Conducted thorough UX research, created visual mockups aligned with design system, and generated prototypes for all pages</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !0
-                    }, {
-                        name: "web-image",
-                        title: "",
-                        background: "#F5F5F5",
-                        backgroundLight: "#F5F5F5",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/reyden/reyden-desktopscreen1.webp",
-                            imageWidth: 1530,
-                            imageHeight: 3556,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/reyden/reyden-desktopscreen2.webp",
-                            imageWidth: 1530,
-                            imageHeight: 2465,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">The Reyden project provided us with an unparalleled and enriching experience. With a diverse range of responsibilities, from market research and strategy elaboration to development and visual creativity, our team fully embraced the opportunity.</p><p class="tr__fadeUpOneByOne__always">The journey with AlphaRoar was filled with innovation and determination, exploring countless design concepts, and culminating in a truly unforgettable design and development for the mobile and desktop. Notably, we can proudly claim that we handcrafted the entire website from scratch, adding our personal touch to the project.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/reyden/reyden-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/reyden/reyden-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 1736,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center h-full",
-                        wrapperCustomClass: "items-center"
-                    }, {
-                        name: "web-image",
-                        title: 'Exquisite UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
-                        background: "#545454",
-                        backgroundLight: "#DFE3E3",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/reyden/reyden-desktopscreen3.webp",
-                            imageWidth: 1270,
-                            imageHeight: 3020,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/reyden/reyden-desktopscreen4.webp",
-                            imageWidth: 1270,
-                            imageHeight: 2962,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none h-full shadow-2xl"
-                        }]
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>stay </span><span>longer </span><span>with smart </span><span>ux. </span>"
-                    }, {
-                        name: "single-image",
-                        title: 'Embrace the finest and tailor-made <br class="hidden sm:block" />web outsourcing.',
-                        dataType: "image",
-                        background: "#333333",
-                        backgroundLight: "#E1E6E6",
-                        sourceURL: "/assets/images/works/reyden/reyden-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/reyden/reyden-fullimage1.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2184,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center",
-                        wrapperCustomClass: "items-center h-full"
-                    }]
-                }, {
-                    id: 7,
-                    title: "crowdmouth",
-                    slug: "crowdmouth",
-                    category: "apps",
-                    image: "/assets/images/works/crowdmouth/crowdmouth-main.webp",
-                    imageLandscape: "/assets/images/works/crowdmouth/crowdmouth-main-landscape.webp",
-                    imageWidth: 1760,
-                    imageHeight: 1160,
-                    boxsize: 3,
-                    customClass: "flex justify-center w-full mt-12 sm:mt-0",
-                    description: "UI Design, UX, Wireframe",
-                    url: "https://apps.apple.com/us/app/crowdmouth-for-creators/id1556232080",
-                    client: "Crowdmouth",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "video",
-                        background: "#474253",
-                        backgroundLight: "#DDE1E3",
-                        sourceURL: "/assets/images/works/crowdmouth/crowdmouth.mp4",
-                        sourceURLLight: "/assets/images/works/crowdmouth/crowdmouth.mp4",
-                        imageWidth: 1280,
-                        imageHeight: 720,
-                        layout: "boxy",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Crowdmouth is a direct-to-fan platform empowering creators to engage, monetize and grow their audiences.</h4><p class="tr__fadeUpOneByOne__always">Our team delved into comprehensive UX research, resulting in enhanced user experience. We then crafted mobile app visuals for every page, following our design system, and generated interactive prototypes.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !0
-                    }, {
-                        name: "mobile-image",
-                        background: "#1D1B23",
-                        backgroundLight: "#E4E8E9",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "py-32 sm:py-24 md:py-32 lg:pb-0",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen1.webp",
-                            imageWidth: 772,
-                            imageHeight: 1684,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start",
-                            imageClass: "w-full"
-                        }, {
-                            imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen2.webp",
-                            imageWidth: 772,
-                            imageHeight: 2034,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start",
-                            imageClass: "w-full"
-                        }, {
-                            imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen3.webp",
-                            imageWidth: 776,
-                            imageHeight: 1680,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start",
-                            imageClass: "w-full"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">Crowdmouth presented us with a remarkable opportunity to be part of a groundbreaking, large-scale project. Our team contributed to market research, strategy elaboration, and visual creativity, while AlphaRoar\'s expertise brought forth a memorable mobile application design after exploring numerous design concepts.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#474253",
-                        backgroundLight: "#DDE1E3",
-                        sourceURL: "/assets/images/works/crowdmouth/crowdmouth-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/crowdmouth/crowdmouth-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 3066,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "mt-10 sm:mt-20 lg:mt-40",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>smart ux </span><span>make users </span><span>stay. </span>"
-                    }, {
-                        name: "grid-image",
-                        layout: "boxy",
-                        wrapperCustomClass: "",
-                        layoutGrid: [{
-                            background: "#322E3B",
-                            backgroundLight: "#DBDFE1",
-                            imageURL: "",
-                            gridWrapperCustomClass: "mb-20",
-                            gridData: [{
-                                imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen4.webp",
-                                imageWidth: 792,
-                                imageHeight: 1844,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "pl-10",
-                                imageClass: ""
-                            }, {
-                                imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen5.webp",
-                                imageWidth: 793,
-                                imageHeight: 1656,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "pr-10 mt-10 sm:mt-20 lg:mt-40",
-                                imageClass: ""
-                            }]
-                        }, {
-                            background: "#211D29",
-                            backgroundLight: "#E4E8E9",
-                            imageURL: "",
-                            gridWrapperCustomClass: "h-full items-center",
-                            gridData: [{
-                                imageURL: "/assets/images/works/crowdmouth/crowdmouth-thumbscreen2.webp",
-                                imageWidth: 1692,
-                                imageHeight: 302,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "flex items-start justify-center w-full",
-                                imageClass: ""
-                            }]
-                        }]
-                    }, {
-                        name: "mobile-image",
-                        background: "#474253",
-                        backgroundLight: "#DDE1E3",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "h-screen65w xl:h-screen125 overflow-hidden",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen6.webp",
-                            imageWidth: 776,
-                            imageHeight: 2278,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "",
-                            imageClass: "w-full mt-10 sm:mt-20 lg:mt-0"
-                        }, {
-                            imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen7.webp",
-                            imageWidth: 772,
-                            imageHeight: 3050,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start",
-                            imageClass: "w-full"
-                        }, {
-                            imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen8.webp",
-                            imageWidth: 772,
-                            imageHeight: 2696,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "",
-                            imageClass: "w-full -mt-48 sm:-mt-72 lg:mt-0"
-                        }]
-                    }, {
-                        name: "single-image",
-                        title: 'Our specialty lies in providing tailored and <br class="hidden sm:block" />superior web outsourcing services.',
-                        dataType: "image",
-                        background: "#1D1B23",
-                        backgroundLight: "#E4E8E9",
-                        sourceURL: "/assets/images/works/crowdmouth/crowdmouth-thumbscreen3.webp",
-                        sourceURLLight: "/assets/images/works/crowdmouth/crowdmouth-thumbscreen3.webp",
-                        imageWidth: 2268,
-                        imageHeight: 1872,
-                        layout: "boxy",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "",
-                        wrapperCustomClass: "items-start"
-                    }]
-                }, {
-                    id: 8,
-                    title: "stuffosome",
-                    slug: "stuffosome",
-                    category: "branding",
-                    image: "/assets/images/works/stuffosome/stuffosome-main.webp",
-                    imageLandscape: "/assets/images/works/stuffosome/stuffosome-main-landscape.webp",
-                    imageWidth: 2480,
-                    imageHeight: 1400,
-                    boxsize: 2,
-                    customClass: "flex justify-center w-full mt-12 sm:mt-12",
-                    description: "Research, Branding",
-                    url: "",
-                    client: "Stuffosome",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/stuffosome/stuffosome-banner.webp",
-                        sourceURLLight: "/assets/images/works/stuffosome/stuffosome-banner.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2880,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-center",
-                        wrapperCustomClass: "items-center"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Elevate your style with the timeless and trendy sunglasses from stuffosome.</h4><p class="tr__fadeUpOneByOne__always">rom inception to launch, we took charge of developing a brand new corporate identity for the ground-breaking service.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/stuffosome/stuffosome-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/stuffosome/stuffosome-thumbscreen1.webp",
-                        imageWidth: 2482,
-                        imageHeight: 2258,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-center",
-                        wrapperCustomClass: "items-center h-auto"
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#000000",
-                        backgroundLight: "#000000",
-                        sourceURL: "/assets/images/works/stuffosome/stuffosome-thumbscreen2.webp",
-                        sourceURLLight: "/assets/images/works/stuffosome/stuffosome-thumbscreen2.webp",
-                        imageWidth: 1827,
-                        imageHeight: 2400,
-                        layout: "full",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-center",
-                        wrapperCustomClass: "items-center pt-64"
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#000000",
-                        backgroundLight: "#000000",
-                        sourceURL: "/assets/images/works/stuffosome/stuffosome-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/stuffosome/stuffosome-fullimage1.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2652,
-                        layout: "full",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-center",
-                        wrapperCustomClass: "items-center"
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#000000",
-                        backgroundLight: "#000000",
-                        sourceURL: "/assets/images/works/stuffosome/stuffosome-thumbscreen3.webp",
-                        sourceURLLight: "/assets/images/works/stuffosome/stuffosome-thumbscreen3.webp",
-                        imageWidth: 1827,
-                        imageHeight: 2400,
-                        layout: "full",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-center",
-                        wrapperCustomClass: "items-center pt-64"
-                    }, {
-                        name: "grid-image",
-                        layout: "boxy",
-                        wrapperCustomClass: "",
-                        layoutGrid: [{
-                            background: "#000000",
-                            backgroundLight: "#000000",
-                            imageURL: "",
-                            gridWrapperCustomClass: "mb-20 p-0",
-                            gridData: [{
-                                imageURL: "/assets/images/works/stuffosome/stuffosome-thumbscreen4.webp",
-                                imageWidth: 2480,
-                                imageHeight: 2700,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "flex justify-center items-center pt-56",
-                                imageClass: "w-full"
-                            }]
-                        }, {
-                            background: "#000000",
-                            backgroundLight: "#000000",
-                            imageURL: "",
-                            gridWrapperCustomClass: "mb-20",
-                            gridData: [{
-                                imageURL: "/assets/images/works/stuffosome/stuffosome-thumbscreen5.webp",
-                                imageWidth: 2072,
-                                imageHeight: 1196,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "flex justify-center items-center",
-                                imageClass: ""
-                            }]
-                        }]
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#000000",
-                        backgroundLight: "#000000",
-                        sourceURL: "/assets/images/works/stuffosome/stuffosome-fullimage2.webp",
-                        sourceURLLight: "/assets/images/works/stuffosome/stuffosome-fullimage2.webp",
-                        imageWidth: 2880,
-                        imageHeight: 1700,
-                        layout: "full",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-center",
-                        wrapperCustomClass: "items-center"
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>minimal </span><span>branding </span><span>major </span><span>impact </span>"
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#000000",
-                        backgroundLight: "#000000",
-                        sourceURL: "/assets/images/works/stuffosome/stuffosome-fullimage3.webp",
-                        sourceURLLight: "/assets/images/works/stuffosome/stuffosome-fullimage3.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2622,
-                        layout: "full",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-center",
-                        wrapperCustomClass: "items-center"
-                    }, {
-                        name: "grid-image",
-                        layout: "boxy",
-                        wrapperCustomClass: "",
-                        layoutGrid: [{
-                            background: "",
-                            backgroundLight: "",
-                            imageURL: "",
-                            gridWrapperCustomClass: "p-0 mb-20",
-                            gridData: [{
-                                imageURL: "/assets/images/works/stuffosome/stuffosome-thumbscreen6.webp",
-                                imageWidth: 2480,
-                                imageHeight: 1854,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "flex justify-center items-center",
-                                imageClass: ""
-                            }]
-                        }]
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/stuffosome/stuffosome-fullimage4.webp",
-                        sourceURLLight: "/assets/images/works/stuffosome/stuffosome-fullimage4.webp",
-                        imageWidth: 2880,
-                        imageHeight: 1600,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
-                }, {
-                    id: 9,
-                    title: "shore",
-                    slug: "shore",
-                    category: "apps",
-                    image: "/assets/images/works/shore/shore-main.webp",
-                    imageLandscape: "/assets/images/works/shore/shore-main-landscape.webp",
-                    imageWidth: 1760,
-                    imageHeight: 1160,
-                    boxsize: 3,
-                    customClass: "flex justify-end w-full mt-12 sm:mt-0",
-                    description: "UI Design, UX, Wireframe",
-                    url: "",
-                    client: "Shore",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "video",
-                        background: "#5318B0",
-                        backgroundLight: "#E3E4EE",
-                        sourceURL: "/assets/images/works/shore/shore.mp4",
-                        sourceURLLight: "/assets/images/works/shore/shore.mp4",
-                        imageWidth: 1280,
-                        imageHeight: 720,
-                        imageWidth: "",
-                        imageHeight: "",
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">SHORE: Seamlessly transfer money online with our secure banking app, making financial transactions effortless.</h4><p class="tr__fadeUpOneByOne__always">With a strong focus on UX research, we refined the user experience, designed mobile app visuals for all pages, and brought our concepts to life with interactive prototypes.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !1
-                    }, {
-                        name: "mobile-image",
-                        background: "#280B56",
-                        backgroundLight: "#E4E7EB",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "py-0 lg:py-32 lg:pb-0",
-                        animationStyle: "reverse",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/shore/shore-mobilescreen1.webp",
-                            imageWidth: 772,
-                            imageHeight: 1616,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start",
-                            imageClass: "w-full mt-14 -mb-14 lg:mt-0 lg:mb-0"
-                        }, {
-                            imageURL: "/assets/images/works/shore/shore-mobilescreen2.webp",
-                            imageWidth: 772,
-                            imageHeight: 2508,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start",
-                            imageClass: "w-full -mt-32 lg:mt-0"
-                        }, {
-                            imageURL: "/assets/images/works/shore/shore-mobilescreen3.webp",
-                            imageWidth: 776,
-                            imageHeight: 1616,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start",
-                            imageClass: "w-full mt-40 -mb-20 lg:mt-0 lg:mb-0"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">The chance to work on Shore, a grand-scale venture, proved to be a truly remarkable journey for us. From market research and strategy elaboration to visual creativity, our team was fully engaged, while AlphaRoar\'s dedicated work led to an extraordinary mobile application design developed from numerous design concepts.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !0
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#5318B0",
-                        backgroundLight: "#E3E4EE",
-                        sourceURL: "/assets/images/works/shore/shore-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/shore/shore-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 2762,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-start mt-10 sm:mt-20 lg:mt-40",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>smart ux </span><span>encoura </span><span>ges user </span><span>loyalty. </span>"
-                    }, {
-                        name: "grid-image",
-                        layout: "boxy",
-                        wrapperCustomClass: "",
-                        layoutGrid: [{
-                            background: "#71D7C5",
-                            backgroundLight: "#DBEFEC",
-                            imageURL: "",
-                            gridWrapperCustomClass: "",
-                            gridData: [{
-                                imageURL: "/assets/images/works/shore/shore-mobilescreen4.webp",
-                                imageWidth: 792,
-                                imageHeight: 1648,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "pl-10",
-                                imageClass: ""
-                            }, {
-                                imageURL: "/assets/images/works/shore/shore-mobilescreen5.webp",
-                                imageWidth: 792,
-                                imageHeight: 1654,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "pr-10",
-                                imageClass: ""
-                            }]
-                        }]
-                    }, {
-                        name: "mobile-image",
-                        background: "#5318B0",
-                        backgroundLight: "#E3E4EE",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "h-screen65w xl:h-screen125 overflow-hidden",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/shore/shore-mobilescreen6.webp",
-                            imageWidth: 776,
-                            imageHeight: 1616,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start",
-                            imageClass: "w-full"
-                        }, {
-                            imageURL: "/assets/images/works/shore/shore-mobilescreen7.webp",
-                            imageWidth: 772,
-                            imageHeight: 2508,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start",
-                            imageClass: "w-full"
-                        }, {
-                            imageURL: "/assets/images/works/shore/shore-mobilescreen8.webp",
-                            imageWidth: 750,
-                            imageHeight: 1624,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start",
-                            imageClass: "w-full"
-                        }]
-                    }, {
-                        name: "single-image",
-                        title: 'Get access to the finest and personalized <br class="hidden sm:block" />web outsourcing solutions.',
-                        dataType: "image",
-                        background: "#201A38",
-                        backgroundLight: "#E4E8EA",
-                        sourceURL: "/assets/images/works/shore/shore-thumbscreen2.webp",
-                        sourceURLLight: "/assets/images/works/shore/shore-thumbscreen2.webp",
-                        imageWidth: 1719,
-                        imageHeight: 1484,
-                        layout: "boxy",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-center w-9/12 m-auto",
-                        wrapperCustomClass: "items-center h-auto pb-32 sm:pb-24 md:pb-32"
-                    }]
-                }, {
-                    id: 10,
-                    title: "keypro",
-                    slug: "keypro",
-                    category: "website",
-                    image: "/assets/images/works/keypro/keypro-main.webp",
-                    imageLandscape: "/assets/images/works/keypro/keypro-main-landscape.webp",
-                    imageWidth: 1760,
-                    imageHeight: 1160,
-                    boxsize: 3,
-                    customClass: "w-full mt-12 sm:mt-0",
-                    description: "UI Design, UX, Wireframe",
-                    url: "",
-                    client: "Keypro",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "video",
-                        background: "#C8D9D6",
-                        backgroundLight: "#C8D9D6",
-                        sourceURL: "/assets/images/works/keypro/keypro.mp4",
-                        sourceURLLight: "/assets/images/works/keypro/keypro.mp4",
-                        imageWidth: 1920,
-                        imageHeight: 1080,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Keypro is a curated offering of vacation rentals by world\'s oldest chains.</h4><p class="tr__fadeUpOneByOne__always">We conducted thorough UX research, enhanced the user experience, created visual mockups for all pages using our design system, and generated prototypes.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !1
-                    }, {
-                        name: "web-image",
-                        title: "",
-                        background: "#363838",
-                        backgroundLight: "#E1E6E6",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/keypro/keypro-desktopscreen1.webp",
-                            imageWidth: 1530,
-                            imageHeight: 3960,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-7/12 h-full z-1",
-                            imageClass: "w-full max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/keypro/keypro-desktopscreen2.webp",
-                            imageWidth: 750,
-                            imageHeight: 5132,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-4/12 h-full z-0",
-                            imageClass: "float-right w-full max-w-none h-full shadow-2xl"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">Engaging in the Keypro project was an extraordinary journey for us, where we embarked on an ambitious and expansive endeavor. Our team played a pivotal role in conducting comprehensive market research, formulating strategic plans, and undertaking the development process.</p><p class="tr__fadeUpOneByOne__always">Moreover, we unleashed our creativity to deliver captivating visuals. Collaboratively, we explored numerous design concepts, resulting in a remarkable and unforgettable mobile and desktop view. Additionally, we proudly built the website from the ground up, showcasing our commitment and expertise.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/keypro/keypro-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/keypro/keypro-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 2168,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center item-center sm:items-start h-full",
-                        wrapperCustomClass: "item-center sm:items-start"
-                    }, {
-                        name: "web-image",
-                        title: 'Exceptional UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
-                        background: "#6C7876",
-                        backgroundLight: "#E0E7E6",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/keypro/keypro-desktopscreen3.webp",
-                            imageWidth: 1270,
-                            imageHeight: 2542,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per mt-10 sm:mt-20 lg:mt-40 max-w-none shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/keypro/keypro-desktopscreen4.webp",
-                            imageWidth: 1200,
-                            imageHeight: 2644,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right mt-20 sm:mt-32 lg:mt-64 w-120per max-w-none h-full shadow-2xl"
-                        }]
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>creative </span><span>visual </span><span>attracts </span><span>users. </span>"
-                    }, {
-                        name: "single-image",
-                        title: 'We offer top-notch custom web <br class="hidden sm:block" />outsourcing services.',
-                        dataType: "image",
-                        background: "#363838",
-                        backgroundLight: "#E3E8E8",
-                        sourceURL: "/assets/images/works/keypro/keypro-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/keypro/keypro-fullimage1.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2466,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-start",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
-                }, {
-                    id: 11,
-                    title: "essence realty",
-                    slug: "essence-realty",
-                    category: "website",
-                    image: "/assets/images/works/essence-realty/essence-realty-main.webp",
-                    imageLandscape: "/assets/images/works/essence-realty/essence-realty-main-landscape.webp",
-                    imageWidth: 800,
-                    imageHeight: 1200,
-                    boxsize: 1,
-                    customClass: "mt-12 sm:mt-0",
-                    description: "Research, UX, UI Design",
-                    url: "",
-                    client: "Essence Realty",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#202020",
-                        backgroundLight: "#D9DEDE",
-                        sourceURL: "/assets/images/works/essence-realty/essence-realty-banner.webp",
-                        sourceURLLight: "/assets/images/works/essence-realty/essence-realty-banner-light.webp",
-                        imageWidth: 2880,
-                        imageHeight: 3778,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Essence realty is a boutique real estate brokerage and investment house.</h4><p class="tr__fadeUpOneByOne__always">Researched and improved UX, created visual mockups using design system, and generated prototypes for every page.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !1
-                    }, {
-                        name: "web-image",
-                        title: "",
-                        background: "#202020",
-                        backgroundLight: "#D9DEDE",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/essence-realty/essence-realty-desktopscreen1.webp",
-                            imageWidth: 1530,
-                            imageHeight: 4428,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-7/12 h-full z-1",
-                            imageClass: "w-full max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/essence-realty/essence-realty-desktopscreen2.webp",
-                            imageWidth: 750,
-                            imageHeight: 5818,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-4/12 h-full z-0",
-                            imageClass: "float-right w-full max-w-none h-full shadow-2xl"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">The Essence Reality project provided us with an unparalleled and exhilarating experience. With responsibilities spanning market research, strategic planning, development, and visual creativity, our team fully embraced the opportunity.</p><p class="tr__fadeUpOneByOne__always">AlphaRoar tirelessly delved into numerous design concepts throughout our extensive collaboration, resulting in an unforgettable design for the mobile and desktop website. And in case you missed it, we proudly built the website from scratch, further highlighting our dedication and commitment to the project\'s success.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/essence-realty/essence-realty-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/essence-realty/essence-realty-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 2106,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center h-full",
-                        wrapperCustomClass: "items-center lg:items-start"
-                    }, {
-                        name: "web-image",
-                        title: 'Extraordinary UI/UX and Visual <br class="hidden sm:block" />Design for Interior Pages',
-                        background: "#202020",
-                        backgroundLight: "#D9DEDE",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/essence-realty/essence-realty-desktopscreen3.webp",
-                            imageWidth: 1270,
-                            imageHeight: 2957,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/essence-realty/essence-realty-desktopscreen4.webp",
-                            imageWidth: 1270,
-                            imageHeight: 3372,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
-                        }]
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>creative </span><span>visual </span><span>attracts </span><span>users. </span>"
-                    }, {
-                        name: "single-image",
-                        title: 'Your go-to destination for custom <br class="hidden sm:block" />web outsourcing services.',
-                        dataType: "image",
-                        background: "#202020",
-                        backgroundLight: "#D9DEDE",
-                        sourceURL: "/assets/images/works/essence-realty/essence-realty-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/essence-realty/essence-realty-fullimage1.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2942,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-start",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
-                }, {
-                    id: 12,
-                    title: "metagram",
-                    slug: "metagram",
-                    category: "apps",
-                    image: "/assets/images/works/metagram/metagram-main.webp",
-                    imageLandscape: "/assets/images/works/metagram/metagram-main-landscape.webp",
-                    imageWidth: 1280,
-                    imageHeight: 842,
-                    boxsize: 4,
-                    customClass: "mt-12 sm:mt-14",
-                    description: "UI Design, UX, Wireframe",
-                    url: "",
-                    client: "Metagram",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "video",
-                        background: "#8951FF",
-                        backgroundLight: "rgba(137, 81, 255, 0.15)",
-                        sourceURL: "/assets/images/works/metagram/metagram.mp4",
-                        sourceURLLight: "/assets/images/works/metagram/metagram.mp4",
-                        imageWidth: 1240,
-                        imageHeight: 700,
-                        layout: "boxy",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Discover, collect, and connect with NFT enthusiasts through our Metagram social media mobile app.</h4><p class="tr__fadeUpOneByOne__always">Through extensive UX research, we elevated the user experience, designed mobile app visuals for all pages with our design system, and developed interactive prototypes.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !1
-                    }, {
-                        name: "mobile-image",
-                        background: "#1F1533",
-                        backgroundLight: "rgba(31, 21, 51, 0.05)",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "py-0 sm:py-0 md:py-0 items-start lg:items-center",
-                        animationStyle: "oneByone",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/metagram/metagram-mobilescreen1.webp",
-                            imageWidth: 772,
-                            imageHeight: 1604,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "mt-10 lg:mt-64",
-                            imageClass: "w-full"
-                        }, {
-                            imageURL: "/assets/images/works/metagram/metagram-mobilescreen2.webp",
-                            imageWidth: 776,
-                            imageHeight: 1612,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "mt-20 lg:mt-64",
-                            imageClass: "w-full"
-                        }, {
-                            imageURL: "/assets/images/works/metagram/metagram-mobilescreen3.webp",
-                            imageWidth: 772,
-                            imageHeight: 1602,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "mt-28 lg:mt-64 mb-10 lg:mb-0",
-                            imageClass: "w-full"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">Engaging in an ambitious, large-scale project like Metagram was a truly unique experience for our team. We delved into market research, strategy development, and creative visual design, while AlphaRoar crafted numerous design concepts, resulting in an unforgettable mobile application design.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !0
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#8851FF",
-                        backgroundLight: "rgba(136, 81, 255, 0.15)",
-                        sourceURL: "/assets/images/works/metagram/metagram-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/metagram/metagram-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 3428,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-start mt-10 sm:mt-20 lg:mt-40",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>smart </span><span>ux retains </span><span>users. </span>"
-                    }, {
-                        name: "grid-image",
-                        layout: "boxy",
-                        wrapperCustomClass: "",
-                        layoutGrid: [{
-                            background: "#F1C8B2",
-                            backgroundLight: "rgba(241, 200, 178, 0.3)",
-                            imageURL: "",
-                            gridWrapperCustomClass: "mb-20",
-                            gridData: [{
-                                imageURL: "/assets/images/works/metagram/metagram-mobilescreen4.webp",
-                                imageWidth: 792,
-                                imageHeight: 1964,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "pl-10",
-                                imageClass: ""
-                            }, {
-                                imageURL: "/assets/images/works/metagram/metagram-mobilescreen5.webp",
-                                imageWidth: 740,
-                                imageHeight: 1656,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "pr-10 mt-10 sm:mt-20 lg:mt-40",
-                                imageClass: ""
-                            }]
-                        }, {
-                            background: "#1F1533",
-                            backgroundLight: "rgba(31, 21, 51, 0.05)",
-                            imageURL: "",
-                            gridWrapperCustomClass: "h-full items-center",
-                            gridData: [{
-                                imageURL: "/assets/images/works/metagram/metagram-thumbscreen2.webp",
-                                imageWidth: 1220,
-                                imageHeight: 270,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "flex items-center justify-center w-full",
-                                imageClass: ""
-                            }]
-                        }]
-                    }, {
-                        name: "mobile-image",
-                        background: "#8851FF",
-                        backgroundLight: "#DFDBF5",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "h-screen65w xl:h-screen125 overflow-hidden",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/metagram/metagram-mobilescreen6.webp",
-                            imageWidth: 772,
-                            imageHeight: 2718,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start mt-64 lg:mt-0",
-                            imageClass: "w-full"
-                        }, {
-                            imageURL: "/assets/images/works/metagram/metagram-mobilescreen7.webp",
-                            imageWidth: 776,
-                            imageHeight: 3148,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start",
-                            imageClass: "w-full"
-                        }, {
-                            imageURL: "/assets/images/works/metagram/metagram-mobilescreen8.webp",
-                            imageWidth: 772,
-                            imageHeight: 2136,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start -mt-32 lg:mt-0",
-                            imageClass: "w-full"
-                        }]
-                    }, {
-                        name: "single-image",
-                        title: 'We offer top-notch custom web <br class="hidden sm:block" />outsourcing services.',
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/metagram/metagram-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/metagram/metagram-fullimage1.webp",
-                        imageWidth: 2880,
-                        imageHeight: 1486,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
-                }, {
-                    id: 13,
-                    title: "better penny",
-                    slug: "better-penny",
-                    category: "website",
-                    image: "/assets/images/works/better-penny/better-penny-main.webp",
-                    imageLandscape: "/assets/images/works/better-penny/better-penny-main-landscape.webp",
-                    imageWidth: 2480,
-                    imageHeight: 1400,
-                    boxsize: 2,
-                    customClass: "flex justify-center w-full mt-12 sm:mt-12",
-                    description: "UX, UI Design, Wireframe",
-                    url: "https://betterpenny.com/",
-                    client: "Better Penny",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#46B865",
-                        backgroundLight: "#CCE7D7",
-                        sourceURL: "/assets/images/works/better-penny/better-penny-banner.webp",
-                        sourceURLLight: "/assets/images/works/better-penny/better-penny-banner-light.webp",
-                        imageWidth: 2880,
-                        imageHeight: 3320,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">BetterPenny Making the right personal finance decisions can be overwhelming for the average person.</h4><p class="tr__fadeUpOneByOne__always">Investigated and enhanced UX, designed visual mockups with design system, and produced prototypes for all pages.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !0
-                    }, {
-                        name: "web-image",
-                        title: "",
-                        background: "#E3EBE6",
-                        backgroundLight: "#E3EBE6",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/better-penny/better-penny-desktopscreen1.webp",
-                            imageWidth: 1530,
-                            imageHeight: 2787,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/better-penny/better-penny-desktopscreen2.webp",
-                            imageWidth: 1470,
-                            imageHeight: 3268,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none h-full shadow-2xl"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">The opportunity to contribute to the BetterPenny project was an extraordinary experience that left an indelible mark on our team. Taking on the roles of market research, strategy development, development, and letting our creativity run wild with visuals was truly invigorating.</p><p class="tr__fadeUpOneByOne__always">Throughout our extensive collaboration, AlphaRoar explored numerous design concepts, culminating in an unforgettable design and development for the mobile and desktop view. Oh, and did we mention that we built the website from scratch? It was a proud achievement that added another layer of fulfillment to our journey.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/better-penny/better-penny-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/better-penny/better-penny-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 2200,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center h-full",
-                        wrapperCustomClass: "items-center"
-                    }, {
-                        name: "web-image",
-                        title: 'Brilliant UI/UX and Visual Design <br class="hidden sm:block" />for Inner Pages',
-                        background: "#DDF1E4",
-                        backgroundLight: "#DDF1E4",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/better-penny/better-penny-desktopscreen3.webp",
-                            imageWidth: 1270,
-                            imageHeight: 1759,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/better-penny/better-penny-desktopscreen4.webp",
-                            imageWidth: 1270,
-                            imageHeight: 2544,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
-                        }]
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>smart </span><span>ux = user </span><span>stickiness. </span>"
-                    }, {
-                        name: "single-image",
-                        title: 'Get the best and personalized web <br class="hidden sm:block" />outsourcing solutions.',
-                        dataType: "image",
-                        background: "#252F3C",
-                        backgroundLight: "#DADFE1",
-                        sourceURL: "/assets/images/works/better-penny/better-penny-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/better-penny/better-penny-fullimage1.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2528,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-start",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
-                }, {
-                    id: 14,
-                    title: "forever dolls",
-                    slug: "forever-dolls",
-                    category: "website",
-                    image: "/assets/images/works/forever-dolls/forever-dolls-main.webp",
-                    imageLandscape: "/assets/images/works/forever-dolls/forever-dolls-main-landscape.webp",
-                    imageWidth: 1760,
-                    imageHeight: 1160,
-                    boxsize: 3,
-                    customClass: "flex justify-end w-full mt-12 sm:mt-0",
-                    description: "UX Research, UI Design",
-                    url: "https://foreverdolls.com.au/",
-                    client: "ForeverDolls",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#F0ADBC",
-                        backgroundLight: "#EFDEE2",
-                        sourceURL: "/assets/images/works/forever-dolls/forever-dolls-banner.webp",
-                        sourceURLLight: "/assets/images/works/forever-dolls/forever-dolls-banner-light.webp",
-                        imageWidth: 2880,
-                        imageHeight: 4658,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Forevers Dolls is a family owned toy company that designs.</h4><p class="tr__fadeUpOneByOne__always">Explored UX improvements, crafted visual mockups using design system, and developed prototypes for all pages.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !0
-                    }, {
-                        name: "web-image",
-                        title: "",
-                        background: "#FFF6FA",
-                        backgroundLight: "#F8F5F7",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/forever-dolls/forever-dolls-desktopscreen1.webp",
-                            imageWidth: 1530,
-                            imageHeight: 4226,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/forever-dolls/forever-dolls-desktopscreen2.webp",
-                            imageWidth: 1530,
-                            imageHeight: 4445,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">Engaging in the Forever Dolls venture was an unprecedented journey for our team. We enthusiastically undertook the responsibilities of market research, strategic planning, development, and unleashing our creative flair for visuals.</p><p class="tr__fadeUpOneByOne__always">AlphaRoar tirelessly explored numerous design concepts during our extensive collaboration and ultimately crafted an unforgettable design and development for the mobile and desktop. And to top it off, we proudly developed the website from the ground up, adding an extra layer of accomplishment to our achievement.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/forever-dolls/forever-dolls-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/forever-dolls/forever-dolls-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 1976,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center lg:items-start h-full",
-                        wrapperCustomClass: "items-center lg:items-start"
-                    }, {
-                        name: "web-image",
-                        title: 'Exceptional UI/UX and Visual <br class="hidden sm:block" />Design for Interior Pages',
-                        background: "#F4CCDE",
-                        backgroundLight: "#F1E3EB",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/forever-dolls/forever-dolls-desktopscreen3.webp",
-                            imageWidth: 1270,
-                            imageHeight: 1770,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/forever-dolls/forever-dolls-desktopscreen4.webp",
-                            imageWidth: 1270,
-                            imageHeight: 1942,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
-                        }]
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>stay </span><span>on with </span><span>smart ux. </span>"
-                    }, {
-                        name: "single-image",
-                        title: 'Trust us for unparalleled custom <br class="hidden sm:block" />web outsourcing services.',
-                        dataType: "image",
-                        background: "#332A33",
-                        backgroundLight: "#DBDFE0",
-                        sourceURL: "/assets/images/works/forever-dolls/forever-dolls-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/forever-dolls/forever-dolls-fullimage1.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2916,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-start",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
-                }, {
-                    id: 15,
-                    title: "aeomax",
-                    slug: "aeomax",
-                    category: "website",
-                    image: "/assets/images/works/aeomax/aeomax-main.webp",
-                    imageLandscape: "/assets/images/works/aeomax/aeomax-main-landscape.webp",
-                    imageWidth: 1760,
-                    imageHeight: 1160,
-                    boxsize: 3,
-                    customClass: "w-full mt-12 sm:mt-0",
-                    description: "UX, UI Design, Wireframe",
-                    url: "https://aeomax.com/",
-                    client: "Aeomax",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "video",
-                        background: "#5063EE",
-                        backgroundLight: "#AFB9F1",
-                        sourceURL: "/assets/images/works/aeomax/aeomax_website.mp4",
-                        sourceURLLight: "/assets/images/works/aeomax/aeomax_website.mp4",
-                        imageWidth: 1920,
-                        imageHeight: 1080,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Aeomax is tailored workout programs by professional coaches.</h4><p class="tr__fadeUpOneByOne__always">Our team conducted in-depth UX research, resulting in improved user experience. We then created visual mockups for all pages, adhering to our design system, and generated prototypes.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !0
-                    }, {
-                        name: "web-image",
-                        title: "",
-                        background: "#464752",
-                        backgroundLight: "#CFD4D6",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/aeomax/aeomax-desktopscreen1.webp",
-                            imageWidth: 1530,
-                            imageHeight: 4072,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-7/12 h-full z-1",
-                            imageClass: "w-full mt-10 sm:mt-20 lg:mt-40 max-w-none shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/aeomax/aeomax-desktopscreen2.webp",
-                            imageWidth: 750,
-                            imageHeight: 6442,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-4/12 h-full z-0",
-                            imageClass: "float-right w-full max-w-none h-full shadow-2xl"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">Participating in the Aeomax project was a truly remarkable experience for our team. We enthusiastically embraced the challenge of conducting thorough market research, devising effective strategies, and seamlessly executing the development process.</p><p class="tr__fadeUpOneByOne__always">Our creative minds flourished as we ventured into a multitude of design concepts, meticulously refining them to create an indelible design for the mobile and desktop view. Moreover, we took immense pride in building the website from scratch, a testament to our dedication and proficiency.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/aeomax/aeomax-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/aeomax/aeomax-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 1724,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center sm:items-start h-full",
-                        wrapperCustomClass: "items-center sm:items-start"
-                    }, {
-                        name: "web-image",
-                        title: 'Superb UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
-                        background: "#4B60D7",
-                        backgroundLight: "#CDD6ED",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/aeomax/aeomax-desktopscreen3.webp",
-                            imageWidth: 1270,
-                            imageHeight: 1890,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per mt-10 sm:mt-20 lg:mt-40 max-w-none shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/aeomax/aeomax-desktopscreen4.webp",
-                            imageWidth: 1200,
-                            imageHeight: 1892,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right mt-20 sm:mt-32 lg:mt-64 w-120per max-w-none h-full shadow-2xl"
-                        }]
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>smart </span><span>ux retains </span><span>users. </span>"
-                    }, {
-                        name: "grid-image",
-                        layout: "boxy",
-                        wrapperCustomClass: "",
-                        layoutGrid: [{
-                            background: "#2E2A3F",
-                            backgroundLight: "#DBDFE1",
-                            imageURL: "",
-                            gridWrapperCustomClass: "",
-                            gridData: [{
-                                imageURL: "/assets/images/works/aeomax/aeomax-thumbscreen2.webp",
-                                imageWidth: 1692,
-                                imageHeight: 1654,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "pl-10",
-                                imageClass: ""
-                            }]
-                        }]
-                    }, {
-                        name: "single-image",
-                        title: 'Our specialty lies in providing tailored and <br class="hidden sm:block" />superior web outsourcing services.',
-                        dataType: "image",
-                        background: "#2D2E35",
-                        backgroundLight: "#DBDFE0",
-                        sourceURL: "/assets/images/works/aeomax/aeomax-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/aeomax/aeomax-fullimage1.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2680,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-start",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
-                }, {
-                    id: 16,
-                    title: "fast resume",
-                    slug: "fast-resume",
-                    category: "website",
-                    image: "/assets/images/works/fast-resume/fast-resume-main.webp",
-                    imageLandscape: "/assets/images/works/fast-resume/fast-resume-main-landscape.webp",
-                    imageWidth: 1280,
-                    imageHeight: 842,
-                    boxsize: 4,
-                    customClass: "mt-12 sm:mt-14",
-                    description: "UX, UI Design, Wireframe",
-                    url: "",
-                    client: "Fast Resume",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#DEE3E9",
-                        backgroundLight: "#E4E9ED",
-                        sourceURL: "/assets/images/works/fast-resume/fast-resume-banner.webp",
-                        sourceURLLight: "/assets/images/works/fast-resume/fast-resume-banner-light.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2022,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Fast Resume is create a winning resume with ease and secure your dream job.</h4><p class="tr__fadeUpOneByOne__always">By conducting thorough UX research, we successfully enhanced the user experience. We translated our findings into visual mockups for all pages, leveraging our design system, and created prototypes.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !1
-                    }, {
-                        name: "web-image",
-                        title: "",
-                        background: "#8D969D",
-                        backgroundLight: "#E4EAEB",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/fast-resume/fast-resume-desktopscreen1.webp",
-                            imageWidth: 1530,
-                            imageHeight: 4466,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/fast-resume/fast-resume-desktopscreen2.webp",
-                            imageWidth: 1530,
-                            imageHeight: 4040,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">Engaging in the FastResume project was a truly transformative experience for our team. We eagerly embraced the challenge of conducting meticulous market research, formulating strategic plans, and executing the development process flawlessly.</p><p class="tr__fadeUpOneByOne__always">Our creative spirit soared as we explored an array of design concepts, meticulously refining each one to create an extraordinary and unforgettable design for the mobile and desktop. Furthermore, we took immense pride in crafting the website from scratch, showcasing our expertise and commitment to excellence.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/fast-resume/fast-resume-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/fast-resume/fast-resume-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 1668,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center lg:items-start h-full",
-                        wrapperCustomClass: "items-center lg:items-start"
-                    }, {
-                        name: "web-image",
-                        title: 'Impressive UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
-                        background: "#BBC7D0",
-                        backgroundLight: "#E6ECED",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "full",
-                        wrapperCustomClass: "tr__container lg:h-full p-0",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/fast-resume/fast-resume-fullimage1.webp",
-                            imageWidth: 2480,
-                            imageHeight: 1944,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-center mt-0 sm:mt-0 lg:mt-40 w-full z-1",
-                            imageClass: "w-full max-w-none"
-                        }]
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>effective </span><span>ux boosts </span><span>user </span><span>retention. </span>"
-                    }, {
-                        name: "single-image",
-                        title: 'Get access to the finest and personalized <br class="hidden sm:block" />web outsourcing solutions.',
-                        dataType: "image",
-                        background: "#38648D",
-                        backgroundLight: "#E7EDEF",
-                        sourceURL: "/assets/images/works/fast-resume/fast-resume-fullimage2.webp",
-                        sourceURLLight: "/assets/images/works/fast-resume/fast-resume-fullimage2.webp",
-                        imageWidth: 2480,
-                        imageHeight: 1944,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-start",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
-                }, {
-                    id: 17,
-                    title: "financr",
-                    slug: "financr",
-                    category: "website",
-                    image: "/assets/images/works/financr/financr-main.webp",
-                    imageLandscape: "/assets/images/works/financr/financr-main-landscape.webp",
-                    imageWidth: 800,
-                    imageHeight: 1200,
-                    boxsize: 1,
-                    customClass: "mt-12 sm:mt-0",
-                    description: "UX, UI Design, Wireframe",
-                    url: "",
-                    client: "Financr",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#5EB7E7",
-                        backgroundLight: "#D1E7F1",
-                        sourceURL: "/assets/images/works/financr/financr-banner.webp",
-                        sourceURLLight: "/assets/images/works/financr/financr-banner-light.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2378,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Financr simplifies borrowing decisions for better loans.</h4><p class="tr__fadeUpOneByOne__always">By investing in UX research, we successfully improved the user experience. Our team designed visual mockups for all pages with our design system and generated prototypes to bring our ideas to life.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !1
-                    }, {
-                        name: "web-image",
-                        title: "",
-                        background: "#0B1839",
-                        backgroundLight: "#C1C7CE",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/financr/financr-thumbscreen1.webp",
-                            imageWidth: 2480,
-                            imageHeight: 2478,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-full h-full mt-10 sm:mt-20 lg:mt-40 z-1",
-                            imageClass: "w-full max-w-none"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">Participating in the Financ project was a one-of-a-kind journey that left a lasting impression on our team. With market research, strategic planning, development, and an artistic touch for visual aesthetics, we embraced every aspect of the challenge.</p><p class="tr__fadeUpOneByOne__always">AlphaRoar diligently explored numerous design concepts, adding depth to the collaborative process, and ultimately delivered a design and development for the mobile and desktop  that left a mark on everyone. Additionally, we took great pride in crafting the website from the ground up, showcasing our dedication and expertise.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/financr/financr-thumbscreen2.webp",
-                        sourceURLLight: "/assets/images/works/financr/financr-thumbscreen2.webp",
-                        imageWidth: 2480,
-                        imageHeight: 1834,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center lg:items-start h-full",
-                        wrapperCustomClass: "items-center lg:items-start"
-                    }, {
-                        name: "web-image",
-                        title: 'Brilliant UI/UX and Visual Design <br class="hidden sm:block" />for Inner Pages',
-                        background: "#D4D9E3",
-                        backgroundLight: "#E6EBEE",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/financr/financr-thumbscreen3.webp",
-                            imageWidth: 1880,
-                            imageHeight: 1916,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-center w-11/12 h-full m-auto lg:mt-40 z-1",
-                            imageClass: "w-11/12 max-w-none m-auto"
-                        }]
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>compeling </span><span>ux retains </span><span>users. </span>"
-                    }, {
-                        name: "single-image",
-                        title: 'Experience the best-in-class web <br class="hidden sm:block" />outsourcing services tailored to your needs.',
-                        dataType: "image",
-                        background: "#0B1839",
-                        backgroundLight: "#D7DDE0",
-                        sourceURL: "/assets/images/works/financr/financr-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/financr/financr-fullimage1.webp",
-                        imageWidth: 2880,
-                        imageHeight: 1656,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
-                }, {
-                    id: 18,
-                    title: "monotex",
-                    slug: "monotex",
-                    category: "apps",
-                    image: "/assets/images/works/monotex/monotex-main.webp",
-                    imageLandscape: "/assets/images/works/monotex/monotex-main-landscape.webp",
-                    imageWidth: 2480,
-                    imageHeight: 1400,
-                    boxsize: 2,
-                    customClass: "flex justify-center w-full mt-12 sm:mt-12",
-                    description: "UX, UI Design, Wireframe",
-                    url: "",
-                    client: "Monotex",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "video",
-                        background: "#6E4BED",
-                        backgroundLight: "#E5E7F3",
-                        sourceURL: "/assets/images/works/monotex/monotex.mp4",
-                        sourceURLLight: "/assets/images/works/monotex/monotex.mp4",
-                        imageWidth: 1240,
-                        imageHeight: 700,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">Monotex Manage accounts, transfer funds, pay bills, and locate branches easily.</h4><p class="tr__fadeUpOneByOne__always">By conducting thorough UX research, we optimized the user experience, created visual designs for all pages of the mobile app using our design system, and produced interactive prototypes.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !1
-                    }, {
-                        name: "mobile-image",
-                        background: "#2C2151",
-                        backgroundLight: "#E0E4E8",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "py-24 lg:py-32",
-                        animationStyle: "reverse",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/monotex/monotex-mobilescreen1.webp",
-                            imageWidth: 772,
-                            imageHeight: 1616,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "mt-20",
-                            imageClass: "w-full"
-                        }, {
-                            imageURL: "/assets/images/works/monotex/monotex-mobilescreen2.webp",
-                            imageWidth: 772,
-                            imageHeight: 1618,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "",
-                            imageClass: "w-full"
-                        }, {
-                            imageURL: "/assets/images/works/monotex/monotex-mobilescreen3.webp",
-                            imageWidth: 776,
-                            imageHeight: 1616,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "mt-20",
-                            imageClass: "w-full"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">Participating in Monotex, an ambitious and expansive project, was an exceptional experience for us. Our team embraced responsibilities ranging from market research to strategy development, alongside AlphaRoar\'s efforts in creating an unforgettable mobile application design through a collaborative process involving multiple design concepts.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !0
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#6240DD",
-                        backgroundLight: "#E4E7F1",
-                        sourceURL: "/assets/images/works/monotex/monotex-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/monotex/monotex-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 3430,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "items-start mt-10 sm:mt-20 lg:mt-40",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>clever </span><span>ux retains </span><span>users </span><span>longer. </span>"
-                    }, {
-                        name: "grid-image",
-                        layout: "boxy",
-                        wrapperCustomClass: "",
-                        layoutGrid: [{
-                            background: "#2E2A3F",
-                            backgroundLight: "#E1E5E6",
-                            imageURL: "",
-                            gridWrapperCustomClass: "",
-                            gridData: [{
-                                imageURL: "/assets/images/works/monotex/monotex-mobilescreen4.webp",
-                                imageWidth: 792,
-                                imageHeight: 1652,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "pl-10",
-                                imageClass: ""
-                            }, {
-                                imageURL: "/assets/images/works/monotex/monotex-mobilescreen5.webp",
-                                imageWidth: 792,
-                                imageHeight: 1652,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "pr-10",
-                                imageClass: ""
-                            }]
-                        }]
-                    }, {
-                        name: "mobile-image",
-                        background: "#6E4BED",
-                        backgroundLight: "#E5E7F3",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "h-screen65w xl:h-screen125 overflow-hidden",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/monotex/monotex-mobilescreen6.webp",
-                            imageWidth: 776,
-                            imageHeight: 2370,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start mt-40 sm:mt-64 lg:mt-0",
-                            imageClass: "w-full"
-                        }, {
-                            imageURL: "/assets/images/works/monotex/monotex-mobilescreen7.webp",
-                            imageWidth: 772,
-                            imageHeight: 2636,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start",
-                            imageClass: "w-full"
-                        }, {
-                            imageURL: "/assets/images/works/monotex/monotex-mobilescreen8.webp",
-                            imageWidth: 776,
-                            imageHeight: 2624,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex items-center lg:items-start -mt-52 sm:-mt-80 lg:mt-0",
-                            imageClass: "w-full"
-                        }]
-                    }, {
-                        name: "single-image",
-                        title: 'Experience the excellence of our custom <br class="hidden sm:block" />web outsourcing services.',
-                        dataType: "image",
-                        background: "#281E4D",
-                        backgroundLight: "#E4E8EB",
-                        sourceURL: "/assets/images/works/monotex/monotex-thumbscreen2.webp",
-                        sourceURLLight: "/assets/images/works/monotex/monotex-thumbscreen2.webp",
-                        imageWidth: 1524,
-                        imageHeight: 1424,
-                        layout: "boxy",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start max-w-3xl mb-32 lg:mb-40",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
-                }, {
-                    id: 19,
-                    title: "homebid",
-                    slug: "homebid",
-                    category: "website",
-                    image: "/assets/images/works/homebid/homebid-main.webp",
-                    imageLandscape: "/assets/images/works/homebid/homebid-main-landscape.webp",
-                    imageWidth: 1280,
-                    imageHeight: 842,
-                    boxsize: 4,
-                    customClass: "mt-12 sm:mt-14",
-                    description: "UI Design, UX, Wireframe",
-                    url: "",
-                    client: "Homebid",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#BBC7D0",
-                        backgroundLight: "#DFE6E9",
-                        sourceURL: "/assets/images/works/homebid/homebid-banner.webp",
-                        sourceURLLight: "/assets/images/works/homebid/homebid-banner-light.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2796,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">HomeBid is a real-time bidding platform for buying and selling property online.</h4><p class="tr__fadeUpOneByOne__always">Our process involved conducting thorough UX research, enhancing user experience, creating visual mockups for all pages using our design system, and generating prototypes.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !1
-                    }, {
-                        name: "web-image",
-                        title: "",
-                        background: "#303538",
-                        backgroundLight: "#DBE0E0",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/homebid/homebid-desktopscreen1.webp",
-                            imageWidth: 1530,
-                            imageHeight: 4432,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-7/12 h-full z-1",
-                            imageClass: "w-full max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/homebid/homebid-desktopscreen2.webp",
-                            imageWidth: 750,
-                            imageHeight: 5338,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-center w-4/12 h-full z-0",
-                            imageClass: "float-right w-full max-w-none h-full shadow-2xl"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">The Homebid project presented our team with an exhilarating opportunity to immerse ourselves in an ambitious and expansive undertaking. With great enthusiasm, we delved into market research, strategizing, and development, and let our creativity flow freely as we crafted captivating visual elements.</p><p class="tr__fadeUpOneByOne__always">Throughout the extensive collaborative process, we explored numerous design concepts, ultimately fashioning an unforgettable design for both the mobile and desktop. Notably, we also took charge of building the website from the ground up, showcasing our versatility and proficiency.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/homebid/homebid-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/homebid/homebid-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 2160,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center lg:items-start h-full",
-                        wrapperCustomClass: "items-center lg:items-start"
-                    }, {
-                        name: "web-image",
-                        title: 'Stunning UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
-                        background: "#BAC6CF",
-                        backgroundLight: "#E4EAEC",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/homebid/homebid-desktopscreen3.webp",
-                            imageWidth: 1270,
-                            imageHeight: 2170,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/homebid/homebid-desktopscreen4.webp",
-                            imageWidth: 1200,
-                            imageHeight: 2128,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
-                        }]
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>engaging </span><span>ux keeps </span><span>users</span><span>hooked. </span>"
-                    }, {
-                        name: "grid-image",
-                        layout: "boxy",
-                        wrapperCustomClass: "",
-                        layoutGrid: [{
-                            background: "#BBC7D0",
-                            backgroundLight: "#E5EBED",
-                            imageURL: "",
-                            gridWrapperCustomClass: "",
-                            gridData: [{
-                                imageURL: "/assets/images/works/homebid/homebid-thumbscreen2.webp",
-                                imageWidth: 1692,
-                                imageHeight: 1654,
-                                animation: !1,
-                                animationSpeed: 0,
-                                customClass: "pl-10",
-                                imageClass: ""
-                            }]
-                        }]
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#BBC7D0",
-                        backgroundLight: "#DFE6E9",
-                        sourceURL: "/assets/images/works/homebid/homebid-thumbscreen3.webp",
-                        sourceURLLight: "/assets/images/works/homebid/homebid-thumbscreen3.webp",
-                        imageWidth: 2610,
-                        imageHeight: 2068,
-                        layout: "full",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-start h-full",
-                        wrapperCustomClass: "items-start p-28 pt-10 sm:pt-18 lg:pt-28"
-                    }, {
-                        name: "single-image",
-                        title: 'Experience the excellence of our custom <br class="hidden sm:block" />web outsourcing services.',
-                        dataType: "image",
-                        background: "#313538",
-                        backgroundLight: "#DBE0E0",
-                        sourceURL: "/assets/images/works/homebid/homebid-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/homebid/homebid-fullimage1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 1860,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-start",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
-                }, {
-                    id: 20,
-                    title: "ogre",
-                    slug: "ogre",
-                    category: "website",
-                    image: "/assets/images/works/ogre/ogre-main.webp",
-                    imageLandscape: "/assets/images/works/ogre/ogre-main-landscape.webp",
-                    imageWidth: 800,
-                    imageHeight: 1200,
-                    boxsize: 1,
-                    customClass: "mt-12 sm:mt-0",
-                    description: "UX, UI Design, Wireframe",
-                    url: "https://ogretruckco.com/",
-                    client: "Ogre",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#323232",
-                        backgroundLight: "#DBE0E0",
-                        sourceURL: "/assets/images/works/ogre/ogre-banner.webp",
-                        sourceURLLight: "/assets/images/works/ogre/ogre-banner-light.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2868,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">The Ogre, embodies the inner monster within every skater, poised to emerge.</h4><p class="tr__fadeUpOneByOne__always">We create website\'s UI and visual mockups from provided wireframes with design system and generated prototypes.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !0
-                    }, {
-                        name: "web-image",
-                        title: "",
-                        background: "#757662",
-                        backgroundLight: "#D6DAD6",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/ogre/ogre-desktopscreen1.webp",
-                            imageWidth: 1530,
-                            imageHeight: 4504,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-7/12 h-full z-1",
-                            imageClass: "w-full max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/ogre/ogre-desktopscreen2.webp",
-                            imageWidth: 750,
-                            imageHeight: 5544,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-4/12 h-full z-0",
-                            imageClass: "float-right w-full max-w-none h-full shadow-2xl"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">The OGRE project opened the doors to an exhilarating adventure for our team. We wholeheartedly embraced the tasks of conducting extensive market research, crafting robust strategies, and executing the development process with precision.</p><p class="tr__fadeUpOneByOne__always">Our imagination ran wild as we experimented with numerous design concepts, dedicating ourselves to creating an indelible design for the mobile and desktop. Additionally, we took on the challenge of building the website from scratch, allowing us to demonstrate our prowess and deliver exceptional results.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/ogre/ogre-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/ogre/ogre-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 1672,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center lg:items-start h-full",
-                        wrapperCustomClass: "items-center lg:items-start"
-                    }, {
-                        name: "web-image",
-                        title: 'Incredible UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
-                        background: "#DFE1E3",
-                        backgroundLight: "#E7EAEB",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/ogre/ogre-desktopscreen3.webp",
-                            imageWidth: 1270,
-                            imageHeight: 2315,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/ogre/ogre-desktopscreen4.webp",
-                            imageWidth: 1200,
-                            imageHeight: 2871,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
-                        }]
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>clever </span><span>ux retains </span><span>users</span><span>longer. </span>"
-                    }, {
-                        name: "single-image",
-                        title: 'Unlock the power of bespoke web <br class="hidden sm:block" />outsourcing services.',
-                        dataType: "image",
-                        background: "#313538",
-                        backgroundLight: "#E4E9E9",
-                        sourceURL: "/assets/images/works/ogre/ogre-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/ogre/ogre-fullimage1.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2764,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-start",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
-                }, {
-                    id: 21,
-                    title: "flow row",
-                    slug: "flow-row",
-                    category: "website",
-                    image: "/assets/images/works/flow-row/flow-row-main.webp",
-                    imageLandscape: "/assets/images/works/flow-row/flow-row-main-landscape.webp",
-                    imageWidth: 1760,
-                    imageHeight: 1160,
-                    boxsize: 3,
-                    customClass: "flex justify-center w-full mt-12 sm:mt-0",
-                    description: "UX, UI Design, Wireframe",
-                    url: "https://world.flowrow.fit/",
-                    client: "Flow Row",
-                    year: "2022-2023",
-                    displayHome: !1,
-                    sections: [{
-                        name: "banner-image",
-                        title: "",
-                        dataType: "image",
-                        background: "#E0E4EA",
-                        backgroundLight: "#E0E4EA",
-                        sourceURL: "/assets/images/works/flow-row/flow-row-banner.webp",
-                        sourceURLLight: "/assets/images/works/flow-row/flow-row-banner-light.webp",
-                        imageWidth: 2880,
-                        imageHeight: 4026,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "items-start",
-                        wrapperCustomClass: "items-start"
-                    }, {
-                        name: "details",
-                        title: "About project",
-                        description: '<h4 class="tr__fadeUpOneByOne__always">FlowRow - the innovative full-body workout for better performance and health</h4><p class="tr__fadeUpOneByOne__always">With a strong focus on UX, we conducted comprehensive research to enhance the user experience. We then designed visual mockups for all pages, following our design system, and created prototypes to validate our concepts.</p>',
-                        sourceType: "image",
-                        sourceURL: "",
-                        customClass: "",
-                        action: !0
-                    }, {
-                        name: "web-image",
-                        title: "",
-                        background: "#E0E4EA",
-                        backgroundLight: "#E7EBEE",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/flow-row/flow-row-desktopscreen1.webp",
-                            imageWidth: 1530,
-                            imageHeight: 3698,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-7/12 h-full z-1",
-                            imageClass: "w-full max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/flow-row/flow-row-desktopscreen2.webp",
-                            imageWidth: 750,
-                            imageHeight: 5206,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-4/12 h-full z-0",
-                            imageClass: "float-right w-full max-w-none h-full shadow-2xl"
-                        }]
-                    }, {
-                        name: "details",
-                        title: "Our Mission",
-                        description: '<p class="tr__fadeUpOneByOne__always">Engrossed in the FlowRow project, we were privileged to embark on an extraordinary journey. Our team enthusiastically undertook the tasks of market research, strategic planning, development, and unleashing our creativity to create visually captivating designs.</p><p class="tr__fadeUpOneByOne__always">Throughout our extensive collaboration, AlphaRoar tirelessly explored countless design concepts, ultimately crafting an unforgettable design for the mobile and desktop website. And let\'s not forget, we also built the website from scratch, adding an extra sense of accomplishment to our involvement.</p>',
-                        imageType: "image",
-                        image: "",
-                        action: !1
-                    }, {
-                        name: "single-image",
-                        title: "",
-                        dataType: "image",
-                        background: "",
-                        backgroundLight: "",
-                        sourceURL: "/assets/images/works/flow-row/flow-row-thumbscreen1.webp",
-                        sourceURLLight: "/assets/images/works/flow-row/flow-row-thumbscreen1.webp",
-                        imageWidth: 2480,
-                        imageHeight: 2106,
-                        layout: "boxy",
-                        animation: !0,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center lg:items-start h-full",
-                        wrapperCustomClass: "items-center lg:items-start"
-                    }, {
-                        name: "web-image",
-                        title: 'Unparalleled UI/UX and Visual <br class="hidden sm:block" />Design for Interior Pages',
-                        background: "#E0E4EA",
-                        backgroundLight: "#E7EBEE",
-                        imageURL: "",
-                        imageURLLight: "",
-                        layout: "boxy",
-                        wrapperCustomClass: "tr__container h-full",
-                        layoutData: [{
-                            imageURL: "/assets/images/works/flow-row/flow-row-desktopscreen3.webp",
-                            imageWidth: 1270,
-                            imageHeight: 3758,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-start items-start w-8/12 h-full z-1",
-                            imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
-                        }, {
-                            imageURL: "/assets/images/works/flow-row/flow-row-desktopscreen4.webp",
-                            imageWidth: 1270,
-                            imageHeight: 3618,
-                            animation: !1,
-                            animationSpeed: 0,
-                            customClass: "flex justify-end items-start w-8/12 h-full z-0",
-                            imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
-                        }]
-                    }, {
-                        name: "visual-quote",
-                        text: "<span>clever </span><span>ux retains </span><span>users </span><span>longer. </span>"
-                    }, {
-                        name: "single-image",
-                        title: 'Unparalleled web outsourcing <br class="hidden sm:block" />with a custom touch.',
-                        dataType: "image",
-                        background: "#182B46",
-                        backgroundLight: "#D9DFE2",
-                        sourceURL: "/assets/images/works/flow-row/flow-row-fullimage1.webp",
-                        sourceURLLight: "/assets/images/works/flow-row/flow-row-fullimage1.webp",
-                        imageWidth: 2880,
-                        imageHeight: 2576,
-                        layout: "full",
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-start",
-                        wrapperCustomClass: "items-start h-full"
-                    }]
-                }];
+                },
+                
+                // {
+                //     id: 2,
+                //     title: "8octa",
+                //     slug: "8octa",
+                //     category: "branding",
+                //     image: "/assets/images/works/8octa/8octa-main.webp",
+                //     imageLandscape: "/assets/images/works/8octa/8octa-main-landscape.webp",
+                //     imageWidth: 800,
+                //     imageHeight: 1200,
+                //     boxsize: 1,
+                //     customClass: "mt-12 sm:mt-24",
+                //     description: "Research, Branding",
+                //     url: "",
+                //     client: "8Octa",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#0F00C2",
+                //         backgroundLight: "#0F00C2",
+                //         sourceURL: "/assets/images/works/8octa/8octa-banner.webp",
+                //         sourceURLLight: "/assets/images/works/8octa/8octa-banner.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2800,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-center lg:mt-40",
+                //         wrapperCustomClass: "items-center"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Empower your data-driven decisions with 8Octa\'s cutting-edge Statistical Data Analytics software.</h4><p class="tr__fadeUpOneByOne__always">As architects of the entire process, we spearheaded the development of a fresh corporate identity for the service, starting from scratch.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/8octa/8octa-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/8octa/8octa-thumbscreen1-light.webp",
+                //         imageWidth: 2482,
+                //         imageHeight: 2480,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "items-center lg:items-start mb-40 lg:mb-0 lg:mt-40",
+                //         wrapperCustomClass: "items-center lg:items-start h-full"
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#0F00C2",
+                //         backgroundLight: "#0F00C2",
+                //         sourceURL: "/assets/images/works/8octa/8octa-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/8octa/8octa-fullimage1.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 4220,
+                //         layout: "full",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "items-center lg:items-start",
+                //         wrapperCustomClass: "items-center lg:items-start"
+                //     }, {
+                //         name: "grid-image",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "",
+                //         layoutGrid: [{
+                //             background: "#000000",
+                //             backgroundLight: "#000000",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "mb-20",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/8octa/8octa-thumbscreen2.webp",
+                //                 imageWidth: 2264,
+                //                 imageHeight: 1307,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "flex justify-center items-center",
+                //                 imageClass: ""
+                //             }]
+                //         }, {
+                //             background: "#000000",
+                //             backgroundLight: "#000000",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "mb-20",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/8octa/8octa-thumbscreen3.webp",
+                //                 imageWidth: 2080,
+                //                 imageHeight: 900,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "flex justify-center items-center",
+                //                 imageClass: ""
+                //             }]
+                //         }, {
+                //             background: "#000000",
+                //             backgroundLight: "#000000",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/8octa/8octa-thumbscreen4.webp",
+                //                 imageWidth: 2032,
+                //                 imageHeight: 768,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "flex justify-center items-center",
+                //                 imageClass: ""
+                //             }]
+                //         }]
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/8octa/8octa-fullimage2.webp",
+                //         sourceURLLight: "/assets/images/works/8octa/8octa-fullimage2.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2160,
+                //         layout: "full",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "items-center lg:items-start",
+                //         wrapperCustomClass: "items-center lg:items-start"
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>minimal </span><span>branding </span><span>makes </span><span>great </span><span>effort </span>"
+                //     }, {
+                //         name: "grid-image",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "",
+                //         layoutGrid: [{
+                //             background: "",
+                //             backgroundLight: "",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "p-0 mb-20",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/8octa/8octa-thumbscreen5.webp",
+                //                 imageWidth: 2480,
+                //                 imageHeight: 1860,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "flex justify-center items-center lg:items-start",
+                //                 imageClass: ""
+                //             }]
+                //         }, {
+                //             background: "",
+                //             backgroundLight: "",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "p-0 mb-20",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/8octa/8octa-thumbscreen6.webp",
+                //                 imageWidth: 2480,
+                //                 imageHeight: 1600,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "flex justify-center items-center lg:items-start",
+                //                 imageClass: ""
+                //             }]
+                //         }, {
+                //             background: "",
+                //             backgroundLight: "",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "p-0",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/8octa/8octa-thumbscreen7.webp",
+                //                 imageWidth: 2480,
+                //                 imageHeight: 1800,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "flex justify-center items-center lg:items-start",
+                //                 imageClass: ""
+                //             }]
+                //         }]
+                //     }]
+                // }, {
+                //     id: 3,
+                //     title: "imusic",
+                //     slug: "imusic",
+                //     category: "apps",
+                //     image: "/assets/images/works/imusic/imusic-main.webp",
+                //     imageLandscape: "/assets/images/works/imusic/imusic-main-landscape.webp",
+                //     imageWidth: 1520,
+                //     imageHeight: 1e3,
+                //     boxsize: 0,
+                //     customClass: "mt-12 sm:mt-0",
+                //     description: "Research, UX, UI Design",
+                //     url: "",
+                //     client: "iMusic",
+                //     year: "2022-2023",
+                //     displayHome: !0,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "video",
+                //         background: "#1E2034",
+                //         backgroundLight: "#E4E8E9",
+                //         sourceURL: "/assets/images/works/imusic/imusic.mp4",
+                //         sourceURLLight: "/assets/images/works/imusic/imusic.mp4",
+                //         imageWidth: 1920,
+                //         imageHeight: 1080,
+                //         layout: "boxy",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Discover, stream, and groove to your favorite tunes anytime, anywhere with iMusic, the ultimate online music companion.</h4><p class="tr__fadeUpOneByOne__always">Through meticulous UX research, we improved the user experience, developed mobile app visuals for all pages adhering to our design system, and generated interactive prototypes for comprehensive evaluation.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !1
+                //     }, {
+                //         name: "mobile-image",
+                //         background: "#101120",
+                //         backgroundLight: "#E3E8E8",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "py-32 sm:py-24 md:py-32",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/imusic/imusic-mobilescreen1.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 1618,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "",
+                //             imageClass: "w-full -mt-14 lg:mt-0"
+                //         }, {
+                //             imageURL: "/assets/images/works/imusic/imusic-mobilescreen2.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 1616,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "",
+                //             imageClass: "w-full"
+                //         }, {
+                //             imageURL: "/assets/images/works/imusic/imusic-mobilescreen3.webp",
+                //             imageWidth: 776,
+                //             imageHeight: 1616,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "",
+                //             imageClass: "w-full mt-14 lg:mt-0 -mb-14 lg:mb-0"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">iMusic marked a significant milestone in our professional journey, as we immersed ourselves in this ambitious, large-scale project. Our contributions encompassed market research, strategy elaboration, and visual innovation, while AlphaRoar\'s expertise shone through in crafting an unforgettable mobile application design after exploring numerous design concepts.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !0
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#24263B",
+                //         backgroundLight: "#E1E6E9",
+                //         sourceURL: "/assets/images/works/imusic/imusic-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/imusic/imusic-thumbscreen1.webp",
+                //         imageWidth: 2482,
+                //         imageHeight: 3016,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "items-start mt-10 sm:mt-20 lg:mt-40",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>compeling </span><span>ux retains </span><span>users. </span>"
+                //     }, {
+                //         name: "grid-image",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "",
+                //         layoutGrid: [{
+                //             background: "#6B6D8D",
+                //             backgroundLight: "#E1E6E9",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/imusic/imusic-mobilescreen4.webp",
+                //                 imageWidth: 794,
+                //                 imageHeight: 1653,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "pl-10",
+                //                 imageClass: ""
+                //             }, {
+                //                 imageURL: "/assets/images/works/imusic/imusic-mobilescreen5.webp",
+                //                 imageWidth: 793,
+                //                 imageHeight: 1653,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "pr-10",
+                //                 imageClass: ""
+                //             }]
+                //         }]
+                //     }, {
+                //         name: "mobile-image",
+                //         background: "#24263C",
+                //         backgroundLight: "#E4E9EA",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "h-screen65w xl:h-screen125 overflow-hidden",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/imusic/imusic-mobilescreen6.webp",
+                //             imageWidth: 776,
+                //             imageHeight: 2070,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "",
+                //             imageClass: "w-full -mt-24 lg:mt-0"
+                //         }, {
+                //             imageURL: "/assets/images/works/imusic/imusic-mobilescreen7.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 3310,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "",
+                //             imageClass: "w-full mt-24 lg:mt-0"
+                //         }, {
+                //             imageURL: "/assets/images/works/imusic/imusic-mobilescreen8.webp",
+                //             imageWidth: 750,
+                //             imageHeight: 1624,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "",
+                //             imageClass: "w-full"
+                //         }]
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Unlock the power of bespoke web <br class="hidden sm:block" />outsourcing services.',
+                //         dataType: "image",
+                //         background: "#3943A7",
+                //         backgroundLight: "#DCE1EB",
+                //         sourceURL: "/assets/images/works/imusic/imusic-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/imusic/imusic-fullimage1.webp",
+                //         imageWidth: 1622,
+                //         imageHeight: 1672,
+                //         layout: "boxy",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "max-w-xl items-start mb-32 lg:mb-40",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }, {
+                //     id: 4,
+                //     title: "technis",
+                //     slug: "technis",
+                //     category: "website",
+                //     image: "/assets/images/works/technis/technis-main.webp",
+                //     imageLandscape: "/assets/images/works/technis/technis-main-landscape.webp",
+                //     imageWidth: 2480,
+                //     imageHeight: 1400,
+                //     boxsize: 2,
+                //     customClass: "flex justify-center w-full mt-12 sm:mt-12",
+                //     description: "UX, UI Design, Development",
+                //     url: "https://technis.com/",
+                //     client: "Technis",
+                //     year: "2022-2023",
+                //     displayHome: !0,
+                //     sections: [  {
+                //         name: "web-image",
+                //         title: 'Remarkable UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                //         background: "#D9DEE5",
+                //         backgroundLight: "#D9DEE5",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-screen150",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/work/muhami/1.png",
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/work/muhami/1a.png",
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                //         }]
+                //     },, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Technis become a leading provider of data acquisition solutions for building management.</h4><p class="tr__fadeUpOneByOne__always">With a focus on UX improvement, we conducted meticulous research, leading to enhanced user experience. Our team then crafted visual mockups for all pages, utilizing our design system, and produced prototypes and custom wordpress development.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !0
+                //     },
+                //     {
+                //         name: "web-image",
+                //         title: 'Remarkable2 UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                //         background: "#D9DEE5",
+                //         backgroundLight: "#D9DEE5",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-screen150",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/work/muhami/2.png",
+                //             // imageWidth: 1270,
+                //             // imageHeight: 3124,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/work/muhami/3.png",
+                //             // imageWidth: 1270,
+                //             // imageHeight: 2976,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                //         }]
+                //     },
+                    
+                //     {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">Engaging in the Technis project was nothing short of an extraordinary adventure for our team. Taking on the challenge of market research, strategic planning, development, and unleashing our creativity in crafting compelling visuals was truly invigorating. Throughout the extensive collaborative journey</p><p class="tr__fadeUpOneByOne__always">AlphaRoar explored numerous design concepts, leading to an unforgettable and exceptional design and development for both the mobile and desktop view. And as if that wasn\'t enough, we proudly built the entire website from the ground up, adding another feather to our cap.</p>',
+                //         imageType: "image",
+                //         image: "",
+                //         action: !1
+                //     }, 
+                //     {
+                //         name: "web-image",
+                //         title: 'Remarkable3 UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                //         background: "#D9DEE5",
+                //         backgroundLight: "#D9DEE5",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-screen150",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/work/muhami/4.png",
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/work/muhami/4a.png",
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                //         }]
+                //     },
+                    
+                //     {
+                //         name: "visual-quote",
+                //         text: "<span>intuitive </span><span>ux </span><span>prolongs </span><span>user stay. </span>"
+                //     },   {
+                //         name: "web-image",
+                //         title: 'Remarkable4 UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                //         background: "#D9DEE5",
+                //         backgroundLight: "#D9DEE5",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-screen150",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/work/muhami/4.png",
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/work/muhami/4a.png",
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                //         }]
+                //     },]
+                // }, {
+                //     id: 5,
+                //     title: "merit global",
+                //     slug: "merit-global",
+                //     category: "website",
+                //     image: "/assets/images/works/merit-global/merit-global-main.webp",
+                //     imageLandscape: "/assets/images/works/merit-global/merit-global-main-landscape.webp",
+                //     imageWidth: 1520,
+                //     imageHeight: 1e3,
+                //     boxsize: 0,
+                //     customClass: "mt-12 sm:mt-0",
+                //     description: "UX, UI Design, Development",
+                //     url: "https://www.meritglobal.org/",
+                //     client: "Merit Global",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#DC1D00",
+                //         backgroundLight: "#EAC8C2",
+                //         sourceURL: "/assets/images/works/merit-global/merit-global-banner.webp",
+                //         sourceURLLight: "/assets/images/works/merit-global/merit-global-banner-light.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2512,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Merit Global, the leading company for UK businesses exploring skilled worker sponsorship.</h4><p class="tr__fadeUpOneByOne__always">Through diligent UX research, we identified areas for improvement, enabling us to create visual mockups for all pages using our design system. Additionally, we generated prototypes to validate our design decisions.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !0
+                //     }, {
+                //         name: "web-image",
+                //         title: "",
+                //         background: "#DC1D00",
+                //         backgroundLight: "#ECDEDB",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/merit-global/merit-global-desktopscreen1.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 4484,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/merit-global/merit-global-desktopscreen2.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 4826,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">It was a unique and novel experience for us to be a part of the ambitious Merti Global project. Our team embraced the responsibility of market research, strategy development, and the delightful task of getting creative with visuals.</p><p class="tr__fadeUpOneByOne__always">Through a lengthy and fruitful collaborative effort, AlphaRoar dived into countless design concepts, culminating in an awe-inspiring and unforgettable design and development for the mobile and desktop. Not to forget, we also put our skills to the test by meticulously building the website from scratch.</p>',
+                //         imageType: "image",
+                //         image: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/merit-global/merit-global-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/merit-global/merit-global-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 2150,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-center h-full",
+                //         wrapperCustomClass: "items-center"
+                //     }, {
+                //         name: "web-image",
+                //         title: 'Outstanding UI/UX and Visual <br class="hidden sm:block" />Design for Internal Pages',
+                //         background: "#DC1D00",
+                //         backgroundLight: "#ECDEDB",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/merit-global/merit-global-desktopscreen3.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 2248,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/merit-global/merit-global-desktopscreen4.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 2489,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>smart ux </span><span>encoura </span><span>ges user </span><span>loyalty. </span>"
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Partner with us for unrivaled and optimized <br class="hidden sm:block" /> web outsourcing services.',
+                //         dataType: "image",
+                //         background: "#545454",
+                //         backgroundLight: "#DFE3E3",
+                //         sourceURL: "/assets/images/works/merit-global/merit-global-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/merit-global/merit-global-fullimage1.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2952,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-start",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }, {
+                //     id: 6,
+                //     title: "reyden",
+                //     slug: "reyden",
+                //     category: "website",
+                //     image: "/assets/images/works/reyden/reyden-main.webp",
+                //     imageLandscape: "/assets/images/works/reyden/reyden-main-landscape.webp",
+                //     imageWidth: 800,
+                //     imageHeight: 1200,
+                //     boxsize: 1,
+                //     customClass: "mt-12 sm:mt-24",
+                //     description: "UX, UI Design, Development",
+                //     url: "https://www.reyden.se/",
+                //     client: "Reyden",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#D80000",
+                //         backgroundLight: "#E37A7A",
+                //         sourceURL: "/assets/images/works/reyden/reyden-banner.webp",
+                //         sourceURLLight: "/assets/images/works/reyden/reyden-banner-light.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 3436,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Reyden has been providing best-in-class supply chain engineering solutions to Oil, Gas and Energy industries.</h4><p class="tr__fadeUpOneByOne__always">Conducted thorough UX research, created visual mockups aligned with design system, and generated prototypes for all pages</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !0
+                //     }, {
+                //         name: "web-image",
+                //         title: "",
+                //         background: "#F5F5F5",
+                //         backgroundLight: "#F5F5F5",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/reyden/reyden-desktopscreen1.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 3556,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/reyden/reyden-desktopscreen2.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 2465,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">The Reyden project provided us with an unparalleled and enriching experience. With a diverse range of responsibilities, from market research and strategy elaboration to development and visual creativity, our team fully embraced the opportunity.</p><p class="tr__fadeUpOneByOne__always">The journey with AlphaRoar was filled with innovation and determination, exploring countless design concepts, and culminating in a truly unforgettable design and development for the mobile and desktop. Notably, we can proudly claim that we handcrafted the entire website from scratch, adding our personal touch to the project.</p>',
+                //         imageType: "image",
+                //         image: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/reyden/reyden-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/reyden/reyden-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 1736,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-center h-full",
+                //         wrapperCustomClass: "items-center"
+                //     }, {
+                //         name: "web-image",
+                //         title: 'Exquisite UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                //         background: "#545454",
+                //         backgroundLight: "#DFE3E3",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/reyden/reyden-desktopscreen3.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 3020,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/reyden/reyden-desktopscreen4.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 2962,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>stay </span><span>longer </span><span>with smart </span><span>ux. </span>"
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Embrace the finest and tailor-made <br class="hidden sm:block" />web outsourcing.',
+                //         dataType: "image",
+                //         background: "#333333",
+                //         backgroundLight: "#E1E6E6",
+                //         sourceURL: "/assets/images/works/reyden/reyden-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/reyden/reyden-fullimage1.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2184,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-center",
+                //         wrapperCustomClass: "items-center h-full"
+                //     }]
+                // }, {
+                //     id: 7,
+                //     title: "crowdmouth",
+                //     slug: "crowdmouth",
+                //     category: "apps",
+                //     image: "/assets/images/works/crowdmouth/crowdmouth-main.webp",
+                //     imageLandscape: "/assets/images/works/crowdmouth/crowdmouth-main-landscape.webp",
+                //     imageWidth: 1760,
+                //     imageHeight: 1160,
+                //     boxsize: 3,
+                //     customClass: "flex justify-center w-full mt-12 sm:mt-0",
+                //     description: "UI Design, UX, Wireframe",
+                //     url: "https://apps.apple.com/us/app/crowdmouth-for-creators/id1556232080",
+                //     client: "Crowdmouth",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "video",
+                //         background: "#474253",
+                //         backgroundLight: "#DDE1E3",
+                //         sourceURL: "/assets/images/works/crowdmouth/crowdmouth.mp4",
+                //         sourceURLLight: "/assets/images/works/crowdmouth/crowdmouth.mp4",
+                //         imageWidth: 1280,
+                //         imageHeight: 720,
+                //         layout: "boxy",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Crowdmouth is a direct-to-fan platform empowering creators to engage, monetize and grow their audiences.</h4><p class="tr__fadeUpOneByOne__always">Our team delved into comprehensive UX research, resulting in enhanced user experience. We then crafted mobile app visuals for every page, following our design system, and generated interactive prototypes.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !0
+                //     }, {
+                //         name: "mobile-image",
+                //         background: "#1D1B23",
+                //         backgroundLight: "#E4E8E9",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "py-32 sm:py-24 md:py-32 lg:pb-0",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen1.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 1684,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start",
+                //             imageClass: "w-full"
+                //         }, {
+                //             imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen2.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 2034,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start",
+                //             imageClass: "w-full"
+                //         }, {
+                //             imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen3.webp",
+                //             imageWidth: 776,
+                //             imageHeight: 1680,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start",
+                //             imageClass: "w-full"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">Crowdmouth presented us with a remarkable opportunity to be part of a groundbreaking, large-scale project. Our team contributed to market research, strategy elaboration, and visual creativity, while AlphaRoar\'s expertise brought forth a memorable mobile application design after exploring numerous design concepts.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#474253",
+                //         backgroundLight: "#DDE1E3",
+                //         sourceURL: "/assets/images/works/crowdmouth/crowdmouth-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/crowdmouth/crowdmouth-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 3066,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "mt-10 sm:mt-20 lg:mt-40",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>smart ux </span><span>make users </span><span>stay. </span>"
+                //     }, {
+                //         name: "grid-image",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "",
+                //         layoutGrid: [{
+                //             background: "#322E3B",
+                //             backgroundLight: "#DBDFE1",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "mb-20",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen4.webp",
+                //                 imageWidth: 792,
+                //                 imageHeight: 1844,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "pl-10",
+                //                 imageClass: ""
+                //             }, {
+                //                 imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen5.webp",
+                //                 imageWidth: 793,
+                //                 imageHeight: 1656,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "pr-10 mt-10 sm:mt-20 lg:mt-40",
+                //                 imageClass: ""
+                //             }]
+                //         }, {
+                //             background: "#211D29",
+                //             backgroundLight: "#E4E8E9",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "h-full items-center",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/crowdmouth/crowdmouth-thumbscreen2.webp",
+                //                 imageWidth: 1692,
+                //                 imageHeight: 302,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "flex items-start justify-center w-full",
+                //                 imageClass: ""
+                //             }]
+                //         }]
+                //     }, {
+                //         name: "mobile-image",
+                //         background: "#474253",
+                //         backgroundLight: "#DDE1E3",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "h-screen65w xl:h-screen125 overflow-hidden",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen6.webp",
+                //             imageWidth: 776,
+                //             imageHeight: 2278,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "",
+                //             imageClass: "w-full mt-10 sm:mt-20 lg:mt-0"
+                //         }, {
+                //             imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen7.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 3050,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start",
+                //             imageClass: "w-full"
+                //         }, {
+                //             imageURL: "/assets/images/works/crowdmouth/crowdmouth-mobilescreen8.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 2696,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "",
+                //             imageClass: "w-full -mt-48 sm:-mt-72 lg:mt-0"
+                //         }]
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Our specialty lies in providing tailored and <br class="hidden sm:block" />superior web outsourcing services.',
+                //         dataType: "image",
+                //         background: "#1D1B23",
+                //         backgroundLight: "#E4E8E9",
+                //         sourceURL: "/assets/images/works/crowdmouth/crowdmouth-thumbscreen3.webp",
+                //         sourceURLLight: "/assets/images/works/crowdmouth/crowdmouth-thumbscreen3.webp",
+                //         imageWidth: 2268,
+                //         imageHeight: 1872,
+                //         layout: "boxy",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "",
+                //         wrapperCustomClass: "items-start"
+                //     }]
+                // }, {
+                //     id: 8,
+                //     title: "stuffosome",
+                //     slug: "stuffosome",
+                //     category: "branding",
+                //     image: "/assets/images/works/stuffosome/stuffosome-main.webp",
+                //     imageLandscape: "/assets/images/works/stuffosome/stuffosome-main-landscape.webp",
+                //     imageWidth: 2480,
+                //     imageHeight: 1400,
+                //     boxsize: 2,
+                //     customClass: "flex justify-center w-full mt-12 sm:mt-12",
+                //     description: "Research, Branding",
+                //     url: "",
+                //     client: "Stuffosome",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/stuffosome/stuffosome-banner.webp",
+                //         sourceURLLight: "/assets/images/works/stuffosome/stuffosome-banner.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2880,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-center",
+                //         wrapperCustomClass: "items-center"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Elevate your style with the timeless and trendy sunglasses from stuffosome.</h4><p class="tr__fadeUpOneByOne__always">rom inception to launch, we took charge of developing a brand new corporate identity for the ground-breaking service.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/stuffosome/stuffosome-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/stuffosome/stuffosome-thumbscreen1.webp",
+                //         imageWidth: 2482,
+                //         imageHeight: 2258,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "items-center",
+                //         wrapperCustomClass: "items-center h-auto"
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#000000",
+                //         backgroundLight: "#000000",
+                //         sourceURL: "/assets/images/works/stuffosome/stuffosome-thumbscreen2.webp",
+                //         sourceURLLight: "/assets/images/works/stuffosome/stuffosome-thumbscreen2.webp",
+                //         imageWidth: 1827,
+                //         imageHeight: 2400,
+                //         layout: "full",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "items-center",
+                //         wrapperCustomClass: "items-center pt-64"
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#000000",
+                //         backgroundLight: "#000000",
+                //         sourceURL: "/assets/images/works/stuffosome/stuffosome-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/stuffosome/stuffosome-fullimage1.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2652,
+                //         layout: "full",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "items-center",
+                //         wrapperCustomClass: "items-center"
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#000000",
+                //         backgroundLight: "#000000",
+                //         sourceURL: "/assets/images/works/stuffosome/stuffosome-thumbscreen3.webp",
+                //         sourceURLLight: "/assets/images/works/stuffosome/stuffosome-thumbscreen3.webp",
+                //         imageWidth: 1827,
+                //         imageHeight: 2400,
+                //         layout: "full",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "items-center",
+                //         wrapperCustomClass: "items-center pt-64"
+                //     }, {
+                //         name: "grid-image",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "",
+                //         layoutGrid: [{
+                //             background: "#000000",
+                //             backgroundLight: "#000000",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "mb-20 p-0",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/stuffosome/stuffosome-thumbscreen4.webp",
+                //                 imageWidth: 2480,
+                //                 imageHeight: 2700,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "flex justify-center items-center pt-56",
+                //                 imageClass: "w-full"
+                //             }]
+                //         }, {
+                //             background: "#000000",
+                //             backgroundLight: "#000000",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "mb-20",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/stuffosome/stuffosome-thumbscreen5.webp",
+                //                 imageWidth: 2072,
+                //                 imageHeight: 1196,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "flex justify-center items-center",
+                //                 imageClass: ""
+                //             }]
+                //         }]
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#000000",
+                //         backgroundLight: "#000000",
+                //         sourceURL: "/assets/images/works/stuffosome/stuffosome-fullimage2.webp",
+                //         sourceURLLight: "/assets/images/works/stuffosome/stuffosome-fullimage2.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 1700,
+                //         layout: "full",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "items-center",
+                //         wrapperCustomClass: "items-center"
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>minimal </span><span>branding </span><span>major </span><span>impact </span>"
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#000000",
+                //         backgroundLight: "#000000",
+                //         sourceURL: "/assets/images/works/stuffosome/stuffosome-fullimage3.webp",
+                //         sourceURLLight: "/assets/images/works/stuffosome/stuffosome-fullimage3.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2622,
+                //         layout: "full",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "items-center",
+                //         wrapperCustomClass: "items-center"
+                //     }, {
+                //         name: "grid-image",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "",
+                //         layoutGrid: [{
+                //             background: "",
+                //             backgroundLight: "",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "p-0 mb-20",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/stuffosome/stuffosome-thumbscreen6.webp",
+                //                 imageWidth: 2480,
+                //                 imageHeight: 1854,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "flex justify-center items-center",
+                //                 imageClass: ""
+                //             }]
+                //         }]
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/stuffosome/stuffosome-fullimage4.webp",
+                //         sourceURLLight: "/assets/images/works/stuffosome/stuffosome-fullimage4.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 1600,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }, {
+                //     id: 9,
+                //     title: "shore",
+                //     slug: "shore",
+                //     category: "apps",
+                //     image: "/assets/images/works/shore/shore-main.webp",
+                //     imageLandscape: "/assets/images/works/shore/shore-main-landscape.webp",
+                //     imageWidth: 1760,
+                //     imageHeight: 1160,
+                //     boxsize: 3,
+                //     customClass: "flex justify-end w-full mt-12 sm:mt-0",
+                //     description: "UI Design, UX, Wireframe",
+                //     url: "",
+                //     client: "Shore",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "video",
+                //         background: "#5318B0",
+                //         backgroundLight: "#E3E4EE",
+                //         sourceURL: "/assets/images/works/shore/shore.mp4",
+                //         sourceURLLight: "/assets/images/works/shore/shore.mp4",
+                //         imageWidth: 1280,
+                //         imageHeight: 720,
+                //         imageWidth: "",
+                //         imageHeight: "",
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">SHORE: Seamlessly transfer money online with our secure banking app, making financial transactions effortless.</h4><p class="tr__fadeUpOneByOne__always">With a strong focus on UX research, we refined the user experience, designed mobile app visuals for all pages, and brought our concepts to life with interactive prototypes.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !1
+                //     }, {
+                //         name: "mobile-image",
+                //         background: "#280B56",
+                //         backgroundLight: "#E4E7EB",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "py-0 lg:py-32 lg:pb-0",
+                //         animationStyle: "reverse",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/shore/shore-mobilescreen1.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 1616,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start",
+                //             imageClass: "w-full mt-14 -mb-14 lg:mt-0 lg:mb-0"
+                //         }, {
+                //             imageURL: "/assets/images/works/shore/shore-mobilescreen2.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 2508,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start",
+                //             imageClass: "w-full -mt-32 lg:mt-0"
+                //         }, {
+                //             imageURL: "/assets/images/works/shore/shore-mobilescreen3.webp",
+                //             imageWidth: 776,
+                //             imageHeight: 1616,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start",
+                //             imageClass: "w-full mt-40 -mb-20 lg:mt-0 lg:mb-0"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">The chance to work on Shore, a grand-scale venture, proved to be a truly remarkable journey for us. From market research and strategy elaboration to visual creativity, our team was fully engaged, while AlphaRoar\'s dedicated work led to an extraordinary mobile application design developed from numerous design concepts.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !0
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#5318B0",
+                //         backgroundLight: "#E3E4EE",
+                //         sourceURL: "/assets/images/works/shore/shore-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/shore/shore-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 2762,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "items-start mt-10 sm:mt-20 lg:mt-40",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>smart ux </span><span>encoura </span><span>ges user </span><span>loyalty. </span>"
+                //     }, {
+                //         name: "grid-image",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "",
+                //         layoutGrid: [{
+                //             background: "#71D7C5",
+                //             backgroundLight: "#DBEFEC",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/shore/shore-mobilescreen4.webp",
+                //                 imageWidth: 792,
+                //                 imageHeight: 1648,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "pl-10",
+                //                 imageClass: ""
+                //             }, {
+                //                 imageURL: "/assets/images/works/shore/shore-mobilescreen5.webp",
+                //                 imageWidth: 792,
+                //                 imageHeight: 1654,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "pr-10",
+                //                 imageClass: ""
+                //             }]
+                //         }]
+                //     }, {
+                //         name: "mobile-image",
+                //         background: "#5318B0",
+                //         backgroundLight: "#E3E4EE",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "h-screen65w xl:h-screen125 overflow-hidden",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/shore/shore-mobilescreen6.webp",
+                //             imageWidth: 776,
+                //             imageHeight: 1616,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start",
+                //             imageClass: "w-full"
+                //         }, {
+                //             imageURL: "/assets/images/works/shore/shore-mobilescreen7.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 2508,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start",
+                //             imageClass: "w-full"
+                //         }, {
+                //             imageURL: "/assets/images/works/shore/shore-mobilescreen8.webp",
+                //             imageWidth: 750,
+                //             imageHeight: 1624,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start",
+                //             imageClass: "w-full"
+                //         }]
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Get access to the finest and personalized <br class="hidden sm:block" />web outsourcing solutions.',
+                //         dataType: "image",
+                //         background: "#201A38",
+                //         backgroundLight: "#E4E8EA",
+                //         sourceURL: "/assets/images/works/shore/shore-thumbscreen2.webp",
+                //         sourceURLLight: "/assets/images/works/shore/shore-thumbscreen2.webp",
+                //         imageWidth: 1719,
+                //         imageHeight: 1484,
+                //         layout: "boxy",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-center w-9/12 m-auto",
+                //         wrapperCustomClass: "items-center h-auto pb-32 sm:pb-24 md:pb-32"
+                //     }]
+                // }, {
+                //     id: 10,
+                //     title: "keypro",
+                //     slug: "keypro",
+                //     category: "website",
+                //     image: "/assets/images/works/keypro/keypro-main.webp",
+                //     imageLandscape: "/assets/images/works/keypro/keypro-main-landscape.webp",
+                //     imageWidth: 1760,
+                //     imageHeight: 1160,
+                //     boxsize: 3,
+                //     customClass: "w-full mt-12 sm:mt-0",
+                //     description: "UI Design, UX, Wireframe",
+                //     url: "",
+                //     client: "Keypro",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "video",
+                //         background: "#C8D9D6",
+                //         backgroundLight: "#C8D9D6",
+                //         sourceURL: "/assets/images/works/keypro/keypro.mp4",
+                //         sourceURLLight: "/assets/images/works/keypro/keypro.mp4",
+                //         imageWidth: 1920,
+                //         imageHeight: 1080,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Keypro is a curated offering of vacation rentals by world\'s oldest chains.</h4><p class="tr__fadeUpOneByOne__always">We conducted thorough UX research, enhanced the user experience, created visual mockups for all pages using our design system, and generated prototypes.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !1
+                //     }, {
+                //         name: "web-image",
+                //         title: "",
+                //         background: "#363838",
+                //         backgroundLight: "#E1E6E6",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/keypro/keypro-desktopscreen1.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 3960,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-7/12 h-full z-1",
+                //             imageClass: "w-full max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/keypro/keypro-desktopscreen2.webp",
+                //             imageWidth: 750,
+                //             imageHeight: 5132,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-4/12 h-full z-0",
+                //             imageClass: "float-right w-full max-w-none h-full shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">Engaging in the Keypro project was an extraordinary journey for us, where we embarked on an ambitious and expansive endeavor. Our team played a pivotal role in conducting comprehensive market research, formulating strategic plans, and undertaking the development process.</p><p class="tr__fadeUpOneByOne__always">Moreover, we unleashed our creativity to deliver captivating visuals. Collaboratively, we explored numerous design concepts, resulting in a remarkable and unforgettable mobile and desktop view. Additionally, we proudly built the website from the ground up, showcasing our commitment and expertise.</p>',
+                //         imageType: "image",
+                //         image: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/keypro/keypro-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/keypro/keypro-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 2168,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center item-center sm:items-start h-full",
+                //         wrapperCustomClass: "item-center sm:items-start"
+                //     }, {
+                //         name: "web-image",
+                //         title: 'Exceptional UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                //         background: "#6C7876",
+                //         backgroundLight: "#E0E7E6",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/keypro/keypro-desktopscreen3.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 2542,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per mt-10 sm:mt-20 lg:mt-40 max-w-none shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/keypro/keypro-desktopscreen4.webp",
+                //             imageWidth: 1200,
+                //             imageHeight: 2644,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right mt-20 sm:mt-32 lg:mt-64 w-120per max-w-none h-full shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>creative </span><span>visual </span><span>attracts </span><span>users. </span>"
+                //     }, {
+                //         name: "single-image",
+                //         title: 'We offer top-notch custom web <br class="hidden sm:block" />outsourcing services.',
+                //         dataType: "image",
+                //         background: "#363838",
+                //         backgroundLight: "#E3E8E8",
+                //         sourceURL: "/assets/images/works/keypro/keypro-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/keypro/keypro-fullimage1.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2466,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-start",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }, {
+                //     id: 11,
+                //     title: "essence realty",
+                //     slug: "essence-realty",
+                //     category: "website",
+                //     image: "/assets/images/works/essence-realty/essence-realty-main.webp",
+                //     imageLandscape: "/assets/images/works/essence-realty/essence-realty-main-landscape.webp",
+                //     imageWidth: 800,
+                //     imageHeight: 1200,
+                //     boxsize: 1,
+                //     customClass: "mt-12 sm:mt-0",
+                //     description: "Research, UX, UI Design",
+                //     url: "",
+                //     client: "Essence Realty",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#202020",
+                //         backgroundLight: "#D9DEDE",
+                //         sourceURL: "/assets/images/works/essence-realty/essence-realty-banner.webp",
+                //         sourceURLLight: "/assets/images/works/essence-realty/essence-realty-banner-light.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 3778,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Essence realty is a boutique real estate brokerage and investment house.</h4><p class="tr__fadeUpOneByOne__always">Researched and improved UX, created visual mockups using design system, and generated prototypes for every page.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !1
+                //     }, {
+                //         name: "web-image",
+                //         title: "",
+                //         background: "#202020",
+                //         backgroundLight: "#D9DEDE",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/essence-realty/essence-realty-desktopscreen1.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 4428,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-7/12 h-full z-1",
+                //             imageClass: "w-full max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/essence-realty/essence-realty-desktopscreen2.webp",
+                //             imageWidth: 750,
+                //             imageHeight: 5818,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-4/12 h-full z-0",
+                //             imageClass: "float-right w-full max-w-none h-full shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">The Essence Reality project provided us with an unparalleled and exhilarating experience. With responsibilities spanning market research, strategic planning, development, and visual creativity, our team fully embraced the opportunity.</p><p class="tr__fadeUpOneByOne__always">AlphaRoar tirelessly delved into numerous design concepts throughout our extensive collaboration, resulting in an unforgettable design for the mobile and desktop website. And in case you missed it, we proudly built the website from scratch, further highlighting our dedication and commitment to the project\'s success.</p>',
+                //         imageType: "image",
+                //         image: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/essence-realty/essence-realty-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/essence-realty/essence-realty-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 2106,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-center h-full",
+                //         wrapperCustomClass: "items-center lg:items-start"
+                //     }, {
+                //         name: "web-image",
+                //         title: 'Extraordinary UI/UX and Visual <br class="hidden sm:block" />Design for Interior Pages',
+                //         background: "#202020",
+                //         backgroundLight: "#D9DEDE",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/essence-realty/essence-realty-desktopscreen3.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 2957,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/essence-realty/essence-realty-desktopscreen4.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 3372,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>creative </span><span>visual </span><span>attracts </span><span>users. </span>"
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Your go-to destination for custom <br class="hidden sm:block" />web outsourcing services.',
+                //         dataType: "image",
+                //         background: "#202020",
+                //         backgroundLight: "#D9DEDE",
+                //         sourceURL: "/assets/images/works/essence-realty/essence-realty-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/essence-realty/essence-realty-fullimage1.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2942,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-start",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }, {
+                //     id: 12,
+                //     title: "metagram",
+                //     slug: "metagram",
+                //     category: "apps",
+                //     image: "/assets/images/works/metagram/metagram-main.webp",
+                //     imageLandscape: "/assets/images/works/metagram/metagram-main-landscape.webp",
+                //     imageWidth: 1280,
+                //     imageHeight: 842,
+                //     boxsize: 4,
+                //     customClass: "mt-12 sm:mt-14",
+                //     description: "UI Design, UX, Wireframe",
+                //     url: "",
+                //     client: "Metagram",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "video",
+                //         background: "#8951FF",
+                //         backgroundLight: "rgba(137, 81, 255, 0.15)",
+                //         sourceURL: "/assets/images/works/metagram/metagram.mp4",
+                //         sourceURLLight: "/assets/images/works/metagram/metagram.mp4",
+                //         imageWidth: 1240,
+                //         imageHeight: 700,
+                //         layout: "boxy",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Discover, collect, and connect with NFT enthusiasts through our Metagram social media mobile app.</h4><p class="tr__fadeUpOneByOne__always">Through extensive UX research, we elevated the user experience, designed mobile app visuals for all pages with our design system, and developed interactive prototypes.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !1
+                //     }, {
+                //         name: "mobile-image",
+                //         background: "#1F1533",
+                //         backgroundLight: "rgba(31, 21, 51, 0.05)",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "py-0 sm:py-0 md:py-0 items-start lg:items-center",
+                //         animationStyle: "oneByone",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/metagram/metagram-mobilescreen1.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 1604,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "mt-10 lg:mt-64",
+                //             imageClass: "w-full"
+                //         }, {
+                //             imageURL: "/assets/images/works/metagram/metagram-mobilescreen2.webp",
+                //             imageWidth: 776,
+                //             imageHeight: 1612,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "mt-20 lg:mt-64",
+                //             imageClass: "w-full"
+                //         }, {
+                //             imageURL: "/assets/images/works/metagram/metagram-mobilescreen3.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 1602,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "mt-28 lg:mt-64 mb-10 lg:mb-0",
+                //             imageClass: "w-full"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">Engaging in an ambitious, large-scale project like Metagram was a truly unique experience for our team. We delved into market research, strategy development, and creative visual design, while AlphaRoar crafted numerous design concepts, resulting in an unforgettable mobile application design.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !0
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#8851FF",
+                //         backgroundLight: "rgba(136, 81, 255, 0.15)",
+                //         sourceURL: "/assets/images/works/metagram/metagram-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/metagram/metagram-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 3428,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "items-start mt-10 sm:mt-20 lg:mt-40",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>smart </span><span>ux retains </span><span>users. </span>"
+                //     }, {
+                //         name: "grid-image",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "",
+                //         layoutGrid: [{
+                //             background: "#F1C8B2",
+                //             backgroundLight: "rgba(241, 200, 178, 0.3)",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "mb-20",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/metagram/metagram-mobilescreen4.webp",
+                //                 imageWidth: 792,
+                //                 imageHeight: 1964,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "pl-10",
+                //                 imageClass: ""
+                //             }, {
+                //                 imageURL: "/assets/images/works/metagram/metagram-mobilescreen5.webp",
+                //                 imageWidth: 740,
+                //                 imageHeight: 1656,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "pr-10 mt-10 sm:mt-20 lg:mt-40",
+                //                 imageClass: ""
+                //             }]
+                //         }, {
+                //             background: "#1F1533",
+                //             backgroundLight: "rgba(31, 21, 51, 0.05)",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "h-full items-center",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/metagram/metagram-thumbscreen2.webp",
+                //                 imageWidth: 1220,
+                //                 imageHeight: 270,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "flex items-center justify-center w-full",
+                //                 imageClass: ""
+                //             }]
+                //         }]
+                //     }, {
+                //         name: "mobile-image",
+                //         background: "#8851FF",
+                //         backgroundLight: "#DFDBF5",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "h-screen65w xl:h-screen125 overflow-hidden",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/metagram/metagram-mobilescreen6.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 2718,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start mt-64 lg:mt-0",
+                //             imageClass: "w-full"
+                //         }, {
+                //             imageURL: "/assets/images/works/metagram/metagram-mobilescreen7.webp",
+                //             imageWidth: 776,
+                //             imageHeight: 3148,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start",
+                //             imageClass: "w-full"
+                //         }, {
+                //             imageURL: "/assets/images/works/metagram/metagram-mobilescreen8.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 2136,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start -mt-32 lg:mt-0",
+                //             imageClass: "w-full"
+                //         }]
+                //     }, {
+                //         name: "single-image",
+                //         title: 'We offer top-notch custom web <br class="hidden sm:block" />outsourcing services.',
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/metagram/metagram-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/metagram/metagram-fullimage1.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 1486,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }, {
+                //     id: 13,
+                //     title: "better penny",
+                //     slug: "better-penny",
+                //     category: "website",
+                //     image: "/assets/images/works/better-penny/better-penny-main.webp",
+                //     imageLandscape: "/assets/images/works/better-penny/better-penny-main-landscape.webp",
+                //     imageWidth: 2480,
+                //     imageHeight: 1400,
+                //     boxsize: 2,
+                //     customClass: "flex justify-center w-full mt-12 sm:mt-12",
+                //     description: "UX, UI Design, Wireframe",
+                //     url: "https://betterpenny.com/",
+                //     client: "Better Penny",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#46B865",
+                //         backgroundLight: "#CCE7D7",
+                //         sourceURL: "/assets/images/works/better-penny/better-penny-banner.webp",
+                //         sourceURLLight: "/assets/images/works/better-penny/better-penny-banner-light.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 3320,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">BetterPenny Making the right personal finance decisions can be overwhelming for the average person.</h4><p class="tr__fadeUpOneByOne__always">Investigated and enhanced UX, designed visual mockups with design system, and produced prototypes for all pages.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !0
+                //     }, {
+                //         name: "web-image",
+                //         title: "",
+                //         background: "#E3EBE6",
+                //         backgroundLight: "#E3EBE6",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/better-penny/better-penny-desktopscreen1.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 2787,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/better-penny/better-penny-desktopscreen2.webp",
+                //             imageWidth: 1470,
+                //             imageHeight: 3268,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">The opportunity to contribute to the BetterPenny project was an extraordinary experience that left an indelible mark on our team. Taking on the roles of market research, strategy development, development, and letting our creativity run wild with visuals was truly invigorating.</p><p class="tr__fadeUpOneByOne__always">Throughout our extensive collaboration, AlphaRoar explored numerous design concepts, culminating in an unforgettable design and development for the mobile and desktop view. Oh, and did we mention that we built the website from scratch? It was a proud achievement that added another layer of fulfillment to our journey.</p>',
+                //         imageType: "image",
+                //         image: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/better-penny/better-penny-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/better-penny/better-penny-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 2200,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-center h-full",
+                //         wrapperCustomClass: "items-center"
+                //     }, {
+                //         name: "web-image",
+                //         title: 'Brilliant UI/UX and Visual Design <br class="hidden sm:block" />for Inner Pages',
+                //         background: "#DDF1E4",
+                //         backgroundLight: "#DDF1E4",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/better-penny/better-penny-desktopscreen3.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 1759,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/better-penny/better-penny-desktopscreen4.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 2544,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>smart </span><span>ux = user </span><span>stickiness. </span>"
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Get the best and personalized web <br class="hidden sm:block" />outsourcing solutions.',
+                //         dataType: "image",
+                //         background: "#252F3C",
+                //         backgroundLight: "#DADFE1",
+                //         sourceURL: "/assets/images/works/better-penny/better-penny-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/better-penny/better-penny-fullimage1.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2528,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-start",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }, {
+                //     id: 14,
+                //     title: "forever dolls",
+                //     slug: "forever-dolls",
+                //     category: "website",
+                //     image: "/assets/images/works/forever-dolls/forever-dolls-main.webp",
+                //     imageLandscape: "/assets/images/works/forever-dolls/forever-dolls-main-landscape.webp",
+                //     imageWidth: 1760,
+                //     imageHeight: 1160,
+                //     boxsize: 3,
+                //     customClass: "flex justify-end w-full mt-12 sm:mt-0",
+                //     description: "UX Research, UI Design",
+                //     url: "https://foreverdolls.com.au/",
+                //     client: "ForeverDolls",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#F0ADBC",
+                //         backgroundLight: "#EFDEE2",
+                //         sourceURL: "/assets/images/works/forever-dolls/forever-dolls-banner.webp",
+                //         sourceURLLight: "/assets/images/works/forever-dolls/forever-dolls-banner-light.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 4658,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Forevers Dolls is a family owned toy company that designs.</h4><p class="tr__fadeUpOneByOne__always">Explored UX improvements, crafted visual mockups using design system, and developed prototypes for all pages.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !0
+                //     }, {
+                //         name: "web-image",
+                //         title: "",
+                //         background: "#FFF6FA",
+                //         backgroundLight: "#F8F5F7",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/forever-dolls/forever-dolls-desktopscreen1.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 4226,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/forever-dolls/forever-dolls-desktopscreen2.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 4445,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">Engaging in the Forever Dolls venture was an unprecedented journey for our team. We enthusiastically undertook the responsibilities of market research, strategic planning, development, and unleashing our creative flair for visuals.</p><p class="tr__fadeUpOneByOne__always">AlphaRoar tirelessly explored numerous design concepts during our extensive collaboration and ultimately crafted an unforgettable design and development for the mobile and desktop. And to top it off, we proudly developed the website from the ground up, adding an extra layer of accomplishment to our achievement.</p>',
+                //         imageType: "image",
+                //         image: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/forever-dolls/forever-dolls-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/forever-dolls/forever-dolls-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 1976,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-center lg:items-start h-full",
+                //         wrapperCustomClass: "items-center lg:items-start"
+                //     }, {
+                //         name: "web-image",
+                //         title: 'Exceptional UI/UX and Visual <br class="hidden sm:block" />Design for Interior Pages',
+                //         background: "#F4CCDE",
+                //         backgroundLight: "#F1E3EB",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/forever-dolls/forever-dolls-desktopscreen3.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 1770,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/forever-dolls/forever-dolls-desktopscreen4.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 1942,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>stay </span><span>on with </span><span>smart ux. </span>"
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Trust us for unparalleled custom <br class="hidden sm:block" />web outsourcing services.',
+                //         dataType: "image",
+                //         background: "#332A33",
+                //         backgroundLight: "#DBDFE0",
+                //         sourceURL: "/assets/images/works/forever-dolls/forever-dolls-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/forever-dolls/forever-dolls-fullimage1.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2916,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-start",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }, {
+                //     id: 15,
+                //     title: "aeomax",
+                //     slug: "aeomax",
+                //     category: "website",
+                //     image: "/assets/images/works/aeomax/aeomax-main.webp",
+                //     imageLandscape: "/assets/images/works/aeomax/aeomax-main-landscape.webp",
+                //     imageWidth: 1760,
+                //     imageHeight: 1160,
+                //     boxsize: 3,
+                //     customClass: "w-full mt-12 sm:mt-0",
+                //     description: "UX, UI Design, Wireframe",
+                //     url: "https://aeomax.com/",
+                //     client: "Aeomax",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "video",
+                //         background: "#5063EE",
+                //         backgroundLight: "#AFB9F1",
+                //         sourceURL: "/assets/images/works/aeomax/aeomax_website.mp4",
+                //         sourceURLLight: "/assets/images/works/aeomax/aeomax_website.mp4",
+                //         imageWidth: 1920,
+                //         imageHeight: 1080,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Aeomax is tailored workout programs by professional coaches.</h4><p class="tr__fadeUpOneByOne__always">Our team conducted in-depth UX research, resulting in improved user experience. We then created visual mockups for all pages, adhering to our design system, and generated prototypes.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !0
+                //     }, {
+                //         name: "web-image",
+                //         title: "",
+                //         background: "#464752",
+                //         backgroundLight: "#CFD4D6",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/aeomax/aeomax-desktopscreen1.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 4072,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-7/12 h-full z-1",
+                //             imageClass: "w-full mt-10 sm:mt-20 lg:mt-40 max-w-none shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/aeomax/aeomax-desktopscreen2.webp",
+                //             imageWidth: 750,
+                //             imageHeight: 6442,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-4/12 h-full z-0",
+                //             imageClass: "float-right w-full max-w-none h-full shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">Participating in the Aeomax project was a truly remarkable experience for our team. We enthusiastically embraced the challenge of conducting thorough market research, devising effective strategies, and seamlessly executing the development process.</p><p class="tr__fadeUpOneByOne__always">Our creative minds flourished as we ventured into a multitude of design concepts, meticulously refining them to create an indelible design for the mobile and desktop view. Moreover, we took immense pride in building the website from scratch, a testament to our dedication and proficiency.</p>',
+                //         imageType: "image",
+                //         image: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/aeomax/aeomax-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/aeomax/aeomax-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 1724,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-center sm:items-start h-full",
+                //         wrapperCustomClass: "items-center sm:items-start"
+                //     }, {
+                //         name: "web-image",
+                //         title: 'Superb UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                //         background: "#4B60D7",
+                //         backgroundLight: "#CDD6ED",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/aeomax/aeomax-desktopscreen3.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 1890,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per mt-10 sm:mt-20 lg:mt-40 max-w-none shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/aeomax/aeomax-desktopscreen4.webp",
+                //             imageWidth: 1200,
+                //             imageHeight: 1892,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right mt-20 sm:mt-32 lg:mt-64 w-120per max-w-none h-full shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>smart </span><span>ux retains </span><span>users. </span>"
+                //     }, {
+                //         name: "grid-image",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "",
+                //         layoutGrid: [{
+                //             background: "#2E2A3F",
+                //             backgroundLight: "#DBDFE1",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/aeomax/aeomax-thumbscreen2.webp",
+                //                 imageWidth: 1692,
+                //                 imageHeight: 1654,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "pl-10",
+                //                 imageClass: ""
+                //             }]
+                //         }]
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Our specialty lies in providing tailored and <br class="hidden sm:block" />superior web outsourcing services.',
+                //         dataType: "image",
+                //         background: "#2D2E35",
+                //         backgroundLight: "#DBDFE0",
+                //         sourceURL: "/assets/images/works/aeomax/aeomax-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/aeomax/aeomax-fullimage1.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2680,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-start",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }, {
+                //     id: 16,
+                //     title: "fast resume",
+                //     slug: "fast-resume",
+                //     category: "website",
+                //     image: "/assets/images/works/fast-resume/fast-resume-main.webp",
+                //     imageLandscape: "/assets/images/works/fast-resume/fast-resume-main-landscape.webp",
+                //     imageWidth: 1280,
+                //     imageHeight: 842,
+                //     boxsize: 4,
+                //     customClass: "mt-12 sm:mt-14",
+                //     description: "UX, UI Design, Wireframe",
+                //     url: "",
+                //     client: "Fast Resume",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#DEE3E9",
+                //         backgroundLight: "#E4E9ED",
+                //         sourceURL: "/assets/images/works/fast-resume/fast-resume-banner.webp",
+                //         sourceURLLight: "/assets/images/works/fast-resume/fast-resume-banner-light.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2022,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Fast Resume is create a winning resume with ease and secure your dream job.</h4><p class="tr__fadeUpOneByOne__always">By conducting thorough UX research, we successfully enhanced the user experience. We translated our findings into visual mockups for all pages, leveraging our design system, and created prototypes.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !1
+                //     }, {
+                //         name: "web-image",
+                //         title: "",
+                //         background: "#8D969D",
+                //         backgroundLight: "#E4EAEB",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/fast-resume/fast-resume-desktopscreen1.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 4466,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/fast-resume/fast-resume-desktopscreen2.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 4040,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">Engaging in the FastResume project was a truly transformative experience for our team. We eagerly embraced the challenge of conducting meticulous market research, formulating strategic plans, and executing the development process flawlessly.</p><p class="tr__fadeUpOneByOne__always">Our creative spirit soared as we explored an array of design concepts, meticulously refining each one to create an extraordinary and unforgettable design for the mobile and desktop. Furthermore, we took immense pride in crafting the website from scratch, showcasing our expertise and commitment to excellence.</p>',
+                //         imageType: "image",
+                //         image: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/fast-resume/fast-resume-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/fast-resume/fast-resume-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 1668,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-center lg:items-start h-full",
+                //         wrapperCustomClass: "items-center lg:items-start"
+                //     }, {
+                //         name: "web-image",
+                //         title: 'Impressive UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                //         background: "#BBC7D0",
+                //         backgroundLight: "#E6ECED",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "full",
+                //         wrapperCustomClass: "tr__container lg:h-full p-0",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/fast-resume/fast-resume-fullimage1.webp",
+                //             imageWidth: 2480,
+                //             imageHeight: 1944,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-center mt-0 sm:mt-0 lg:mt-40 w-full z-1",
+                //             imageClass: "w-full max-w-none"
+                //         }]
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>effective </span><span>ux boosts </span><span>user </span><span>retention. </span>"
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Get access to the finest and personalized <br class="hidden sm:block" />web outsourcing solutions.',
+                //         dataType: "image",
+                //         background: "#38648D",
+                //         backgroundLight: "#E7EDEF",
+                //         sourceURL: "/assets/images/works/fast-resume/fast-resume-fullimage2.webp",
+                //         sourceURLLight: "/assets/images/works/fast-resume/fast-resume-fullimage2.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 1944,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-start",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }, {
+                //     id: 17,
+                //     title: "financr",
+                //     slug: "financr",
+                //     category: "website",
+                //     image: "/assets/images/works/financr/financr-main.webp",
+                //     imageLandscape: "/assets/images/works/financr/financr-main-landscape.webp",
+                //     imageWidth: 800,
+                //     imageHeight: 1200,
+                //     boxsize: 1,
+                //     customClass: "mt-12 sm:mt-0",
+                //     description: "UX, UI Design, Wireframe",
+                //     url: "",
+                //     client: "Financr",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#5EB7E7",
+                //         backgroundLight: "#D1E7F1",
+                //         sourceURL: "/assets/images/works/financr/financr-banner.webp",
+                //         sourceURLLight: "/assets/images/works/financr/financr-banner-light.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2378,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Financr simplifies borrowing decisions for better loans.</h4><p class="tr__fadeUpOneByOne__always">By investing in UX research, we successfully improved the user experience. Our team designed visual mockups for all pages with our design system and generated prototypes to bring our ideas to life.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !1
+                //     }, {
+                //         name: "web-image",
+                //         title: "",
+                //         background: "#0B1839",
+                //         backgroundLight: "#C1C7CE",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/financr/financr-thumbscreen1.webp",
+                //             imageWidth: 2480,
+                //             imageHeight: 2478,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-full h-full mt-10 sm:mt-20 lg:mt-40 z-1",
+                //             imageClass: "w-full max-w-none"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">Participating in the Financ project was a one-of-a-kind journey that left a lasting impression on our team. With market research, strategic planning, development, and an artistic touch for visual aesthetics, we embraced every aspect of the challenge.</p><p class="tr__fadeUpOneByOne__always">AlphaRoar diligently explored numerous design concepts, adding depth to the collaborative process, and ultimately delivered a design and development for the mobile and desktop  that left a mark on everyone. Additionally, we took great pride in crafting the website from the ground up, showcasing our dedication and expertise.</p>',
+                //         imageType: "image",
+                //         image: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/financr/financr-thumbscreen2.webp",
+                //         sourceURLLight: "/assets/images/works/financr/financr-thumbscreen2.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 1834,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-center lg:items-start h-full",
+                //         wrapperCustomClass: "items-center lg:items-start"
+                //     }, {
+                //         name: "web-image",
+                //         title: 'Brilliant UI/UX and Visual Design <br class="hidden sm:block" />for Inner Pages',
+                //         background: "#D4D9E3",
+                //         backgroundLight: "#E6EBEE",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/financr/financr-thumbscreen3.webp",
+                //             imageWidth: 1880,
+                //             imageHeight: 1916,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-center w-11/12 h-full m-auto lg:mt-40 z-1",
+                //             imageClass: "w-11/12 max-w-none m-auto"
+                //         }]
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>compeling </span><span>ux retains </span><span>users. </span>"
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Experience the best-in-class web <br class="hidden sm:block" />outsourcing services tailored to your needs.',
+                //         dataType: "image",
+                //         background: "#0B1839",
+                //         backgroundLight: "#D7DDE0",
+                //         sourceURL: "/assets/images/works/financr/financr-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/financr/financr-fullimage1.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 1656,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-center",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }, {
+                //     id: 18,
+                //     title: "monotex",
+                //     slug: "monotex",
+                //     category: "apps",
+                //     image: "/assets/images/works/monotex/monotex-main.webp",
+                //     imageLandscape: "/assets/images/works/monotex/monotex-main-landscape.webp",
+                //     imageWidth: 2480,
+                //     imageHeight: 1400,
+                //     boxsize: 2,
+                //     customClass: "flex justify-center w-full mt-12 sm:mt-12",
+                //     description: "UX, UI Design, Wireframe",
+                //     url: "",
+                //     client: "Monotex",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "video",
+                //         background: "#6E4BED",
+                //         backgroundLight: "#E5E7F3",
+                //         sourceURL: "/assets/images/works/monotex/monotex.mp4",
+                //         sourceURLLight: "/assets/images/works/monotex/monotex.mp4",
+                //         imageWidth: 1240,
+                //         imageHeight: 700,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">Monotex Manage accounts, transfer funds, pay bills, and locate branches easily.</h4><p class="tr__fadeUpOneByOne__always">By conducting thorough UX research, we optimized the user experience, created visual designs for all pages of the mobile app using our design system, and produced interactive prototypes.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !1
+                //     }, {
+                //         name: "mobile-image",
+                //         background: "#2C2151",
+                //         backgroundLight: "#E0E4E8",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "py-24 lg:py-32",
+                //         animationStyle: "reverse",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/monotex/monotex-mobilescreen1.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 1616,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "mt-20",
+                //             imageClass: "w-full"
+                //         }, {
+                //             imageURL: "/assets/images/works/monotex/monotex-mobilescreen2.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 1618,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "",
+                //             imageClass: "w-full"
+                //         }, {
+                //             imageURL: "/assets/images/works/monotex/monotex-mobilescreen3.webp",
+                //             imageWidth: 776,
+                //             imageHeight: 1616,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "mt-20",
+                //             imageClass: "w-full"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">Participating in Monotex, an ambitious and expansive project, was an exceptional experience for us. Our team embraced responsibilities ranging from market research to strategy development, alongside AlphaRoar\'s efforts in creating an unforgettable mobile application design through a collaborative process involving multiple design concepts.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !0
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#6240DD",
+                //         backgroundLight: "#E4E7F1",
+                //         sourceURL: "/assets/images/works/monotex/monotex-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/monotex/monotex-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 3430,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "items-start mt-10 sm:mt-20 lg:mt-40",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>clever </span><span>ux retains </span><span>users </span><span>longer. </span>"
+                //     }, {
+                //         name: "grid-image",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "",
+                //         layoutGrid: [{
+                //             background: "#2E2A3F",
+                //             backgroundLight: "#E1E5E6",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/monotex/monotex-mobilescreen4.webp",
+                //                 imageWidth: 792,
+                //                 imageHeight: 1652,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "pl-10",
+                //                 imageClass: ""
+                //             }, {
+                //                 imageURL: "/assets/images/works/monotex/monotex-mobilescreen5.webp",
+                //                 imageWidth: 792,
+                //                 imageHeight: 1652,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "pr-10",
+                //                 imageClass: ""
+                //             }]
+                //         }]
+                //     }, {
+                //         name: "mobile-image",
+                //         background: "#6E4BED",
+                //         backgroundLight: "#E5E7F3",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "h-screen65w xl:h-screen125 overflow-hidden",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/monotex/monotex-mobilescreen6.webp",
+                //             imageWidth: 776,
+                //             imageHeight: 2370,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start mt-40 sm:mt-64 lg:mt-0",
+                //             imageClass: "w-full"
+                //         }, {
+                //             imageURL: "/assets/images/works/monotex/monotex-mobilescreen7.webp",
+                //             imageWidth: 772,
+                //             imageHeight: 2636,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start",
+                //             imageClass: "w-full"
+                //         }, {
+                //             imageURL: "/assets/images/works/monotex/monotex-mobilescreen8.webp",
+                //             imageWidth: 776,
+                //             imageHeight: 2624,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex items-center lg:items-start -mt-52 sm:-mt-80 lg:mt-0",
+                //             imageClass: "w-full"
+                //         }]
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Experience the excellence of our custom <br class="hidden sm:block" />web outsourcing services.',
+                //         dataType: "image",
+                //         background: "#281E4D",
+                //         backgroundLight: "#E4E8EB",
+                //         sourceURL: "/assets/images/works/monotex/monotex-thumbscreen2.webp",
+                //         sourceURLLight: "/assets/images/works/monotex/monotex-thumbscreen2.webp",
+                //         imageWidth: 1524,
+                //         imageHeight: 1424,
+                //         layout: "boxy",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start max-w-3xl mb-32 lg:mb-40",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }, {
+                //     id: 19,
+                //     title: "homebid",
+                //     slug: "homebid",
+                //     category: "website",
+                //     image: "/assets/images/works/homebid/homebid-main.webp",
+                //     imageLandscape: "/assets/images/works/homebid/homebid-main-landscape.webp",
+                //     imageWidth: 1280,
+                //     imageHeight: 842,
+                //     boxsize: 4,
+                //     customClass: "mt-12 sm:mt-14",
+                //     description: "UI Design, UX, Wireframe",
+                //     url: "",
+                //     client: "Homebid",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#BBC7D0",
+                //         backgroundLight: "#DFE6E9",
+                //         sourceURL: "/assets/images/works/homebid/homebid-banner.webp",
+                //         sourceURLLight: "/assets/images/works/homebid/homebid-banner-light.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2796,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">HomeBid is a real-time bidding platform for buying and selling property online.</h4><p class="tr__fadeUpOneByOne__always">Our process involved conducting thorough UX research, enhancing user experience, creating visual mockups for all pages using our design system, and generating prototypes.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !1
+                //     }, {
+                //         name: "web-image",
+                //         title: "",
+                //         background: "#303538",
+                //         backgroundLight: "#DBE0E0",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/homebid/homebid-desktopscreen1.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 4432,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-7/12 h-full z-1",
+                //             imageClass: "w-full max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/homebid/homebid-desktopscreen2.webp",
+                //             imageWidth: 750,
+                //             imageHeight: 5338,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-center w-4/12 h-full z-0",
+                //             imageClass: "float-right w-full max-w-none h-full shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">The Homebid project presented our team with an exhilarating opportunity to immerse ourselves in an ambitious and expansive undertaking. With great enthusiasm, we delved into market research, strategizing, and development, and let our creativity flow freely as we crafted captivating visual elements.</p><p class="tr__fadeUpOneByOne__always">Throughout the extensive collaborative process, we explored numerous design concepts, ultimately fashioning an unforgettable design for both the mobile and desktop. Notably, we also took charge of building the website from the ground up, showcasing our versatility and proficiency.</p>',
+                //         imageType: "image",
+                //         image: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/homebid/homebid-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/homebid/homebid-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 2160,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-center lg:items-start h-full",
+                //         wrapperCustomClass: "items-center lg:items-start"
+                //     }, {
+                //         name: "web-image",
+                //         title: 'Stunning UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                //         background: "#BAC6CF",
+                //         backgroundLight: "#E4EAEC",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/homebid/homebid-desktopscreen3.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 2170,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/homebid/homebid-desktopscreen4.webp",
+                //             imageWidth: 1200,
+                //             imageHeight: 2128,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>engaging </span><span>ux keeps </span><span>users</span><span>hooked. </span>"
+                //     }, {
+                //         name: "grid-image",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "",
+                //         layoutGrid: [{
+                //             background: "#BBC7D0",
+                //             backgroundLight: "#E5EBED",
+                //             imageURL: "",
+                //             gridWrapperCustomClass: "",
+                //             gridData: [{
+                //                 imageURL: "/assets/images/works/homebid/homebid-thumbscreen2.webp",
+                //                 imageWidth: 1692,
+                //                 imageHeight: 1654,
+                //                 animation: !1,
+                //                 animationSpeed: 0,
+                //                 customClass: "pl-10",
+                //                 imageClass: ""
+                //             }]
+                //         }]
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#BBC7D0",
+                //         backgroundLight: "#DFE6E9",
+                //         sourceURL: "/assets/images/works/homebid/homebid-thumbscreen3.webp",
+                //         sourceURLLight: "/assets/images/works/homebid/homebid-thumbscreen3.webp",
+                //         imageWidth: 2610,
+                //         imageHeight: 2068,
+                //         layout: "full",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-start h-full",
+                //         wrapperCustomClass: "items-start p-28 pt-10 sm:pt-18 lg:pt-28"
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Experience the excellence of our custom <br class="hidden sm:block" />web outsourcing services.',
+                //         dataType: "image",
+                //         background: "#313538",
+                //         backgroundLight: "#DBE0E0",
+                //         sourceURL: "/assets/images/works/homebid/homebid-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/homebid/homebid-fullimage1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 1860,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-start",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }, {
+                //     id: 20,
+                //     title: "ogre",
+                //     slug: "ogre",
+                //     category: "website",
+                //     image: "/assets/images/works/ogre/ogre-main.webp",
+                //     imageLandscape: "/assets/images/works/ogre/ogre-main-landscape.webp",
+                //     imageWidth: 800,
+                //     imageHeight: 1200,
+                //     boxsize: 1,
+                //     customClass: "mt-12 sm:mt-0",
+                //     description: "UX, UI Design, Wireframe",
+                //     url: "https://ogretruckco.com/",
+                //     client: "Ogre",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#323232",
+                //         backgroundLight: "#DBE0E0",
+                //         sourceURL: "/assets/images/works/ogre/ogre-banner.webp",
+                //         sourceURLLight: "/assets/images/works/ogre/ogre-banner-light.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2868,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">The Ogre, embodies the inner monster within every skater, poised to emerge.</h4><p class="tr__fadeUpOneByOne__always">We create website\'s UI and visual mockups from provided wireframes with design system and generated prototypes.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !0
+                //     }, {
+                //         name: "web-image",
+                //         title: "",
+                //         background: "#757662",
+                //         backgroundLight: "#D6DAD6",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/ogre/ogre-desktopscreen1.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 4504,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-7/12 h-full z-1",
+                //             imageClass: "w-full max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/ogre/ogre-desktopscreen2.webp",
+                //             imageWidth: 750,
+                //             imageHeight: 5544,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-4/12 h-full z-0",
+                //             imageClass: "float-right w-full max-w-none h-full shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">The OGRE project opened the doors to an exhilarating adventure for our team. We wholeheartedly embraced the tasks of conducting extensive market research, crafting robust strategies, and executing the development process with precision.</p><p class="tr__fadeUpOneByOne__always">Our imagination ran wild as we experimented with numerous design concepts, dedicating ourselves to creating an indelible design for the mobile and desktop. Additionally, we took on the challenge of building the website from scratch, allowing us to demonstrate our prowess and deliver exceptional results.</p>',
+                //         imageType: "image",
+                //         image: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/ogre/ogre-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/ogre/ogre-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 1672,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-center lg:items-start h-full",
+                //         wrapperCustomClass: "items-center lg:items-start"
+                //     }, {
+                //         name: "web-image",
+                //         title: 'Incredible UI/UX and Visual <br class="hidden sm:block" />Design for Inner Pages',
+                //         background: "#DFE1E3",
+                //         backgroundLight: "#E7EAEB",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/ogre/ogre-desktopscreen3.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 2315,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/ogre/ogre-desktopscreen4.webp",
+                //             imageWidth: 1200,
+                //             imageHeight: 2871,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>clever </span><span>ux retains </span><span>users</span><span>longer. </span>"
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Unlock the power of bespoke web <br class="hidden sm:block" />outsourcing services.',
+                //         dataType: "image",
+                //         background: "#313538",
+                //         backgroundLight: "#E4E9E9",
+                //         sourceURL: "/assets/images/works/ogre/ogre-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/ogre/ogre-fullimage1.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2764,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-start",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }, {
+                //     id: 21,
+                //     title: "flow row",
+                //     slug: "flow-row",
+                //     category: "website",
+                //     image: "/assets/images/works/flow-row/flow-row-main.webp",
+                //     imageLandscape: "/assets/images/works/flow-row/flow-row-main-landscape.webp",
+                //     imageWidth: 1760,
+                //     imageHeight: 1160,
+                //     boxsize: 3,
+                //     customClass: "flex justify-center w-full mt-12 sm:mt-0",
+                //     description: "UX, UI Design, Wireframe",
+                //     url: "https://world.flowrow.fit/",
+                //     client: "Flow Row",
+                //     year: "2022-2023",
+                //     displayHome: !1,
+                //     sections: [{
+                //         name: "banner-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "#E0E4EA",
+                //         backgroundLight: "#E0E4EA",
+                //         sourceURL: "/assets/images/works/flow-row/flow-row-banner.webp",
+                //         sourceURLLight: "/assets/images/works/flow-row/flow-row-banner-light.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 4026,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "items-start",
+                //         wrapperCustomClass: "items-start"
+                //     }, {
+                //         name: "details",
+                //         title: "About project",
+                //         description: '<h4 class="tr__fadeUpOneByOne__always">FlowRow - the innovative full-body workout for better performance and health</h4><p class="tr__fadeUpOneByOne__always">With a strong focus on UX, we conducted comprehensive research to enhance the user experience. We then designed visual mockups for all pages, following our design system, and created prototypes to validate our concepts.</p>',
+                //         sourceType: "image",
+                //         sourceURL: "",
+                //         customClass: "",
+                //         action: !0
+                //     }, {
+                //         name: "web-image",
+                //         title: "",
+                //         background: "#E0E4EA",
+                //         backgroundLight: "#E7EBEE",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/flow-row/flow-row-desktopscreen1.webp",
+                //             imageWidth: 1530,
+                //             imageHeight: 3698,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-7/12 h-full z-1",
+                //             imageClass: "w-full max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/flow-row/flow-row-desktopscreen2.webp",
+                //             imageWidth: 750,
+                //             imageHeight: 5206,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-4/12 h-full z-0",
+                //             imageClass: "float-right w-full max-w-none h-full shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "details",
+                //         title: "Our Mission",
+                //         description: '<p class="tr__fadeUpOneByOne__always">Engrossed in the FlowRow project, we were privileged to embark on an extraordinary journey. Our team enthusiastically undertook the tasks of market research, strategic planning, development, and unleashing our creativity to create visually captivating designs.</p><p class="tr__fadeUpOneByOne__always">Throughout our extensive collaboration, AlphaRoar tirelessly explored countless design concepts, ultimately crafting an unforgettable design for the mobile and desktop website. And let\'s not forget, we also built the website from scratch, adding an extra sense of accomplishment to our involvement.</p>',
+                //         imageType: "image",
+                //         image: "",
+                //         action: !1
+                //     }, {
+                //         name: "single-image",
+                //         title: "",
+                //         dataType: "image",
+                //         background: "",
+                //         backgroundLight: "",
+                //         sourceURL: "/assets/images/works/flow-row/flow-row-thumbscreen1.webp",
+                //         sourceURLLight: "/assets/images/works/flow-row/flow-row-thumbscreen1.webp",
+                //         imageWidth: 2480,
+                //         imageHeight: 2106,
+                //         layout: "boxy",
+                //         animation: !0,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-center lg:items-start h-full",
+                //         wrapperCustomClass: "items-center lg:items-start"
+                //     }, {
+                //         name: "web-image",
+                //         title: 'Unparalleled UI/UX and Visual <br class="hidden sm:block" />Design for Interior Pages',
+                //         background: "#E0E4EA",
+                //         backgroundLight: "#E7EBEE",
+                //         imageURL: "",
+                //         imageURLLight: "",
+                //         layout: "boxy",
+                //         wrapperCustomClass: "tr__container h-full",
+                //         layoutData: [{
+                //             imageURL: "/assets/images/works/flow-row/flow-row-desktopscreen3.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 3758,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-start items-start w-8/12 h-full z-1",
+                //             imageClass: "w-120per max-w-none mt-10 sm:mt-20 lg:mt-40 shadow-2xl"
+                //         }, {
+                //             imageURL: "/assets/images/works/flow-row/flow-row-desktopscreen4.webp",
+                //             imageWidth: 1270,
+                //             imageHeight: 3618,
+                //             animation: !1,
+                //             animationSpeed: 0,
+                //             customClass: "flex justify-end items-start w-8/12 h-full z-0",
+                //             imageClass: "float-right w-120per max-w-none h-full mt-20 sm:mt-32 lg:mt-64 shadow-2xl"
+                //         }]
+                //     }, {
+                //         name: "visual-quote",
+                //         text: "<span>clever </span><span>ux retains </span><span>users </span><span>longer. </span>"
+                //     }, {
+                //         name: "single-image",
+                //         title: 'Unparalleled web outsourcing <br class="hidden sm:block" />with a custom touch.',
+                //         dataType: "image",
+                //         background: "#182B46",
+                //         backgroundLight: "#D9DFE2",
+                //         sourceURL: "/assets/images/works/flow-row/flow-row-fullimage1.webp",
+                //         sourceURLLight: "/assets/images/works/flow-row/flow-row-fullimage1.webp",
+                //         imageWidth: 2880,
+                //         imageHeight: 2576,
+                //         layout: "full",
+                //         animation: !1,
+                //         animationSpeed: 0,
+                //         customClass: "flex justify-center items-start",
+                //         wrapperCustomClass: "items-start h-full"
+                //     }]
+                // }
+            
+            ];
             var tB = () => (0, tn.jsx)(tn.Fragment, {})
         },
         7133: function () { },
