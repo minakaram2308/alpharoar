@@ -873,7 +873,7 @@
                                         })]
                                     }), (0, s.jsxs)("div", {
                                         className: "tr__home__achieved__block__wrapper__right tr__home__achieved__category",
-                                        children: ["projects &", (0, s.jsx)("br", {}), " completed"]
+                                        children: ["projects", (0, s.jsx)("br", {}), " completed"]
                                     })]
                                 })
                             }), (0, s.jsx)("div", {
