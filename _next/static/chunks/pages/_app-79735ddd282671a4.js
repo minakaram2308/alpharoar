@@ -33532,7 +33532,7 @@
       let eg = {
           logo: [
             {
-              path: "/assets/images/logo.svg",
+              path: "/assets/images/logo/darknotext.png",
               width: 118,
               height: 22,
             },
@@ -33740,7 +33740,7 @@
                             href: "/",
                             onClick: tr,
                             "aria-label": "AlphaRoar",
-                            className: "tr__cursor__hoverable",
+                            // className: "tr__cursor__hoverable",
                             children: (0, tn.jsx)(tm(), {
                               src: eg.logo[0].path,
                               alt: "AlphaRoar",
