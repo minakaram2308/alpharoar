@@ -2135,9 +2135,9 @@
                           className: "tr__fadeUp",
                           children: (0, s.jsx)(f.Z, {
                             buttonType: "link",
-                            buttonTitle: "View Dribbble",
+                            buttonTitle: "View Linkedin",
                             buttonAction:
-                              "https://dribbble.com/AlphaRoardesign",
+                              "www.linkedin.com/company/alpha-roar",
                             buttonCustomClass:
                               "float-none inline-block m-auto z-1",
                             buttonTarget: "_blank",

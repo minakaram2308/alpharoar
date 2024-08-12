@@ -35830,7 +35830,7 @@
           blurHeight: 8,
         },
         tw = {
-          src: "/_next/static/media/dribbble.1a51ca99.webp",
+          src: "/assets/images/LinkedIn_logo.svg",
           height: 110,
           width: 390,
           blurDataURL:
