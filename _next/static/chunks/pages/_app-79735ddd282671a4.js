@@ -33861,10 +33861,10 @@
                                 (0, tn.jsx)("h4", {
                                   className: "overflow-visible",
                                   children: (0, tn.jsx)(tc(), {
-                                    href: "mailto:info-alpharoar@gmail.com",
+                                    href: "mailto:info@alpharoar-uae.com",
                                     className:
                                       "tr__cursor__hoverable tr__magnetic inline-block",
-                                    children: "info-alpharoar@gmail.com",
+                                    children: "info@alpharoar-uae.com",
                                   }),
                                 }),
                               ],
@@ -34076,10 +34076,10 @@
                         className:
                           "tr__navigations__email tr__cursor__hoverable mb-1 invisible",
                         children: (0, tn.jsx)("a", {
-                          href: "mailto:info-alpharoar@gmail.com",
+                          href: "mailto:info@alpharoar-uae.com",
                           className: "inline-block tr__magnetic",
                           children: (0, tn.jsx)("span", {
-                            children: "info-alpharoar@gmail.com",
+                            children: "info@alpharoar-uae.com",
                           }),
                         }),
                       }),

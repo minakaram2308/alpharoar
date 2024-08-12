@@ -720,7 +720,7 @@
                             content: "AlphaRoar\xae"
                         }), (0, s.jsx)("meta", {
                             property: "og:copyright",
-                            content: "info-alpharoar@gmail.com"
+                            content: "info@alpharoar-uae.com"
                         }), (0, s.jsx)("meta", {
                             name: "twitter:site",
                             content: "@AlphaRoar_design"

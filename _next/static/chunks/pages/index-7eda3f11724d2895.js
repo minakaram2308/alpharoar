@@ -1140,7 +1140,7 @@
                   }),
                   (0, s.jsx)("meta", {
                     property: "og:copyright",
-                    content: "info-alpharoar@gmail.com",
+                    content: "info@alpharoar-uae.com",
                   }),
                   (0, s.jsx)("meta", {
                     name: "twitter:site",
@@ -2170,56 +2170,6 @@
                           )
                         ),
                     }),
-                  ],
-                }),
-              }),
-              (0, s.jsx)("section", {
-                className: "tr__section tr__social",
-                children: (0, s.jsxs)("div", {
-                  className: "tr__container tr__social__content",
-                  children: [
-                    (0, s.jsx)(k.Z, {
-                      sectionTitle: "join our <br />jungle <br /> trek",
-                      sectionDesc: "",
-                    }),
-                    Z.socialsData &&
-                      Z.socialsData.map((e, t) =>
-                        (0, s.jsx)(
-                          i.Fragment,
-                          {
-                            children: (0, s.jsxs)(c(), {
-                              href: e.url,
-                              className: "tr__social__item",
-                              "aria-label": e.name,
-                              target: "_blank",
-                              children: [
-                                (0, s.jsxs)("div", {
-                                  className:
-                                    "tr__fadeUp w-full flex justify-between",
-                                  children: [
-                                    (0, s.jsx)("h2", { children: e.name }),
-                                    e.icon &&
-                                      (0, s.jsx)(a(), {
-                                        src: e.icon,
-                                        alt: "AlphaRoar",
-                                        width: "64",
-                                        height: "64",
-                                        className: "",
-                                      }),
-                                  ],
-                                }),
-                                (0, s.jsx)("div", {
-                                  className: "tr__fadeUp h-8 w-full",
-                                  children: (0, s.jsx)(y.Z, {
-                                    customClass: "mt-8",
-                                  }),
-                                }),
-                              ],
-                            }),
-                          },
-                          t
-                        )
-                      ),
                   ],
                 }),
               }),

@@ -314,7 +314,7 @@
                             content: "AlphaRoar\xae"
                         }), (0, l.jsx)("meta", {
                             property: "og:copyright",
-                            content: "info-alpharoar@gmail.com"
+                            content: "info@alpharoar-uae.com"
                         }), (0, l.jsx)("meta", {
                             name: "twitter:site",
                             content: "@AlphaRoar_design"
@@ -704,10 +704,6 @@
                                                     className: "select-dropdown__list-item",
                                                     children: "Awwwards"
                                                 }), (0, l.jsx)("option", {
-                                                    value: "Instagram",
-                                                    className: "select-dropdown__list-item",
-                                                    children: "Instagram"
-                                                }), (0, l.jsx)("option", {
                                                     value: "LinkedIn",
                                                     className: "select-dropdown__list-item",
                                                     children: "LinkedIn"
@@ -809,9 +805,9 @@
                                     }), (0, l.jsx)("h4", {
                                         className: "overflow-visible",
                                         children: (0, l.jsx)(d(), {
-                                            href: "mailto:info-alpharoar@gmail.com",
+                                            href: "mailto:info@alpharoar-uae.com",
                                             className: "tr__cursor__hoverable tr__magnetic inline-block",
-                                            children: "info-alpharoar@gmail.com"
+                                            children: "info@alpharoar-uae.com"
                                         })
                                     })]
                                 }), (0, l.jsx)("div", {
@@ -886,30 +882,6 @@
                                             target: "_blank",
                                             className: "tr__cursor__hoverable tr__magnetic inline-block",
                                             children: "LinkedIn"
-                                        }), (0, l.jsx)("span", {
-                                            className: "inline-block",
-                                            children: "\xb7"
-                                        }), (0, l.jsx)(d(), {
-                                            href: "https://www.instagram.com/AlphaRoardesign/",
-                                            target: "_blank",
-                                            className: "tr__cursor__hoverable tr__magnetic inline-block",
-                                            children: "Instagram"
-                                        }), (0, l.jsx)("span", {
-                                            className: "inline-block",
-                                            children: "\xb7"
-                                        }), (0, l.jsx)(d(), {
-                                            href: "https://www.behance.net/AlphaRoarDesign",
-                                            target: "_blank",
-                                            className: "tr__cursor__hoverable tr__magnetic inline-block",
-                                            children: "Behance"
-                                        }), (0, l.jsx)("span", {
-                                            className: "inline-block",
-                                            children: "\xb7"
-                                        }), (0, l.jsx)(d(), {
-                                            href: "https://www.facebook.com/AlphaRoaragency/",
-                                            target: "_blank",
-                                            className: "tr__cursor__hoverable tr__magnetic inline-block",
-                                            children: "Facebook"
                                         })]
                                     })]
                                 }), (0, l.jsx)("div", {
