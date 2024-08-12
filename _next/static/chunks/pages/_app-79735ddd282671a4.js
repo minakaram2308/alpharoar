@@ -33541,23 +33541,23 @@
         ey = [
           {
             title: "work",
-            path: "/work",
+            path: "/work.html",
           },
           {
             title: "about",
-            path: "/about",
+            path: "/about.html",
           },
           {
             title: "services",
-            path: "/services",
+            path: "/services.html",
           },
           {
             title: "team",
-            path: "/team",
+            path: "/team.html",
           },
           {
             title: "contact",
-            path: "/contact",
+            path: "/contact.html",
           },
         ];
       var eb = JSON.parse(
@@ -35455,13 +35455,13 @@
                 },
                 tJ
               ),
-              "/contact" != tp.asPath &&
+              "/contact.html" != tp.asPath &&
                 (0, tn.jsx)(
                   "div",
                   {
                     className: "tr__circular__talknow",
                     children: (0, tn.jsxs)(tc(), {
-                      href: "/contact",
+                      href: "/contact.html",
                       "aria-label": "Contact",
                       className: "tr__magnetic",
                       onClick: ei,

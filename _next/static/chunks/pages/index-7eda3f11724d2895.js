@@ -1284,7 +1284,7 @@
                       (0, s.jsx)(f.Z, {
                         buttonType: "link",
                         buttonTitle: "Explore work",
-                        buttonAction: "/work",
+                        buttonAction: "/work.html",
                         handleRouterClick: _,
                         buttonCustomClass: "tr__banner__fadeUp",
                       }),
@@ -1293,7 +1293,7 @@
                         children: (0, s.jsx)(f.Z, {
                           buttonType: "link",
                           buttonTitle: "Services",
-                          buttonAction: "/services",
+                          buttonAction: "/services.html",
                           handleRouterClick: _,
                           buttonCustomClass: "tr__banner__fadeUp",
                         }),
@@ -1301,7 +1301,7 @@
                       (0, s.jsx)(f.Z, {
                         buttonType: "link",
                         buttonTitle: "Get in touch",
-                        buttonAction: "/contact",
+                        buttonAction: "/contact.html",
                         handleRouterClick: _,
                         buttonCustomClass: "tr__banner__fadeUp",
                       }),
