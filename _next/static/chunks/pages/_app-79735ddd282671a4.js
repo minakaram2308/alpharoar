@@ -37071,233 +37071,233 @@
 
 
           //8octa
-          {
-            id: 2,
-            title: "8octa",
-            slug: "8octa",
-            category: "branding",
-            image: "/assets/images/works/8octa/8octa-main.webp",
-            imageLandscape:
-              "/assets/images/works/8octa/8octa-main-landscape.webp",
-            imageWidth: 800,
-            imageHeight: 1200,
-            boxsize: 1,
-            customClass: "mt-12 sm:mt-24",
-            description: "Research, Branding",
-            url: "",
-            client: "8Octa",
-            year: "2022-2023",
-            displayHome: !1,
-            sections: [
-              {
-                name: "banner-image",
-                title: "",
-                dataType: "image",
-                background: "#0F00C2",
-                backgroundLight: "#0F00C2",
-                sourceURL: "/assets/images/works/8octa/8octa-banner.webp",
-                sourceURLLight: "/assets/images/works/8octa/8octa-banner.webp",
-                imageWidth: 2880,
-                imageHeight: 2800,
-                layout: "full",
-                animation: !1,
-                animationSpeed: 0,
-                customClass: "items-center lg:mt-40",
-                wrapperCustomClass: "items-center",
-              },
-              {
-                name: "details",
-                title: "About project",
-                description:
-                  '<h4 class="tr__fadeUpOneByOne__always">Empower your data-driven decisions with 8Octa\'s cutting-edge Statistical Data Analytics software.</h4><p class="tr__fadeUpOneByOne__always">As architects of the entire process, we spearheaded the development of a fresh corporate identity for the service, starting from scratch.</p>',
-                sourceType: "image",
-                sourceURL: "",
-                customClass: "",
-                action: !1,
-              },
-              {
-                name: "single-image",
-                title: "",
-                dataType: "image",
-                background: "",
-                backgroundLight: "",
-                sourceURL: "/assets/images/works/8octa/8octa-thumbscreen1.webp",
-                sourceURLLight:
-                  "/assets/images/works/8octa/8octa-thumbscreen1-light.webp",
-                imageWidth: 2482,
-                imageHeight: 2480,
-                layout: "boxy",
-                animation: !0,
-                animationSpeed: 0,
-                customClass:
-                  "items-center lg:items-start mb-40 lg:mb-0 lg:mt-40",
-                wrapperCustomClass: "items-center lg:items-start h-full",
-              },
-              {
-                name: "single-image",
-                title: "",
-                dataType: "image",
-                background: "#0F00C2",
-                backgroundLight: "#0F00C2",
-                sourceURL: "/assets/images/works/8octa/8octa-fullimage1.webp",
-                sourceURLLight:
-                  "/assets/images/works/8octa/8octa-fullimage1.webp",
-                imageWidth: 2880,
-                imageHeight: 4220,
-                layout: "full",
-                animation: !0,
-                animationSpeed: 0,
-                customClass: "items-center lg:items-start",
-                wrapperCustomClass: "items-center lg:items-start",
-              },
-              {
-                name: "grid-image",
-                layout: "boxy",
-                wrapperCustomClass: "",
-                layoutGrid: [
-                  {
-                    background: "#000000",
-                    backgroundLight: "#000000",
-                    imageURL: "",
-                    gridWrapperCustomClass: "mb-20",
-                    gridData: [
-                      {
-                        imageURL:
-                          "/assets/images/works/8octa/8octa-thumbscreen2.webp",
-                        imageWidth: 2264,
-                        imageHeight: 1307,
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center",
-                        imageClass: "",
-                      },
-                    ],
-                  },
-                  {
-                    background: "#000000",
-                    backgroundLight: "#000000",
-                    imageURL: "",
-                    gridWrapperCustomClass: "mb-20",
-                    gridData: [
-                      {
-                        imageURL:
-                          "/assets/images/works/8octa/8octa-thumbscreen3.webp",
-                        imageWidth: 2080,
-                        imageHeight: 900,
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center",
-                        imageClass: "",
-                      },
-                    ],
-                  },
-                  {
-                    background: "#000000",
-                    backgroundLight: "#000000",
-                    imageURL: "",
-                    gridWrapperCustomClass: "",
-                    gridData: [
-                      {
-                        imageURL:
-                          "/assets/images/works/8octa/8octa-thumbscreen4.webp",
-                        imageWidth: 2032,
-                        imageHeight: 768,
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass: "flex justify-center items-center",
-                        imageClass: "",
-                      },
-                    ],
-                  },
-                ],
-              },
-              {
-                name: "single-image",
-                title: "",
-                dataType: "image",
-                background: "",
-                backgroundLight: "",
-                sourceURL: "/assets/images/works/8octa/8octa-fullimage2.webp",
-                sourceURLLight:
-                  "/assets/images/works/8octa/8octa-fullimage2.webp",
-                imageWidth: 2880,
-                imageHeight: 2160,
-                layout: "full",
-                animation: !0,
-                animationSpeed: 0,
-                customClass: "items-center lg:items-start",
-                wrapperCustomClass: "items-center lg:items-start",
-              },
-              {
-                name: "visual-quote",
-                text: "<span>minimal </span><span>branding </span><span>makes </span><span>great </span><span>effort </span>",
-              },
-              {
-                name: "grid-image",
-                layout: "boxy",
-                wrapperCustomClass: "",
-                layoutGrid: [
-                  {
-                    background: "",
-                    backgroundLight: "",
-                    imageURL: "",
-                    gridWrapperCustomClass: "p-0 mb-20",
-                    gridData: [
-                      {
-                        imageURL:
-                          "/assets/images/works/8octa/8octa-thumbscreen5.webp",
-                        imageWidth: 2480,
-                        imageHeight: 1860,
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass:
-                          "flex justify-center items-center lg:items-start",
-                        imageClass: "",
-                      },
-                    ],
-                  },
-                  {
-                    background: "",
-                    backgroundLight: "",
-                    imageURL: "",
-                    gridWrapperCustomClass: "p-0 mb-20",
-                    gridData: [
-                      {
-                        imageURL:
-                          "/assets/images/works/8octa/8octa-thumbscreen6.webp",
-                        imageWidth: 2480,
-                        imageHeight: 1600,
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass:
-                          "flex justify-center items-center lg:items-start",
-                        imageClass: "",
-                      },
-                    ],
-                  },
-                  {
-                    background: "",
-                    backgroundLight: "",
-                    imageURL: "",
-                    gridWrapperCustomClass: "p-0",
-                    gridData: [
-                      {
-                        imageURL:
-                          "/assets/images/works/8octa/8octa-thumbscreen7.webp",
-                        imageWidth: 2480,
-                        imageHeight: 1800,
-                        animation: !1,
-                        animationSpeed: 0,
-                        customClass:
-                          "flex justify-center items-center lg:items-start",
-                        imageClass: "",
-                      },
-                    ],
-                  },
-                ],
-              },
-            ],
-          },
+          // {
+          //   id: 2,
+          //   title: "8octa",
+          //   slug: "8octa",
+          //   category: "branding",
+          //   image: "/assets/images/works/8octa/8octa-main.webp",
+          //   imageLandscape:
+          //     "/assets/images/works/8octa/8octa-main-landscape.webp",
+          //   imageWidth: 800,
+          //   imageHeight: 1200,
+          //   boxsize: 1,
+          //   customClass: "mt-12 sm:mt-24",
+          //   description: "Research, Branding",
+          //   url: "",
+          //   client: "8Octa",
+          //   year: "2022-2023",
+          //   displayHome: !1,
+          //   sections: [
+          //     {
+          //       name: "banner-image",
+          //       title: "",
+          //       dataType: "image",
+          //       background: "#0F00C2",
+          //       backgroundLight: "#0F00C2",
+          //       sourceURL: "/assets/images/works/8octa/8octa-banner.webp",
+          //       sourceURLLight: "/assets/images/works/8octa/8octa-banner.webp",
+          //       imageWidth: 2880,
+          //       imageHeight: 2800,
+          //       layout: "full",
+          //       animation: !1,
+          //       animationSpeed: 0,
+          //       customClass: "items-center lg:mt-40",
+          //       wrapperCustomClass: "items-center",
+          //     },
+          //     {
+          //       name: "details",
+          //       title: "About project",
+          //       description:
+          //         '<h4 class="tr__fadeUpOneByOne__always">Empower your data-driven decisions with 8Octa\'s cutting-edge Statistical Data Analytics software.</h4><p class="tr__fadeUpOneByOne__always">As architects of the entire process, we spearheaded the development of a fresh corporate identity for the service, starting from scratch.</p>',
+          //       sourceType: "image",
+          //       sourceURL: "",
+          //       customClass: "",
+          //       action: !1,
+          //     },
+          //     {
+          //       name: "single-image",
+          //       title: "",
+          //       dataType: "image",
+          //       background: "",
+          //       backgroundLight: "",
+          //       sourceURL: "/assets/images/works/8octa/8octa-thumbscreen1.webp",
+          //       sourceURLLight:
+          //         "/assets/images/works/8octa/8octa-thumbscreen1-light.webp",
+          //       imageWidth: 2482,
+          //       imageHeight: 2480,
+          //       layout: "boxy",
+          //       animation: !0,
+          //       animationSpeed: 0,
+          //       customClass:
+          //         "items-center lg:items-start mb-40 lg:mb-0 lg:mt-40",
+          //       wrapperCustomClass: "items-center lg:items-start h-full",
+          //     },
+          //     {
+          //       name: "single-image",
+          //       title: "",
+          //       dataType: "image",
+          //       background: "#0F00C2",
+          //       backgroundLight: "#0F00C2",
+          //       sourceURL: "/assets/images/works/8octa/8octa-fullimage1.webp",
+          //       sourceURLLight:
+          //         "/assets/images/works/8octa/8octa-fullimage1.webp",
+          //       imageWidth: 2880,
+          //       imageHeight: 4220,
+          //       layout: "full",
+          //       animation: !0,
+          //       animationSpeed: 0,
+          //       customClass: "items-center lg:items-start",
+          //       wrapperCustomClass: "items-center lg:items-start",
+          //     },
+          //     {
+          //       name: "grid-image",
+          //       layout: "boxy",
+          //       wrapperCustomClass: "",
+          //       layoutGrid: [
+          //         {
+          //           background: "#000000",
+          //           backgroundLight: "#000000",
+          //           imageURL: "",
+          //           gridWrapperCustomClass: "mb-20",
+          //           gridData: [
+          //             {
+          //               imageURL:
+          //                 "/assets/images/works/8octa/8octa-thumbscreen2.webp",
+          //               imageWidth: 2264,
+          //               imageHeight: 1307,
+          //               animation: !1,
+          //               animationSpeed: 0,
+          //               customClass: "flex justify-center items-center",
+          //               imageClass: "",
+          //             },
+          //           ],
+          //         },
+          //         {
+          //           background: "#000000",
+          //           backgroundLight: "#000000",
+          //           imageURL: "",
+          //           gridWrapperCustomClass: "mb-20",
+          //           gridData: [
+          //             {
+          //               imageURL:
+          //                 "/assets/images/works/8octa/8octa-thumbscreen3.webp",
+          //               imageWidth: 2080,
+          //               imageHeight: 900,
+          //               animation: !1,
+          //               animationSpeed: 0,
+          //               customClass: "flex justify-center items-center",
+          //               imageClass: "",
+          //             },
+          //           ],
+          //         },
+          //         {
+          //           background: "#000000",
+          //           backgroundLight: "#000000",
+          //           imageURL: "",
+          //           gridWrapperCustomClass: "",
+          //           gridData: [
+          //             {
+          //               imageURL:
+          //                 "/assets/images/works/8octa/8octa-thumbscreen4.webp",
+          //               imageWidth: 2032,
+          //               imageHeight: 768,
+          //               animation: !1,
+          //               animationSpeed: 0,
+          //               customClass: "flex justify-center items-center",
+          //               imageClass: "",
+          //             },
+          //           ],
+          //         },
+          //       ],
+          //     },
+          //     {
+          //       name: "single-image",
+          //       title: "",
+          //       dataType: "image",
+          //       background: "",
+          //       backgroundLight: "",
+          //       sourceURL: "/assets/images/works/8octa/8octa-fullimage2.webp",
+          //       sourceURLLight:
+          //         "/assets/images/works/8octa/8octa-fullimage2.webp",
+          //       imageWidth: 2880,
+          //       imageHeight: 2160,
+          //       layout: "full",
+          //       animation: !0,
+          //       animationSpeed: 0,
+          //       customClass: "items-center lg:items-start",
+          //       wrapperCustomClass: "items-center lg:items-start",
+          //     },
+          //     {
+          //       name: "visual-quote",
+          //       text: "<span>minimal </span><span>branding </span><span>makes </span><span>great </span><span>effort </span>",
+          //     },
+          //     {
+          //       name: "grid-image",
+          //       layout: "boxy",
+          //       wrapperCustomClass: "",
+          //       layoutGrid: [
+          //         {
+          //           background: "",
+          //           backgroundLight: "",
+          //           imageURL: "",
+          //           gridWrapperCustomClass: "p-0 mb-20",
+          //           gridData: [
+          //             {
+          //               imageURL:
+          //                 "/assets/images/works/8octa/8octa-thumbscreen5.webp",
+          //               imageWidth: 2480,
+          //               imageHeight: 1860,
+          //               animation: !1,
+          //               animationSpeed: 0,
+          //               customClass:
+          //                 "flex justify-center items-center lg:items-start",
+          //               imageClass: "",
+          //             },
+          //           ],
+          //         },
+          //         {
+          //           background: "",
+          //           backgroundLight: "",
+          //           imageURL: "",
+          //           gridWrapperCustomClass: "p-0 mb-20",
+          //           gridData: [
+          //             {
+          //               imageURL:
+          //                 "/assets/images/works/8octa/8octa-thumbscreen6.webp",
+          //               imageWidth: 2480,
+          //               imageHeight: 1600,
+          //               animation: !1,
+          //               animationSpeed: 0,
+          //               customClass:
+          //                 "flex justify-center items-center lg:items-start",
+          //               imageClass: "",
+          //             },
+          //           ],
+          //         },
+          //         {
+          //           background: "",
+          //           backgroundLight: "",
+          //           imageURL: "",
+          //           gridWrapperCustomClass: "p-0",
+          //           gridData: [
+          //             {
+          //               imageURL:
+          //                 "/assets/images/works/8octa/8octa-thumbscreen7.webp",
+          //               imageWidth: 2480,
+          //               imageHeight: 1800,
+          //               animation: !1,
+          //               animationSpeed: 0,
+          //               customClass:
+          //                 "flex justify-center items-center lg:items-start",
+          //               imageClass: "",
+          //             },
+          //           ],
+          //         },
+          //       ],
+          //     },
+          //   ],
+          // },
 
         ];
       var tB = () => (0, tn.jsx)(tn.Fragment, {});
