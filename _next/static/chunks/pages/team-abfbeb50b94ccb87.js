@@ -478,105 +478,17 @@
                     
                     (0, n.jsxs)("section", {
                         className: "tr__section tr__team",
-                        children: [(0, n.jsxs)("div", {
-                            className: "tr__container tr__team__container",
-                            children: [(0, n.jsx)(f.Z, {
-                                type: "h2",
-                                content: "In the heart of our <br />wild team, we find <br />our strength.",
-                                customClass: "tr__heading__animation w-full lg:w-1/2 mb-10"
-                            }), (0, n.jsx)("div", {
-                                className: "w-full max-w-none lg:max-w-[580px] 2xl:max-w-[600px] ml-auto mb-24",
-                                children: (0, n.jsx)("p", {
-                                    className: "tr__fadeUp",
-                                    children: "In our creative jungle, designers, thinkers, strategists unite like a lion's roar, crafting vibrant projects resonating with the wild symphony of innovation."
-                                })
-                            })]
-                        }), (0, n.jsxs)("div", {
+                        children: [(0, n.jsxs)
+                            
+                            ("div", {
                             className: "tr__container tr__team__members",
-                            children: [(0, n.jsxs)("div", {
-                                className: "tr__team__members__slider__nav hidden",
-                                children: [(0, n.jsxs)("svg", {
-                                    id: "tr__team__members__slider__leftArrow",
-                                    className: "tr__team__members__slider__arrow tr__team__members__slider__prev",
-                                    viewBox: "0 0 34 34",
-                                    fill: "none",
-                                    xmlns: "http://www.w3.org/2000/svg",
-                                    children: [(0, n.jsx)("circle", {
-                                        cx: "16",
-                                        cy: "16",
-                                        r: "16.5",
-                                        transform: "matrix(4.37114e-08 -1 -1 -4.37114e-08 33 33)"
-                                    }), (0, n.jsx)("path", {
-                                        d: "M15.6665 11.9419L10.6082 17.0003L15.6665 22.0586",
-                                        strokeMiterlimit: "10",
-                                        strokeLinecap: "round",
-                                        strokeLinejoin: "round"
-                                    }), (0, n.jsx)("path", {
-                                        d: "M22.3335 17L11.0001 17",
-                                        strokeMiterlimit: "10",
-                                        strokeLinecap: "round",
-                                        strokeLinejoin: "round"
-                                    })]
-                                }), (0, n.jsxs)("svg", {
-                                    id: "tr__team__members__slider__rightArrow",
-                                    className: "tr__team__members__slider__arrow tr__team__members__slider__next",
-                                    viewBox: "0 0 34 34",
-                                    fill: "none",
-                                    xmlns: "http://www.w3.org/2000/svg",
-                                    children: [(0, n.jsx)("circle", {
-                                        cx: "17",
-                                        cy: "17",
-                                        r: "16.5",
-                                        transform: "rotate(-90 17 17)"
-                                    }), (0, n.jsx)("path", {
-                                        d: "M18.3335 11.9419L23.3918 17.0003L18.3335 22.0586",
-                                        strokeMiterlimit: "10",
-                                        strokeLinecap: "round",
-                                        strokeLinejoin: "round"
-                                    }), (0, n.jsx)("path", {
-                                        d: "M11.6665 17L22.9999 17",
-                                        strokeMiterlimit: "10",
-                                        strokeLinecap: "round",
-                                        strokeLinejoin: "round"
-                                    })]
-                                })]
-                            }), (0, n.jsx)("div", {
+                            children: 
+                            [
+                                (0, n.jsx)("div", {
                                 className: "tr__team__members__slider__wrapper",
                                 children: A.teamData && A.teamData.map((e, t) => (0, n.jsx)(s.Fragment, {
                                     children: (0, n.jsx)("div", {
                                         className: "tr__team__member tr__team__member__slide",
-                                        children: (0, n.jsxs)("div", {
-                                            className: "tr__team__member tr__team__member__slide__wrapper",
-                                            children: [(0, n.jsx)(l(), {
-                                                src: e.photo,
-                                                width: "100",
-                                                height: "100",
-                                                alt: "",
-                                                style: {
-                                                    width: "100%",
-                                                    height: "auto"
-                                                },
-                                                className: "",
-                                                "data-speed": ""
-                                            }), (0, n.jsx)("h5", {
-                                                children: e.name
-                                            }), (0, n.jsx)("p", {
-                                                children: e.position
-                                            }), e.contact && e.contact.map((e, t) => (0, n.jsx)(s.Fragment, {
-                                                children: (0, n.jsx)(_(), {
-                                                    href: e.url,
-                                                    "aria-label": e.name,
-                                                    className: "w-8 h-8 inline-block mt-2",
-                                                    target: "_blank",
-                                                    children: (0, n.jsx)(l(), {
-                                                        src: e.icon,
-                                                        width: "32",
-                                                        height: "32",
-                                                        alt: "AlphaRoar"
-                                                    })
-                                                }, t)
-                                            }, t))]
-                                        })
                                     })
                                 }, t))
                             })]
