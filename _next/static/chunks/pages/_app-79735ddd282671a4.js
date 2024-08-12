@@ -36371,30 +36371,10 @@
         ],
         tT = [
           {
-            name: "Dribbble",
-            icon: "/assets/images/socials/dribble.svg",
-            url: "https://dribbble.com/AlphaRoardesign",
-          },
-          {
             name: "LinkedIn",
             icon: "/assets/images/socials/linkedin.svg",
-            url: "http://www.linkedin.com/company/2715714",
-          },
-          {
-            name: "Instagram",
-            icon: "/assets/images/socials/instagram.svg",
-            url: "https://www.instagram.com/AlphaRoardesign/",
-          },
-          {
-            name: "Behance",
-            icon: "/assets/images/socials/behance.svg",
-            url: "https://www.behance.net/AlphaRoarDesign",
-          },
-          {
-            name: "Facebook",
-            icon: "/assets/images/socials/facebook.svg",
-            url: "https://www.facebook.com/AlphaRoaragency/",
-          },
+            url: "www.linkedin.com/company/alpha-roar",
+          }
         ],
         tL = [
           {
@@ -36505,7 +36485,7 @@
               {
                 name: "Linkedin",
                 icon: "/assets/images/socials/linkedin.svg",
-                url: "https://eg.linkedin.com/in/nader-maher-a4012b135?trk=public_profile_browsemap",
+                url: "linkedin.com/in/nader-maher-a4012b135",
               },
             ],
           },

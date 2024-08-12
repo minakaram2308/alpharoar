@@ -878,7 +878,7 @@
                                     }), (0, l.jsxs)("h4", {
                                         className: "overflow-visible space-x-2 2xl:space-x-4",
                                         children: [(0, l.jsx)(d(), {
-                                            href: "http://www.linkedin.com/company/2715714",
+                                            href: "www.linkedin.com/company/alpha-roar",
                                             target: "_blank",
                                             className: "tr__cursor__hoverable tr__magnetic inline-block",
                                             children: "LinkedIn"
