@@ -474,7 +474,9 @@
                             image2URL: P,
                             text2: "born with creative instincts."
                         })]
-                    }), (0, n.jsxs)("section", {
+                    }),
+                    
+                    (0, n.jsxs)("section", {
                         className: "tr__section tr__team",
                         children: [(0, n.jsxs)("div", {
                             className: "tr__container tr__team__container",
@@ -579,7 +581,9 @@
                                 }, t))
                             })]
                         })]
-                    }), (0, n.jsxs)("section", {
+                    }),
+                    
+                    (0, n.jsxs)("section", {
                         className: "tr__section tr__join__AlphaRoar",
                         children: [(0, n.jsx)("div", {
                             className: "tr__container tr__join__AlphaRoar__container",
@@ -619,7 +623,7 @@
                                     }), (0, n.jsx)(d.Z, {
                                         buttonType: "link",
                                         buttonTitle: "Apply now!",
-                                        buttonAction: "https://forms.gle/hTrkwhhaYP4GUwPJ7",
+                                        buttonAction: "https://docs.google.com/forms/d/e/1FAIpQLSft2I5QR7fttNVrsUD2YqN-davMfZwjmAQrU8ZgIvmFghpDUw/viewform",
                                         buttonCustomClass: "",
                                         buttonTarget: "_blank"
                                     })]
@@ -640,7 +644,7 @@
                                     }), (0, n.jsx)(d.Z, {
                                         buttonType: "link",
                                         buttonTitle: "Apply now!",
-                                        buttonAction: "https://forms.gle/SaLSfqNXsD5ARiFG6",
+                                        buttonAction: "https://docs.google.com/forms/d/e/1FAIpQLSft2I5QR7fttNVrsUD2YqN-davMfZwjmAQrU8ZgIvmFghpDUw/viewform",
                                         buttonCustomClass: "",
                                         buttonTarget: "_blank"
                                     })]
@@ -661,7 +665,7 @@
                                     }), (0, n.jsx)(d.Z, {
                                         buttonType: "link",
                                         buttonTitle: "Apply now!",
-                                        buttonAction: "https://forms.gle/TtRZXRjtRAGow2PaA",
+                                        buttonAction: "https://docs.google.com/forms/d/e/1FAIpQLSft2I5QR7fttNVrsUD2YqN-davMfZwjmAQrU8ZgIvmFghpDUw/viewform",
                                         buttonCustomClass: "",
                                         buttonTarget: "_blank"
                                     })]
