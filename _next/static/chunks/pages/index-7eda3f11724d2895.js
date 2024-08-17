@@ -2137,7 +2137,7 @@
                             buttonType: "link",
                             buttonTitle: "View Linkedin",
                             buttonAction:
-                              "www.linkedin.com/company/alpha-roar",
+                              "https://www.linkedin.com/company/alpha-roar",
                             buttonCustomClass:
                               "float-none inline-block m-auto z-1",
                             buttonTarget: "_blank",

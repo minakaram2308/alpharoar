@@ -33887,10 +33887,6 @@
                                 }),
                               ],
                             }),
-                            (0, tn.jsx)("div", {
-                              className:
-                                "tr__footer__contact__block hidden xl:block",
-                            }),
                             (0, tn.jsxs)("div", {
                               className:
                                 "tr__footer__contact__block lg:text-right tr__fadeUp",

@@ -375,7 +375,7 @@ h6 {
 
 h1 {
   font-family: "Dirtyline 36Daysoftype 2022";
-  font-size: 8.125rem;
+  font-size: 7rem;
   line-height: 6.25rem;
 }
 
@@ -394,7 +394,7 @@ h1.small {
 .tr__work__info h2,
 .tr__work__next h2 {
   font-family: "Dirtyline 36Daysoftype 2022";
-  font-size: 8.125rem;
+  font-size: 7rem;
   line-height: 6.25rem;
   letter-spacing: -2px;
 }
@@ -614,7 +614,7 @@ h3 > span {
   .tr__text__marquee__wrapper .tr__marquee__item h3,
   .tr__text__marquee__wrapper .tr__marquee__item__rev h3,
   h3 {
-    font-size: 8rem;
+    font-size: 7rem;
     line-height: 6.125rem;
     letter-spacing: -2px;
   }
@@ -716,7 +716,7 @@ h3 > span {
 
   .tr__text__marquee__wrapper .tr__marquee__item h3,
   .tr__text__marquee__wrapper .tr__marquee__item__rev h3 {
-    font-size: 8rem;
+    font-size: 7rem;
     letter-spacing: -2px;
   }
 
@@ -831,9 +831,9 @@ h3 > span {
   .tr__text__marquee__wrapper .tr__marquee__item h3,
   .tr__text__marquee__wrapper .tr__marquee__item__rev h3,
   h3 {
-    font-size: 8rem;
+    font-size: 7rem;
     line-height: 5.9rem;
-    letter-spacing: -6px;
+    letter-spacing: -3px;
   }
 }
 
@@ -3686,7 +3686,7 @@ footer .tr__only__mobile {
 
 @media (min-width: 1140px) {
   .tr__footer__contact {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
 

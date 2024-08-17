@@ -830,19 +830,19 @@
                             children: (0, s.jsxs)("div", {
                                 className: "tr__home__about__container__wrapper__about__page",
                                 children: [(0, s.jsx)(N.Z, {
-                                    type: "h2",
+                                    type: "h5",
                                     content: "Embracing the journey, we cater to every need, collaborating to pave the road for our diverse creative services to flourish in the business jungle. We are the roaring digital agency, boldly navigating the entire digital spectrum, from user research to branding, development, and evaluation.",
                                     customClass: "tr__heading__animation mb-10"
                                 }), (0, s.jsxs)("div", {
                                     className: "tr__home__about__about__page__wrapper",
                                     children: [(0, s.jsxs)("div", {
-                                        className: "tr__home__about__about__page__wrapper__right",
+                                        className: "d-flex",
                                         children: [(0, s.jsx)("p", {
                                             className: "tr__fadeUp",
-                                            children: "Infused with the lion's determination, we partner intimately with clients, exploring their lofty goals and subtle nuances, adeptly shifting from the theoretical to the pragmatic, bringing their vision to fruition."
+                                            children: "We meticulously craft Web Interfaces, Brands, IOS and Android application designs, and bespoke Web solutions, Content management, and e-commerce development, bringing their vision to life with a roar of creativity."
                                         }), (0, s.jsx)("p", {
                                             className: "tr__fadeUp",
-                                            children: "We meticulously craft Web Interfaces, Brands, IOS and Android application designs, and bespoke Web solutions, Content management, and e-commerce development, bringing their vision to life with a roar of creativity."
+                                            children: "Infused with the lion's determination, we partner intimately with clients, exploring their lofty goals and subtle nuances, adeptly shifting from the theoretical to the pragmatic, bringing their vision to fruition."
                                         })]
                                     })]
                                 })]
