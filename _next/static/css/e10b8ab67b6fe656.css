@@ -2272,6 +2272,9 @@ header .tr__nav__humburger.tr__close span:nth-child(2) {
   .w-120per {
     width: 100% !important;
   }
+  .tr__masking__secondary img, .tr__masking__secondary, .tr__masking__primary, .tr__masking__primary img, .tr__masking__wrapper {
+    height: 200px !important;
+  }
 }
 
 .tr__banner_bottom {
