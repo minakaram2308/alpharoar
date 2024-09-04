@@ -115,14 +115,12 @@
                 } = e, [j, C] = (0, a.useState)("tab1"), [D, P] = (0, a.useState)({
                     name: "",
                     email: "",
-                    phone: "",
                     company: "",
                     message: "",
                     error_list: []
                 }), [Z, U] = (0, a.useState)({
                     name: "",
                     email: "",
-                    phone: "",
                     company: "",
                     message: "",
                     error_list: []
@@ -162,7 +160,6 @@
                             ...D,
                             name: "",
                             email: "",
-                            phone: "",
                             company: "",
                             message: "",
                             error_list: []
@@ -203,7 +200,6 @@
                             name: "",
                             company: "",
                             email: "",
-                            phone: "",
                             message: "",
                             error_list: []
                         }), document.querySelectorAll("#getQuoteForm .field").forEach(e => {
@@ -474,19 +470,6 @@
                                             }), D.error_list.email && (0, l.jsx)("div", {
                                                 className: "field_error",
                                                 children: D.error_list.email
-                                            })]
-                                        }), (0, l.jsxs)("li", {
-                                            className: "field",
-                                            children: [(0, l.jsx)("label", {
-                                                children: "Phone"
-                                            }), (0, l.jsx)("input", {
-                                                name: "phone",
-                                                type: "text",
-                                                placeholder: "Your phone number",
-                                                className: "",
-                                                value: D.phone || "",
-                                                onChange: O,
-                                                onBlur: F
                                             })]
                                         }), (0, l.jsxs)("li", {
                                             className: "field",
@@ -808,30 +791,6 @@
                                             href: "mailto:info@alpharoar-uae.com",
                                             className: "tr__cursor__hoverable tr__magnetic inline-block",
                                             children: "info@alpharoar-uae.com"
-                                        })
-                                    })]
-                                }), (0, l.jsx)("div", {
-                                    className: "tr__fadeUp h-8",
-                                    children: (0, l.jsx)(h.Z, {
-                                        customClass: "my-12 sm:my-8"
-                                    })
-                                }), (0, l.jsxs)("div", {
-                                    className: "tr__contact__wrapper tr__fadeUp",
-                                    children: [(0, l.jsxs)("div", {
-                                        children: [(0, l.jsx)(g.Z, {
-                                            type: "h4",
-                                            content: "Phone",
-                                            customClass: "hidden 2xl:block"
-                                        }), (0, l.jsx)("p", {
-                                            className: "text-2xl opacity-70 mt-4 mb-2 block 2xl:hidden",
-                                            children: "Phone"
-                                        })]
-                                    }), (0, l.jsx)("h4", {
-                                        className: "overflow-visible",
-                                        children: (0, l.jsx)(d(), {
-                                            href: "tel:+919824182099",
-                                            className: "tr__cursor__hoverable tr__magnetic inline-block",
-                                            children: "+20 01203164855"
                                         })
                                     })]
                                 }), (0, l.jsx)("div", {
