@@ -33532,7 +33532,7 @@
       let eg = {
           logo: [
             {
-              path: "/assets/images/logo/darknotext.png",
+              path: "/assets/images/logo/dark.png",
               width: 118,
               height: 22,
             },
