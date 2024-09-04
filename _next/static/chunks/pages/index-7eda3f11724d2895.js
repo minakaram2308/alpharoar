@@ -1108,7 +1108,7 @@
                     {
                       name: "description",
                       content:
-                        "AlphaRoar\xae - Redefining Digital Creativity: Your Partner for UI/UX, Mobile App, Web App, Branding, Creative Website Design, and Custom Development in Maadi, Cairo, Egypt",
+                        "AlphaRoar\xae - Redefining Digital Creativity: Your Partner for UI/UX, Mobile App, Web App, Branding, Creative Website Design, and Custom Development in Dubai, United Arab Emirates",
                     },
                     "desc"
                   ),
@@ -1128,7 +1128,7 @@
                   (0, s.jsx)("meta", {
                     property: "og:description",
                     content:
-                      "AlphaRoar\xae - Redefining Digital Creativity: Your Partner for UI/UX, Mobile App, Web App, Branding, Creative Website Design, and Custom Development in Maadi, Cairo, Egypt",
+                      "AlphaRoar\xae - Redefining Digital Creativity: Your Partner for UI/UX, Mobile App, Web App, Branding, Creative Website Design, and Custom Development in Dubai, United Arab Emirates",
                   }),
                   (0, s.jsx)("meta", {
                     property: "og:image",

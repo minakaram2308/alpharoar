@@ -289,7 +289,7 @@
                             children: "AlphaRoar | Contact Us"
                         }), (0, l.jsx)("meta", {
                             name: "description",
-                            content: "AlphaRoar\xae - Your Design, Development, and Branding Partner in Maadi, Cairo, Egypt"
+                            content: "AlphaRoar\xae - Your Design, Development, and Branding Partner in Dubai, United Arab Emirates"
                         }, "desc"), (0, l.jsx)("meta", {
                             property: "og:type",
                             content: "website"
@@ -301,7 +301,7 @@
                             content: "AlphaRoar | Contact Us"
                         }), (0, l.jsx)("meta", {
                             property: "og:description",
-                            content: "AlphaRoar\xae - Your Design, Development, and Branding Partner in Maadi, Cairo, Egypt"
+                            content: "AlphaRoar\xae - Your Design, Development, and Branding Partner in Dubai, United Arab Emirates"
                         }), (0, l.jsx)("meta", {
                             property: "og:image",
                             content: v.ogLogo.src
@@ -767,7 +767,7 @@
                                         })]
                                     }), (0, l.jsx)(g.Z, {
                                         type: "h4",
-                                        content: 'AlphaRoar<sup class="text-base">&reg;</sup> <br class="hidden sm:block" /><br />Maadi, Cairo, Egypt.'
+                                        content: 'AlphaRoar<sup class="text-base">&reg;</sup> <br class="hidden sm:block" /><br />Dubai, United Arab Emirates.'
                                     })]
                                 }), (0, l.jsx)("div", {
                                     className: "tr__fadeUp h-8",

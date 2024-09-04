@@ -33871,24 +33871,6 @@
                             }),
                             (0, tn.jsxs)("div", {
                               className:
-                                "tr__footer__contact__block tr__fadeUp",
-                              children: [
-                                (0, tn.jsx)("span", {
-                                  children: "Call",
-                                }),
-                                (0, tn.jsx)("h4", {
-                                  className: "overflow-visible",
-                                  children: (0, tn.jsx)(tc(), {
-                                    href: "tel:+919824182099",
-                                    className:
-                                      "tr__cursor__hoverable tr__magnetic inline-block",
-                                    children: "+20 01203164855",
-                                  }),
-                                }),
-                              ],
-                            }),
-                            (0, tn.jsxs)("div", {
-                              className:
                                 "tr__footer__contact__block lg:text-right tr__fadeUp",
                               children: [
                                 (0, tn.jsx)("span", {
@@ -34077,15 +34059,6 @@
                           children: (0, tn.jsx)("span", {
                             children: "info@alpharoar-uae.com",
                           }),
-                        }),
-                      }),
-                      (0, tn.jsx)("p", {
-                        className:
-                          "tr__navigations__phone tr__cursor__hoverable mb-8 invisible",
-                        children: (0, tn.jsx)("a", {
-                          href: "tel:+919824182099",
-                          className: "inline-block tr__magnetic",
-                          children: "+20 01203164855",
                         }),
                       }),
                       (0, tn.jsx)("div", {
