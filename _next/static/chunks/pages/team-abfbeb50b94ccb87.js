@@ -356,7 +356,7 @@
                             httpEquiv: "X-UA-Compatible",
                             content: "IE=edge"
                         }), (0, n.jsx)("title", {
-                            children: "AlphaRoar | Team"
+                            children: "AlphaRoar® | Team"
                         }), (0, n.jsx)("meta", {
                             name: "description",
                             content: "AlphaRoar\xae - Experience the Brilliance of Our Creative, Innovative, and Experienced Web and Software Development Team."
@@ -368,7 +368,7 @@
                             content: "https://AlphaRoar.com/"
                         }), (0, n.jsx)("meta", {
                             property: "og:title",
-                            content: "AlphaRoar | Team"
+                            content: "AlphaRoar® | Team"
                         }), (0, n.jsx)("meta", {
                             property: "og:description",
                             content: "AlphaRoar\xae - Experience the Brilliance of Our Creative, Innovative, and Experienced Web and Software Development Team."

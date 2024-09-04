@@ -1101,7 +1101,7 @@
                   }),
                   (0, s.jsx)("title", {
                     children:
-                      "AlphaRoar | Crafting Award-Winning Digital Journeys.",
+                      "AlphaRoar® | Crafting Tailored Solutions in Web, Mobile, Software Design and Development.",
                   }),
                   (0, s.jsx)(
                     "meta",
@@ -1123,7 +1123,7 @@
                   (0, s.jsx)("meta", {
                     property: "og:title",
                     content:
-                      "AlphaRoar | Crafting Award-Winning Digital Journeys.",
+                      "AlphaRoar® | Crafting Tailored Solutions in Web, Mobile, Software Design and Development.",
                   }),
                   (0, s.jsx)("meta", {
                     property: "og:description",

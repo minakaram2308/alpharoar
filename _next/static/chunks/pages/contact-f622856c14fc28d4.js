@@ -286,7 +286,7 @@
                             httpEquiv: "X-UA-Compatible",
                             content: "IE=edge"
                         }), (0, l.jsx)("title", {
-                            children: "AlphaRoar | Contact Us"
+                            children: "AlphaRoar® | Contact Us"
                         }), (0, l.jsx)("meta", {
                             name: "description",
                             content: "AlphaRoar\xae - Your Design, Development, and Branding Partner in Dubai, United Arab Emirates"
@@ -298,7 +298,7 @@
                             content: "https://AlphaRoar.com/"
                         }), (0, l.jsx)("meta", {
                             property: "og:title",
-                            content: "AlphaRoar | Contact Us"
+                            content: "AlphaRoar® | Contact Us"
                         }), (0, l.jsx)("meta", {
                             property: "og:description",
                             content: "AlphaRoar\xae - Your Design, Development, and Branding Partner in Dubai, United Arab Emirates"
