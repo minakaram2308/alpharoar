@@ -33641,7 +33641,7 @@
             (0, tn.jsx)(e_(), {
               children: (0, tn.jsx)("link", {
                 rel: "icon",
-                href: "/favicon.svg",
+                href: "/favicon.png",
               }),
             }),
             (0, tn.jsx)(eC(), {
