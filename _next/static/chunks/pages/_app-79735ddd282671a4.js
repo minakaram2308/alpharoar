@@ -33666,7 +33666,10 @@
                     className:
                       "relative left-1/2 top-14 md:top-10 -translate-x-2/4 flex justify-center items-center space-x-1",
                     style: {
-                      height: "1px",
+                      height: '86px',
+                      top: '0',
+                      alignItems: 'center',
+                      display: 'flex',
                     },
                     children: [
                       (0, tn.jsx)("div", {
